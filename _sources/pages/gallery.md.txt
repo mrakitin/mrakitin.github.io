@@ -85,45 +85,6 @@ System Administrator, Dept. of General and Theoretical Physics
 :gutter: 3
 
 :::{grid-item-card}
-```{image} ../_static/gallery/SRW-gui.png
-:alt: TkInter GUI for SRW
-:width: 100%
-```
-^^^
-**[TkInter GUI for SRW](https://github.com/mrakitin/SRW-gui)**
-
-Prototype desktop GUI for Synchrotron Radiation Workshop (SRW), developed as a job-interview demo at BNL.
-
-[Jul 2015]{.cv-date}
-:::
-
-:::{grid-item-card}
-```{image} ../_static/gallery/TATS.png
-:alt: TEP Automated Testing System (TATS)
-:width: 100%
-```
-^^^
-**TEP Automated Testing System (TATS)**
-
-End-to-end automated testing framework for the TEP mainframe emulator product at Applied Technologies / Rocket Software.
-
-[Aug 2011 – Oct 2013]{.cv-date}
-:::
-
-:::{grid-item-card}
-```{image} ../_static/gallery/USPEX-api.png
-:alt: Stokes Random-Cell Generator API
-:width: 100%
-```
-^^^
-**[Stokes Random-Cell Generator API](https://uspex.stonybrook.edu)**
-
-Simplified REST API for on-the-fly generation of random crystal cells, part of USPEX online utilities at Stony Brook University.
-
-[Jun 2015]{.cv-date}
-:::
-
-:::{grid-item-card}
 ```{image} ../_static/gallery/bluesky-overview.png
 :alt: Bluesky Ecosystem
 :width: 100%
@@ -134,6 +95,19 @@ Simplified REST API for on-the-fly generation of random crystal cells, part of U
 Architecture overview of the Bluesky experiment orchestration ecosystem: run engine, ophyd device layer, databroker, and associated tools developed at NSLS-II.
 
 [Nov 2017 – present]{.cv-date}
+:::
+
+:::{grid-item-card}
+```{image} ../_static/gallery/TES-blop.jpg
+:alt: Autonomous Beamline Alignment (BLOP)
+:width: 100%
+```
+^^^
+**[Autonomous Beamline Alignment (BLOP)](https://doi.org/10.1107/S1600577524008993)**
+
+Four beam configurations on the NSLS-II TES (8-BM) beamline: upper-left shows the initial beam; lower-right shows the optimal alignment. Six degrees of freedom (KB mirror translations/rotations and toroidal mirror pitch/translation) are tuned to maximize flux density. From [Morris et al., J. Synchrotron Rad. **31**, 1446 (2024)](https://doi.org/10.1107/S1600577524008993).
+
+[2024]{.cv-date}
 :::
 
 :::{grid-item-card}
@@ -150,16 +124,42 @@ Sirepo — a cloud-based web interface for X-ray source and optics simulations p
 :::
 
 :::{grid-item-card}
-```{image} ../_static/gallery/TES-blop.jpg
-:alt: Autonomous Beamline Alignment (BLOP)
+```{image} ../_static/gallery/SRW-gui.png
+:alt: TkInter GUI for SRW
 :width: 100%
 ```
 ^^^
-**[Autonomous Beamline Alignment (BLOP)](https://doi.org/10.1107/S1600577524008993)**
+**[TkInter GUI for SRW](https://github.com/mrakitin/SRW-gui)**
 
-Four beam configurations on the NSLS-II TES (8-BM) beamline: upper-left shows the initial beam; lower-right shows the optimal alignment. Six degrees of freedom (KB mirror translations/rotations and toroidal mirror pitch/translation) are tuned to maximize flux density. From [Morris et al., J. Synchrotron Rad. **31**, 1446 (2024)](https://doi.org/10.1107/S1600577524008993).
+Prototype desktop GUI for Synchrotron Radiation Workshop (SRW), developed as a job-interview demo at BNL.
 
-[2024]{.cv-date}
+[Jul 2015]{.cv-date}
+:::
+
+:::{grid-item-card}
+```{image} ../_static/gallery/USPEX-api.png
+:alt: Stokes Random-Cell Generator API
+:width: 100%
+```
+^^^
+**[Stokes Random-Cell Generator API](https://uspex.stonybrook.edu)**
+
+Simplified REST API for on-the-fly generation of random crystal cells, part of USPEX online utilities at Stony Brook University.
+
+[Jun 2015]{.cv-date}
+:::
+
+:::{grid-item-card}
+```{image} ../_static/gallery/TATS.png
+:alt: TEP Automated Testing System (TATS)
+:width: 100%
+```
+^^^
+**TEP Automated Testing System (TATS)**
+
+End-to-end automated testing framework for the TEP mainframe emulator product at Applied Technologies / Rocket Software.
+
+[Aug 2011 – Oct 2013]{.cv-date}
 :::
 
 ::::
