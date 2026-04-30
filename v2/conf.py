@@ -1,0 +1,61 @@
+# Sphinx configuration for mrakitin/CV
+
+import datetime
+
+# ── Project info ──────────────────────────────────────────────────────────────
+project   = "Max Rakitin — CV"
+author    = "Max Rakitin"
+copyright = f"2015–{datetime.date.today().year}, {author}"
+release   = ""
+
+# ── Extensions ────────────────────────────────────────────────────────────────
+extensions = [
+    "myst_parser",
+    "sphinx_design",
+]
+
+myst_enable_extensions = ["colon_fence", "fieldlist", "attrs_inline"]
+
+# ── Source ────────────────────────────────────────────────────────────────────
+source_suffix = {
+    ".rst": "restructuredtext",
+    ".md":  "markdown",
+}
+master_doc = "index"
+exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
+
+# ── HTML output ───────────────────────────────────────────────────────────────
+html_theme = "pydata_sphinx_theme"
+
+html_theme_options = {
+    "github_url":        "https://github.com/mrakitin",
+    "navbar_end":        ["theme-switcher", "navbar-icon-links"],
+    "secondary_sidebar_items": ["page-toc"],
+    "footer_start":      ["copyright"],
+    "footer_end":        [],
+    "show_toc_level":    2,
+    "navigation_depth":  2,
+    "logo": {
+        "text": "Max Rakitin",
+        "image_light": "_static/profile.jpg",
+        "image_dark":  "_static/profile.jpg",
+    },
+}
+
+html_title  = "Max Rakitin — CV"
+html_short_title = "CV"
+html_favicon = "_static/favicon.png"
+
+# Base URL for the deployed site (root of mrakitin.github.io)
+html_baseurl = "https://mrakitin.github.io/"
+
+# Copy PDF files into _static so they can be downloaded
+html_static_path = ["_static"]
+
+html_css_files = ["custom.css"]
+
+# Sidebar links to PDF downloads
+html_context = {}
+
+# ── Misc ──────────────────────────────────────────────────────────────────────
+nitpicky = False
