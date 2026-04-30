@@ -107,7 +107,7 @@ Architecture overview of the Bluesky experiment orchestration ecosystem: run eng
 
 Four beam configurations on the NSLS-II TES (8-BM) beamline: upper-left shows the initial beam; lower-right shows the optimal alignment. Six degrees of freedom (KB mirror translations/rotations and toroidal mirror pitch/translation) are tuned to maximize flux density. From [Morris et al., J. Synchrotron Rad. **31**, 1446 (2024)](https://doi.org/10.1107/S1600577524008993).
 
-[2024]{.cv-date}
+[2020 – present]{.cv-date}
 :::
 
 :::{grid-item-card}
