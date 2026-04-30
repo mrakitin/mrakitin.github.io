@@ -40,6 +40,9 @@ Upton, NY ([https://www.bnl.gov](https://www.bnl.gov)).
 
 **Supervisor:** Dr. Stuart Campbell
 
+
+## Projects:
+
 - **Bluesky** — a library for experiment control and collection of scientific data and metadata, [https://blueskyproject.io/bluesky](https://blueskyproject.io/bluesky).
 
 - **Ophyd** — a device abstraction library, [https://blueskyproject.io/ophyd](https://blueskyproject.io/ophyd).
@@ -50,11 +53,17 @@ Upton, NY ([https://www.bnl.gov](https://www.bnl.gov)).
 
 - Many other related software projects.
 
+
+## Funded Projects (PI roles):
+
 - **LDRD Type B “Simulation-aided Instrument Optimization Using Artificial Intelligence and Machine Learning Methods”** (LDRD #22-031, FY2022–FY2024, Oct. 2021–Sep. 2023) — PI: M. Rakitin, co-PIs: Y. Du, M. Fedurin. BNL Laboratory-Directed Research and Development project, [https://www.osti.gov/biblio/1972474](https://www.osti.gov/biblio/1972474).
 
 - **DOE SBIR “X-ray Beamline Control with an Online Model for Automated Tuning and Reconfiguration”** (Award No. DE-SC0020593, 2020–2023) — PI at BNL (subcontract). Lead organization: RadiaSoft, LLC (PI: B. Nash).
 
 - **DOE SBIR “An Integrated Platform for High Performance Data Management and Analysis at X-ray Light Sources”** (Award No. DE-SC0021553, 2021–2024) — PI at BNL (subcontract). Lead organization: RadiaSoft, LLC (PI: N. Cook).
+
+
+## Responsibilities:
 
 - Scientific software development & maintenance.
 
@@ -79,6 +88,9 @@ Laboratory*, Upton, NY ([https://www.bnl.gov](https://www.bnl.gov)).
 
 **Supervisor:** Dr. Oleg Tchoubar (Chubar)
 
+
+## Projects:
+
 - **Synchrotron Radiation Workshop (SRW)** — computer code for X-ray source and optics simulations, [https://github.com/ochubar/SRW](https://github.com/ochubar/SRW).
 
 - **Sirepo** — a cloud-based framework for SRW, [https://github.com/radiasoft/sirepo](https://github.com/radiasoft/sirepo).
@@ -86,6 +98,9 @@ Laboratory*, Upton, NY ([https://www.bnl.gov](https://www.bnl.gov)).
 - **Image processing and data visualization**, [https://github.com/mrakitin/plotting](https://github.com/mrakitin/plotting) and [https://github.com/mrakitin/experiments](https://github.com/mrakitin/experiments).
 
 - **CRL simulator** — a code for simulation of a transfocator (compound refractive lenses (CRL) for X-ray focusing), [https://github.com/mrakitin/bnlcrl](https://github.com/mrakitin/bnlcrl).
+
+
+## Responsibilities:
 
 - Adding new functionality to Sirepo (*e.g.*, new optical elements, new reports, [implementation](https://github.com/radiasoft/sirepo/wiki/Dynamical-access-of-crystal-data-and-optical-constants-from-external-servers) of dynamical access of crystal data and optical constants from external servers).
 
@@ -121,11 +136,17 @@ Department of Geosciences, Stony Brook University*, Stony Brook, NY
 
 **Supervisor:** Prof. Artem R. Oganov
 
+
+## Projects:
+
 - Refactoring of [USPEX](https://uspex-team.org/en/uspex) code and porting it from Matlab to Python using modern programming techniques.
 
 - *Ab initio* investigation of BeF_2 and SiO_2 systems in a wide pressures range ([paper](https://doi.org/10.1039/C5CP04010H)) using [USPEX](https://uspex-team.org/en/uspex), [VASP](https://vasp.at), [Quantum Espresso](https://www.quantum-espresso.org), [Phonopy](https://phonopy.github.io/phonopy/).
 
 - Prediction of secondary structures of proteins from knowledge of sequences of amino acids. Development of USPEX interface for [Tinker](https://dasher.wustl.edu/tinker/).
+
+
+## Responsibilities:
 
 - Main developer of the project on rewriting [USPEX](https://uspex-team.org/en/uspex) in Python with use of NumPy, SciPy, TkInter, *etc*. Web-based API creation.
 
@@ -152,7 +173,13 @@ South Ural State University*, Chelyabinsk, Russia ([https://www.susu.ru/en](http
 
 **Supervisor:** Prof. Alexander A. Mirzoev
 
+
+## Projects:
+
 - Performing research on investigating influence of hydrogen on structure and properties of iron-based alloys using DFT methods ([WIEN2k](http://www.wien2k.at)).
+
+
+## Responsibilities:
 
 - Development of bash/Python utilities for monitoring WIEN2k calculations in PBS/Torque and SLURM queues and for processing data of calculations, developing mail notification system for the calculations.
 
@@ -169,6 +196,9 @@ Chelyabinsk, Russia ([https://www.appliedtech.ru/en/](https://www.appliedtech.ru
 Software Inc., USA ([https://www.rocketsoftware.com](https://www.rocketsoftware.com))
 
 **Supervisor:** Valery Ermakov, CEO
+
+
+## Projects:
 
 - Tivoli Enterprise Portal (TEP) (August 2011 – October 2013) — QA team leader. Responsibilities: software testing on Windows, Linux, Linux on z, z/OS operating systems, GUI testing automation using [IBM Rational Functional Tester](https://www.ibm.com/docs/en/rft/latest), creation of TEP Automated Testing System (TATS) for automatic data verification using Python, REST API, JSON, XML, PHP, HTML, JavaScript, jQuery in six TEP-enabled products:
   - https://www.ibm.com/docs/en/adv-rpt-dfsmshsm/latest

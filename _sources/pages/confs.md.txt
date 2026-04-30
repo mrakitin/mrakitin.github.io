@@ -1,7 +1,7 @@
 # Conferences & Talks
 
 **2024.09**
-**Invited talk** — *Automated
+**[Invited talk]{.cv-red}** — *Automated
 Beamline Alignment and Experiment Steering*
 [🔗](https://www6.slac.stanford.edu/events/2024-09-22-2024-ssrllcls-users-meeting),
 SSRL/LCLS Users' Meeting, “MFX-HE: Opportunities for High-Throughput
@@ -9,13 +9,13 @@ Multimodal Structural Studies and Their Computational Challenges” Workshop,
 Menlo Park, CA
 
 **2024.09**
-**Workshop organizer** —
+**[Workshop organizer]{.cv-red}** —
 *Bluesky and Bluesky-Queueserver tutorials*
 [🔗](https://conference.sns.gov/event/448/page/3139-workgroups-and-training),
 EPICS Meeting, Oak Ridge National Laboratory, Oak Ridge, TN
 
 **2023.11**
-**Invited talk** — *Bluesky for
+**[Invited talk]{.cv-red}** — *Bluesky for
 Multimodal Studies at NSLS-II*
 [🔗](https://www.lorentzcenter.nl/integrating-acquisition-and-ai-in-tomography.html),
 “Integrating acquisition and AI in tomography” Workshop,
@@ -29,7 +29,7 @@ Computational Methods for X-Ray Optics VI
 San Diego, CA
 
 **2023.05**
-**Invited teacher** at *Beamline
+**[Invited teacher]{.cv-red}** at *Beamline
 and Optics Modeling School*
 [🔗](https://als.lbl.gov/beamline-optics-and-modeling-school-bloms-2023/),
 Advanced Light Source, Berkeley, CA
@@ -50,14 +50,14 @@ Artificial Intelligence and Machine Learning Methods*
 Brookhaven National Laboratory, Upton, NY
 
 **2022.08**
-**Invited talk** — *Automated
+**[Invited talk]{.cv-red}** — *Automated
 beamline alignment at NSLS-II*
 [🔗](https://als.lbl.gov/2022-user-meeting-workshops-tutorials/), ALS
 User Meeting, “Instrumentation and Computation for the Upgraded ALS” Workshop,
 Virtual Meeting
 
 **2022.05**
-**Invited talk** — *24/7 access
+**[Invited talk]{.cv-red}** — *24/7 access
 to your virtual beamline with Sirepo*
 [🔗](https://www.bnl.gov/usersmeeting/events/),
 NSLS-II & CFN Users' Meeting,
@@ -65,13 +65,13 @@ Workshop 6 — “Data Access and Machine Learning at NSLS-II”,
 Brookhaven National Laboratory, Upton, NY
 
 **2022.03**
-**Invited talk** — *Next
+**[Invited talk]{.cv-red}** — *Next
 generation experimental data access at NSLS-II*
 [🔗](https://www.sri2021.eu/programme/invited_speakers/),
 SRI2021, Virtual Conference
 
 **2020.02**
-**Invited talk** — *Bluesky
+**[Invited talk]{.cv-red}** — *Bluesky
 Data Collection Framework*, Canadian Light Source, Saskatoon, Canada
 
 **2019.10**
@@ -93,14 +93,14 @@ LBNL, Berkeley, CA
 LBNL, Berkeley, CA
 
 **2019.01**
-**Invited talk** — *Bluesky,
+**[Invited talk]{.cv-red}** — *Bluesky,
 ophyd, pseudo motors, detectors*
 [🔗](https://github.com/mrakitin/Berlin-2019-tutorials-workshop),
 Automation in Beamline Control and Data Acquisition workshop,
 HZB, BESSY-II, Berlin, Germany
 
 **2019.01**
-**Invited tutorials on Sirepo and Bluesky**
+**[Invited tutorials on Sirepo and Bluesky]{.cv-red}**
 [🔗](https://github.com/mrakitin/Berlin-2019-tutorials-workshop),
 Automation in Beamline Control and Data Acquisition workshop,
 HZB, BESSY-II, Berlin, Germany
@@ -138,7 +138,7 @@ interface for X-ray source and optics simulations*, NSLS-II Lunchtime seminar,
 Brookhaven National Laboratory, Upton, NY
 
 **2017.08**
-**Invited talk** — *Sirepo: a
+**[Invited talk]{.cv-red}** — *Sirepo: a
 web-based interface for physical optics simulations — its deployment and use
 at NSLS-II*, SPIE Optical Engineering + Applications
 [🔗](https://doi.org/10.1117/12.2274031),
@@ -180,7 +180,7 @@ SR Sources and X-Ray Optics”*,
 NSLS-II, Brookhaven National Laboratory, Upton, NY
 
 **2015.07**
-**Invited talk** — *Crystal and
+**[Invited talk]{.cv-red}** — *Crystal and
 protein structure modeling, software development and applications*, Brookhaven
 National Laboratory, Upton, NY
 
@@ -193,7 +193,7 @@ Stony Brook University, Stony Brook, NY
 Stony Brook University, Stony Brook, NY
 
 **2015.04**
-**Invited talk** — *Crystal
+**[Invited talk]{.cv-red}** — *Crystal
 structure prediction from first principles*
 [🔗](https://www.physik.hu-berlin.de/en/),
 Humboldt-Universit\"at zu Berlin, Institut f\"ur Physik, Berlin, Germany
@@ -216,7 +216,7 @@ Stony Brook University, Stony Brook, NY
 Group seminar, Stony Brook University, Stony Brook, NY
 
 **2014.11**
-**Invited tutor** — *Theory and
+**[Invited tutor]{.cv-red}** — *Theory and
 Computation for Interface Science and Catalysis: Fundamentals, Research and
 Hands on Engagement using VASP*
 [🔗](https://wiki.bnl.gov/CFN-Computation/index.php/Workshop2014)

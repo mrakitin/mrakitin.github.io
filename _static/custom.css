@@ -2,3 +2,13 @@
 .bd-content dt {
     font-weight: 600;
 }
+
+/* Red highlight for invited talks / special roles (mirrors \textcolor{red} in LaTeX) */
+.cv-red {
+    color: #c0392b;
+}
+
+/* Dark mode: use a lighter red so it's readable on dark backgrounds */
+[data-theme="dark"] .cv-red {
+    color: #e74c3c;
+}
