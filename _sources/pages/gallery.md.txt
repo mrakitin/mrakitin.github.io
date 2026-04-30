@@ -79,6 +79,54 @@ System Administrator, Dept. of General and Theoretical Physics
 
 ---
 
+## Software Projects
+
+::::{grid} 1 2 3 3
+:gutter: 3
+
+:::{grid-item-card}
+```{image} ../_static/gallery/SRW-gui.png
+:alt: TkInter GUI for SRW
+:width: 100%
+```
+^^^
+**[TkInter GUI for SRW](https://github.com/mrakitin/SRW-gui)**
+
+Prototype desktop GUI for Synchrotron Radiation Workshop (SRW), developed as a job-interview demo at BNL.
+
+[Jul 2015]{.cv-date}
+:::
+
+:::{grid-item-card}
+```{image} ../_static/gallery/TATS.png
+:alt: TEP Automated Testing System (TATS)
+:width: 100%
+```
+^^^
+**TEP Automated Testing System (TATS)**
+
+End-to-end automated testing framework for the TEP mainframe emulator product at Applied Technologies / Rocket Software.
+
+[Aug 2011 – Oct 2013]{.cv-date}
+:::
+
+:::{grid-item-card}
+```{image} ../_static/gallery/USPEX-api.png
+:alt: Stokes Random-Cell Generator API
+:width: 100%
+```
+^^^
+**[Stokes Random-Cell Generator API](https://uspex.stonybrook.edu)**
+
+Simplified REST API for on-the-fly generation of random crystal cells, part of USPEX online utilities at Stony Brook University.
+
+[Jun 2015]{.cv-date}
+:::
+
+::::
+
+---
+
 ## Selected Publications
 
 ::::{grid} 2 3 4 5
