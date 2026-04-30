@@ -41,7 +41,7 @@ Upton, NY ([https://www.bnl.gov](https://www.bnl.gov)).
 **Supervisor:** Dr. Stuart Campbell
 
 
-## Projects:
+## Software Projects:
 
 - **Bluesky** — a library for experiment control and collection of scientific data and metadata, [https://blueskyproject.io/bluesky](https://blueskyproject.io/bluesky).
 
@@ -89,7 +89,7 @@ Laboratory*, Upton, NY ([https://www.bnl.gov](https://www.bnl.gov)).
 **Supervisor:** Dr. Oleg Tchoubar (Chubar)
 
 
-## Projects:
+## Software Projects:
 
 - **Synchrotron Radiation Workshop (SRW)** — computer code for X-ray source and optics simulations, [https://github.com/ochubar/SRW](https://github.com/ochubar/SRW).
 
@@ -137,7 +137,7 @@ Department of Geosciences, Stony Brook University*, Stony Brook, NY
 **Supervisor:** Prof. Artem R. Oganov
 
 
-## Projects:
+## Software Projects:
 
 - Refactoring of [USPEX](https://uspex-team.org/en/uspex) code and porting it from Matlab to Python using modern programming techniques.
 
@@ -174,7 +174,7 @@ South Ural State University*, Chelyabinsk, Russia ([https://www.susu.ru/en](http
 **Supervisor:** Prof. Alexander A. Mirzoev
 
 
-## Projects:
+## Software Projects:
 
 - Performing research on investigating influence of hydrogen on structure and properties of iron-based alloys using DFT methods ([WIEN2k](http://www.wien2k.at)).
 
@@ -198,7 +198,7 @@ Software Inc., USA ([https://www.rocketsoftware.com](https://www.rocketsoftware.
 **Supervisor:** Valery Ermakov, CEO
 
 
-## Projects:
+## Software Projects:
 
 - Tivoli Enterprise Portal (TEP) (August 2011 – October 2013) — QA team leader. Responsibilities: software testing on Windows, Linux, Linux on z, z/OS operating systems, GUI testing automation using [IBM Rational Functional Tester](https://www.ibm.com/docs/en/rft/latest), creation of TEP Automated Testing System (TATS) for automatic data verification using Python, REST API, JSON, XML, PHP, HTML, JavaScript, jQuery in six TEP-enabled products:
   - https://www.ibm.com/docs/en/adv-rpt-dfsmshsm/latest
