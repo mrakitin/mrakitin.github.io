@@ -43,15 +43,15 @@ Upton, NY ([https://www.bnl.gov](https://www.bnl.gov)).
 
 ## Software Projects:
 
-- **Bluesky** — a library for experiment control and collection of scientific data and metadata, {octicon}`book;1em` [docs](https://blueskyproject.io/bluesky), {octicon}`mark-github;1em` [GitHub](https://github.com/bluesky/bluesky).
+- **Bluesky** — a library for experiment control and collection of scientific data and metadata, {octicon}`book;1em` [docs](https://blueskyproject.io/bluesky), {octicon}`mark-github;1em` [bluesky/bluesky](https://github.com/bluesky/bluesky).
 
-- **Ophyd** — a device abstraction library, {octicon}`book;1em` [docs](https://blueskyproject.io/ophyd), {octicon}`mark-github;1em` [GitHub](https://github.com/bluesky/ophyd).
+- **Ophyd** — a device abstraction library, {octicon}`book;1em` [docs](https://blueskyproject.io/ophyd), {octicon}`mark-github;1em` [bluesky/ophyd](https://github.com/bluesky/ophyd).
 
-- **Databroker** — a simple, user-friendly interface for retrieving stored data and metadata from multiple sources, {octicon}`book;1em` [docs](https://blueskyproject.io/databroker), {octicon}`mark-github;1em` [GitHub](https://github.com/bluesky/databroker).
+- **Databroker** — a simple, user-friendly interface for retrieving stored data and metadata from multiple sources, {octicon}`book;1em` [docs](https://blueskyproject.io/databroker), {octicon}`mark-github;1em` [bluesky/databroker](https://github.com/bluesky/databroker).
 
-- **Sirepo-Bluesky** — an interface library between the **Bluesky** data acquisition framework and the **Sirepo** browser-based interface framework to beamline and accelerator simulation codes, {octicon}`book;1em` [docs](https://nsls-ii.github.io/sirepo-bluesky/), {octicon}`mark-github;1em` [GitHub](https://github.com/NSLS-II/sirepo-bluesky).
+- **Sirepo-Bluesky** — an interface library between the **Bluesky** data acquisition framework and the **Sirepo** browser-based interface framework to beamline and accelerator simulation codes, {octicon}`book;1em` [docs](https://nsls-ii.github.io/sirepo-bluesky/), {octicon}`mark-github;1em` [NSLS-II/sirepo-bluesky](https://github.com/NSLS-II/sirepo-bluesky).
 
-- **Blop** — a Bayesian optimization library for autonomous experiment control, {octicon}`book;1em` [docs](https://blueskyproject.io/blop/), {octicon}`mark-github;1em` [GitHub](https://github.com/bluesky/blop).
+- **Blop** — a Bayesian optimization library for autonomous experiment control, {octicon}`book;1em` [docs](https://blueskyproject.io/blop/), {octicon}`mark-github;1em` [bluesky/blop](https://github.com/bluesky/blop).
 
 
 ## Funded Projects (PI roles):
@@ -91,13 +91,13 @@ Laboratory*, Upton, NY ([https://www.bnl.gov](https://www.bnl.gov)).
 
 ## Software Projects:
 
-- **Synchrotron Radiation Workshop (SRW)** — computer code for X-ray source and optics simulations, [https://github.com/ochubar/SRW](https://github.com/ochubar/SRW).
+- **Synchrotron Radiation Workshop (SRW)** — computer code for X-ray source and optics simulations, {octicon}`mark-github;1em` [ochubar/SRW](https://github.com/ochubar/SRW).
 
-- **Sirepo** — a cloud-based framework for SRW, [https://github.com/radiasoft/sirepo](https://github.com/radiasoft/sirepo).
+- **Sirepo** — a cloud-based framework for SRW, {octicon}`mark-github;1em` [radiasoft/sirepo](https://github.com/radiasoft/sirepo).
 
-- **Image processing and data visualization**, [https://github.com/mrakitin/plotting](https://github.com/mrakitin/plotting) and [https://github.com/mrakitin/experiments](https://github.com/mrakitin/experiments).
+- **Image processing and data visualization**, {octicon}`mark-github;1em` [mrakitin/plotting](https://github.com/mrakitin/plotting) and {octicon}`mark-github;1em` [mrakitin/experiments](https://github.com/mrakitin/experiments).
 
-- **CRL simulator** — a code for simulation of a transfocator (compound refractive lenses (CRL) for X-ray focusing), [https://github.com/mrakitin/bnlcrl](https://github.com/mrakitin/bnlcrl).
+- **CRL simulator** — a code for simulation of a transfocator (compound refractive lenses (CRL) for X-ray focusing), {octicon}`mark-github;1em` [mrakitin/bnlcrl](https://github.com/mrakitin/bnlcrl).
 
 
 ## Responsibilities:
