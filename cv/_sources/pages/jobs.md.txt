@@ -1,0 +1,300 @@
+# Experience
+
+**2024.06–present**
+**Computational Scientist (RS-5)**, **Group Leader**,
+*Data Science and Systems Integration (DSSI) Division, Data Acquisition
+and Detectors Group, NSLS-II, Brookhaven National Laboratory*,
+Upton, NY ([https://www.bnl.gov](https://www.bnl.gov)).
+
+**Supervisor:** Dr. Stuart Wilkins
+
+**2023.01–2024.06**
+**Computational Scientist (RS-5)**, **Deputy Group Leader**,
+*Data Science and Systems Integration (DSSI) Program, Data Acquisition
+and Detectors Group, NSLS-II, Brookhaven National Laboratory*,
+Upton, NY ([https://www.bnl.gov](https://www.bnl.gov)).
+
+**Supervisor:** Dr. Thomas Caswell
+
+**2021.03–2022.12**
+**Associate Computational Scientist (RS-4)**, **Supervisor**,
+*Data Science and Systems Integration (DSSI)
+Program, NSLS-II, Brookhaven National Laboratory*,
+Upton, NY ([https://www.bnl.gov](https://www.bnl.gov)).
+
+**Supervisor:** Dr. Stuart Campbell
+
+**2019.10–2021.03**
+**Associate Computational Scientist**,
+*Data Acquisition, Management and Analysis (DAMA) Group, NSLS-II,
+Brookhaven National Laboratory*,
+Upton, NY ([https://www.bnl.gov](https://www.bnl.gov)).
+
+**Supervisor:** Dr. Stuart Campbell
+
+**2017.11–2019.09**
+**Assistant Computational Scientist**,
+*Data Acquisition, Management and Analysis (DAMA) Group, NSLS-II,
+Brookhaven National Laboratory*,
+Upton, NY ([https://www.bnl.gov](https://www.bnl.gov)).
+
+**Supervisor:** Dr. Stuart Campbell
+
+- **Bluesky** — a library for experiment control and collection
+- of scientific data and metadata, [https://blueskyproject.io/bluesky](https://blueskyproject.io/bluesky).
+
+- **Ophyd** — a device abstraction library,
+- [https://blueskyproject.io/ophyd](https://blueskyproject.io/ophyd).
+
+- **Databroker** — a simple, user-friendly interface for
+- retrieving stored data and metadata from multiple sources,
+- [https://blueskyproject.io/databroker](https://blueskyproject.io/databroker).
+
+- **Sirepo-Bluesky** — an interface library between the
+- **Bluesky** data acquisition framework and the **Sirepo**
+- browser-based interface framework to beamline and accelerator simulation codes,
+- [https://github.com/NSLS-II/sirepo-bluesky](https://github.com/NSLS-II/sirepo-bluesky).
+
+- Many other related software projects.
+
+- **LDRD Type B “Simulation-aided Instrument Optimization Using Artificial Intelligence
+- and Machine Learning Methods”** (LDRD #22-031, FY2022–FY2024, Oct. 2021–Sep. 2023) —
+- PI: M. Rakitin, co-PIs: Y. Du, M. Fedurin. BNL Laboratory-Directed Research and Development project,
+- [https://www.osti.gov/biblio/1972474](https://www.osti.gov/biblio/1972474).
+
+- **DOE SBIR “X-ray Beamline Control with an Online Model for Automated Tuning and
+- Reconfiguration”** (Award No. DE-SC0020593, 2020–2023) — PI at BNL (subcontract).
+- Lead organization: RadiaSoft, LLC (PI: B. Nash).
+
+- **DOE SBIR “An Integrated Platform for High Performance Data Management and
+- Analysis at X-ray Light Sources”** (Award No. DE-SC0021553, 2021–2024) — PI at BNL (subcontract).
+- Lead organization: RadiaSoft, LLC (PI: N. Cook).
+
+- Scientific software development & maintenance.
+
+- Packaging and maintenance of conda packages
+- (conda-forge, and formerly lightsource2-tag and
+- nsls2forge conda channels).
+
+- Deployment of the software with Ansible.
+
+- NSLS-II beamlines and users support.
+
+- Active collaboration with peers at other US DOE National Labs' User
+- Facilities (SLAC — LCLS & SSRL, LBNL — ALS, ANL — APS, ORNL — SNS) and
+- international facilities (DLS, PSI, BESSY-II, CLS, DESY).
+
+- Teaching people to use our software stack.
+
+- Mentor to student interns (summer 2016: 1 intern, summer 2018: 1
+- intern, summer 2019: 1 intern, spring and summer 2020: 2 interns, summer 2021:
+- 2 interns, summer 2023: 1 intern, summer 2024: co-mentor to 1 intern).
+
+
+---
+
+**2015.12–2017.10**
+**Research Associate (Postdoc)**, *NSLS-II, Brookhaven National
+Laboratory*, Upton, NY ([https://www.bnl.gov](https://www.bnl.gov)).
+
+**Supervisor:** Dr. Oleg Tchoubar (Chubar)
+
+- **Synchrotron Radiation Workshop (SRW)** — computer code for
+- X-ray source and optics simulations, [https://github.com/ochubar/SRW](https://github.com/ochubar/SRW).
+
+- **Sirepo** — a cloud-based framework for SRW,
+- [https://github.com/radiasoft/sirepo](https://github.com/radiasoft/sirepo).
+
+- **Image processing and data visualization**,
+- [https://github.com/mrakitin/plotting](https://github.com/mrakitin/plotting) and
+- [https://github.com/mrakitin/experiments](https://github.com/mrakitin/experiments).
+
+- **CRL simulator** — a code for simulation of a transfocator
+- (compound refractive lenses (CRL) for X-ray focusing),
+- [https://github.com/mrakitin/bnlcrl](https://github.com/mrakitin/bnlcrl).
+
+- Adding new functionality to Sirepo (*e.g.*, new optical
+- elements, new reports,
+- [implementation](https://github.com/radiasoft/sirepo/wiki/Dynamical-access-of-crystal-data-and-optical-constants-from-external-servers)
+- of dynamical access of crystal data and optical constants from external
+- servers).
+
+- Adding new functionality to SRW (*e.g.*, new optical
+- elements).
+
+- Creation of new SRW/Sirepo “virtual beamline” scripts/examples.
+
+- Creation and update of
+- [Sirepo](https://github.com/radiasoft/sirepo/wiki) &
+- [SRW](https://github.com/mrakitin/SRW/wiki) wiki documentation.
+
+- SRW & Sirepo users community support via GitHub issues, email
+- communication, *etc.*
+
+- Deployment of SRW & Sirepo to NSLS-II servers for usage by beamline
+- scientists.
+
+- Computational support for NSLS-II beamlines — carrying out
+- required SRW & Sirepo simulations.
+
+- Assistance with scan plans preparation using **Bluesky** data
+- collection framework and **ophyd** package for controlling motors,
+- detectors, *etc.*
+
+- Participation in X-ray experiments (SRX, ESM, SMI, CHX beamlines of
+- NSLS-II) — carrying out measurements and bulk data analysis, processing &
+- visualization using Python (NumPy, SciPy, Matplotlib, PIL, *etc.*; raw
+- data and images, NumPy arrays, HDF5 datasets).
+
+- Implementation and integration of samples simulation code for
+- coherent scattering experiments in SRW and Sirepo (collaborative project with
+- CFN).
+
+- Assisting with development of the Hartmann mask optical element in
+- SRW and its implementation in Sirepo (collaborative project with the Metrology
+- group of NSLS-II).
+
+- Tutorship of summer students.
+
+
+---
+
+**2013.10–2015.12**
+**Postdoctoral Associate (Postdoc)**, *Prof. Oganov's lab,
+Department of Geosciences, Stony Brook University*, Stony Brook, NY
+([https://stonybrook.edu](https://stonybrook.edu), [https://uspex-team.org/en/uspex](https://uspex-team.org/en/uspex)).
+
+**Supervisor:** Prof. Artem R. Oganov
+
+- Refactoring of
+- [USPEX](https://uspex-team.org/en/uspex) code and porting it from
+- Matlab to Python using modern programming techniques.
+
+- *Ab initio* investigation of BeF_2 and SiO_2 systems in
+- a wide pressures range
+- ([paper](https://doi.org/10.1039/C5CP04010H)) using
+- [USPEX](https://uspex-team.org/en/uspex),
+- [VASP](https://vasp.at),
+- [Quantum Espresso](https://www.quantum-espresso.org),
+- [Phonopy](https://phonopy.github.io/phonopy/).
+
+- Prediction of secondary structures of proteins from knowledge of
+- sequences of amino acids. Development of USPEX interface for
+- [Tinker](https://dasher.wustl.edu/tinker/).
+
+- Main developer of the project on rewriting
+- [USPEX](https://uspex-team.org/en/uspex) in Python with use of
+- NumPy, SciPy, TkInter, *etc*. Web-based API creation.
+
+- New
+- [releases](https://uspex-team.org/en/uspex/release)
+- of Matlab/Octave version (USPEX 9.4.1, 9.4.2, 9.4.3, 9.4.4), new features, bug
+- fixes, maintenance.
+
+- Development and maintenance of USPEX continuous integration system
+- (automatic nightly builds + testing).
+
+- Development of tests for USPEX interface with VASP, GULP, LAMMPS,
+- CASTEP, Quantum Espresso, SIESTA, CP2K, QuantumWise ATK, DMACRYS, Tinker,
+- FHI-aims.
+
+- Development and maintenance of online utilities
+- [https://uspex-team.org](https://uspex-team.org/en/uspex/tools) using
+- JavaScript, jQuery, PHP, HTML, JSON, REST API, WebGL, XML, SVN, interfaces to
+- Python, Fortran, Matlab programs, *etc.*
+
+- Installation, configuration, and maintenance of an instance of a
+- Trac system and SVN.
+
+- Creation and maintenance of
+- [USPEX manual](https://uspex-team.org/en/uspex/documentation) in LaTeX,
+- PDF, HTML formats.
+
+- https://groups.google.com/g/uspex USPEX
+- community support.
+
+
+---
+
+**2008.10–2013.09**
+**Researcher**, *Department of General and Theoretical Physics,
+South Ural State University*, Chelyabinsk, Russia ([https://www.susu.ru/en](https://www.susu.ru/en)).
+
+**Supervisor:** Prof. Alexander A. Mirzoev
+
+- Performing research on investigating influence of hydrogen on
+- structure and properties of iron-based alloys using DFT methods
+- ([WIEN2k](http://www.wien2k.at)).
+
+- Development of bash/Python utilities for monitoring WIEN2k
+- calculations in PBS/Torque and SLURM queues and for processing data of
+- calculations, developing mail notification system for the calculations.
+
+- Installation of WIEN2k on a PC and on the university supercomputers
+- (SKIF Ural, SKIF Aurora, Tornado).
+
+- Teaching and consulting students how to use WIEN2k both on a PC
+- and on supercomputers.
+
+
+---
+
+**2007.06–2013.10**
+**QA Engineer, QA Team Leader**, *Applied Technologies Ltd.*,
+Chelyabinsk, Russia ([https://www.appliedtech.ru/en/](https://www.appliedtech.ru/en/)), a partner of Rocket
+Software Inc., USA ([https://www.rocketsoftware.com](https://www.rocketsoftware.com))
+
+**Supervisor:** Valery Ermakov, CEO
+
+- Tivoli Enterprise Portal (TEP) (August 2011 – October 2013) — QA
+- team leader. Responsibilities: software testing on Windows, Linux, Linux on z,
+- z/OS operating systems, GUI testing automation using
+- [IBM Rational Functional
+- Tester](https://www.ibm.com/docs/en/rft/latest), creation of TEP Automated Testing System (TATS) for automatic data
+- verification using Python, REST API, JSON, XML, PHP, HTML, JavaScript, jQuery
+- in six TEP-enabled products:
+  - https://www.ibm.com/docs/en/adv-rpt-dfsmshsm/latest
+- Tivoli Advanced Reporting and Management for DFSMShsm;
+  - https://www.ibm.com/docs/en/adv-audit-dfsmshsm/latest
+- Tivoli Advanced Audit for DFSMShsm;
+  - https://www.ibm.com/docs/en/catalog-management/latest
+- Tivoli Advanced Catalog Management for z/OS;
+  - https://www.ibm.com/docs/en/backup-recovery/latest
+- Tivoli Advanced Backup and Recovery for z/OS;
+  - https://www.ibm.com/docs/en/tivoli-aam/latest
+- Tivoli Advanced Allocation Management;
+  - https://www.ibm.com/docs/en/auto-tape-alloc-mgr/latest
+- Tivoli Automated Tape Allocation Manager for z/OS.
+- Regular voice and video conversations with colleagues from the US.
+
+- https://www.ibm.com/docs/en/tsm/latest
+- Tivoli Storage Manager for z/OS Media (February 2011 – August 2011) — QA
+- engineer. Responsibilities: software testing on Windows, Linux on z, Solaris,
+- AIX, z/OS operating systems with IBM DB2 databases, testing automation using
+- IBM-developed tools, bash, batch.
+
+- https://www.ibm.com/docs/en/tivoli-aam/latest
+- IBM Tivoli Advanced Allocation Management (January 2009 – January 2011) —
+- QA engineer. Responsibilities: software testing on z/OS, testing automation
+- using bash, JCL, REXX. Regular voice and video conversations with colleagues
+- from the US.
+
+- https://www.rocketsoftware.com/products/rocket-servergraph
+- Rocket Servergraph Data Protection Expert (June 2007 – December 2008) — QA
+- engineer. Responsibilities: software testing on Windows, Linux, Solaris, HP-UX,
+- AIX operating systems with PostgreSQL databases, GUI testing automation using
+- AutoIt3, automation of data verification using Perl and SQL. Regular voice and
+- video conversations with colleagues from the US.
+
+
+---
+
+**2006–2007**
+**System administrator**, *Department of General and Theoretical
+Physics, South Ural State University*, Chelyabinsk, Russia
+([https://www.susu.ru/en](https://www.susu.ru/en)) 
+
+Administer, secure and support Windows and Linux systems. Support HTTP server
+(Apache), proxy server (Squid). Help others to troubleshoot operating system,
+software, hardware and other issues. Also support the testing system for
+students.

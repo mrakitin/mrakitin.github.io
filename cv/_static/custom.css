@@ -1,0 +1,4 @@
+/* Slightly tighten definition-list style entries */
+.bd-content dt {
+    font-weight: 600;
+}

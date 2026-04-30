@@ -1,0 +1,24 @@
+# Max Rakitin — Curriculum Vitae
+
+Welcome to the online version of my CV.
+The full document is also available as a PDF:
+
+- {download}`Full CV (PDF) <_static/RakitinM_CV.pdf>`
+- {download}`Publications (PDF) <_static/RakitinM_pubs.pdf>`
+
+---
+
+```{toctree}
+:maxdepth: 1
+:caption: Sections
+
+pages/about
+pages/jobs
+pages/edu
+pages/awards
+pages/skills
+pages/langs
+pages/pubs
+pages/confs
+pages/refs
+```

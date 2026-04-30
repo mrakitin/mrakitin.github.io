@@ -1,0 +1,20 @@
+# About
+
+**Name:**
+Max Rakitin (a.k.a. Maksim S. Rakitin)
+
+**Summary:**
+I am a group leader of the Data Acquisition and Detectors
+group of the Data Science and Systems Integration Division of NSLS-II, BNL.
+
+**News:**
+“Computer, Is My Experiment Finished?” (September 16,
+2022)
+
+[https://www.bnl.gov/newsroom/news.php?a=220832](https://www.bnl.gov/newsroom/news.php?a=220832)
+
+ “Seeing
+the Forest Through the Trees: Brookhaven Lab Scientists Develop New
+Computational Approach to Reduce Noise in X-ray Data.” (April 18, 2022)
+
+[https://www.bnl.gov/newsroom/news.php?a=219533](https://www.bnl.gov/newsroom/news.php?a=219533)

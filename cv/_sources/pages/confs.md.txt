@@ -1,0 +1,335 @@
+# Conferences & Talks
+
+**2024.09**
+**red**Invited talk — *Automated
+Beamline Alignment and Experiment Steering*
+[🔗](https://www6.slac.stanford.edu/events/2024-09-22-2024-ssrllcls-users-meeting),
+SSRL/LCLS Users' Meeting, “MFX-HE: Opportunities for High-Throughput
+Multimodal Structural Studies and Their Computational Challenges” Workshop,
+Menlo Park, CA
+
+**2024.09**
+**red**Workshop organizer —
+*Bluesky and Bluesky-Queueserver tutorials*
+[🔗](https://conference.sns.gov/event/448/page/3139-workgroups-and-training),
+EPICS Meeting, Oak Ridge National Laboratory, Oak Ridge, TN
+
+**2023.11**
+**red**Invited talk — *Bluesky for
+Multimodal Studies at NSLS-II*
+[🔗](https://www.lorentzcenter.nl/integrating-acquisition-and-ai-in-tomography.html),
+“Integrating acquisition and AI in tomography” Workshop,
+Leiden, The Netherlands
+
+**2023.08**
+*Recent updates of the Sirepo-Bluesky library for
+virtual beamline representation*, SPIE Optics + Photonics, Advances in
+Computational Methods for X-Ray Optics VI
+[🔗](https://spie.org/OP23O/conferencedetails/computational-methods-for-x-ray-optics),
+San Diego, CA
+
+**2023.05**
+**red**Invited teacher at *Beamline
+and Optics Modeling School*
+[🔗](https://als.lbl.gov/beamline-optics-and-modeling-school-bloms-2023/),
+Advanced Light Source, Berkeley, CA
+
+**2023.04**
+*Ophyd beyond EPICS*
+[🔗](https://www.bnl.gov/usersmeeting/),
+NSLS-II & CFN Users' Meeting,
+Workshop 4 — “Scientific Python for Data Acquisition, Management, and
+Analysis”,
+Brookhaven National Laboratory, Upton, NY
+
+**2023.03**
+*AE124: Simulation-aided Instrument Optimization using
+Artificial Intelligence and Machine Learning Methods*
+[🔗](https://www.bnl.gov/atfusersmeeting/),
+25th Annual Accelerator Test Facility (ATF) Users' Meeting,
+Brookhaven National Laboratory, Upton, NY
+
+**2022.08**
+**red**Invited talk — *Automated
+beamline alignment at NSLS-II*
+[🔗](https://als.lbl.gov/2022-user-meeting-workshops-tutorials/), ALS
+User Meeting, “Instrumentation and Computation for the Upgraded ALS” Workshop,
+Virtual Meeting
+
+**2022.05**
+**red**Invited talk — *24/7 access
+to your virtual beamline with Sirepo*
+[🔗](https://www.bnl.gov/usersmeeting/events/),
+NSLS-II & CFN Users' Meeting,
+Workshop 6 — “Data Access and Machine Learning at NSLS-II”,
+Brookhaven National Laboratory, Upton, NY
+
+**2022.03**
+**red**Invited talk — *Next
+generation experimental data access at NSLS-II*
+[🔗](https://www.sri2021.eu/programme/invited_speakers/),
+SRI2021, Virtual Conference
+
+**2020.02**
+**red**Invited talk — *Bluesky
+Data Collection Framework*, Canadian Light Source, Saskatoon, Canada
+
+**2019.10**
+*Overview of Bluesky*, Imaging Workshop, Oak Ridge
+National Laboratory, Oak Ridge, TN
+
+**2019.07**
+*Kitware training on vtk.js, girder, tomviz, vtk,
+paraview, and cmake*, Clifton Park, NY
+
+**2019.06**
+*Jupyter Community Workshop*
+[🔗](https://jupyter-workshop-2019.lbl.gov),
+LBNL, Berkeley, CA
+
+**2019.06**
+*Ptycho Developer Workshop*
+[🔗](https://sites.google.com/lbl.gov/ptycho-developer-2019),
+LBNL, Berkeley, CA
+
+**2019.01**
+**red**Invited talk — *Bluesky,
+ophyd, pseudo motors, detectors*
+[🔗](https://github.com/mrakitin/Berlin-2019-tutorials-workshop),
+Automation in Beamline Control and Data Acquisition workshop,
+HZB, BESSY-II, Berlin, Germany
+
+**2019.01**
+**red**Invited tutorials on Sirepo and Bluesky
+[🔗](https://github.com/mrakitin/Berlin-2019-tutorials-workshop),
+Automation in Beamline Control and Data Acquisition workshop,
+HZB, BESSY-II, Berlin, Germany
+
+**2018.10**
+*NOBUGS 2018*
+[🔗](https://www.bnl.gov/nobugs2018)
+[🔗](https://mrakitin.github.io/nobugs-2018-slides),
+Brookhaven National Laboratory, Upton, NY
+
+**2018.07**
+*SciPy 2018*
+[🔗](https://scipy2018.scipy.org/),
+Austin, TX
+
+**2018.06**
+*EPICS Collaboration meeting*
+[🔗](https://epics.anl.gov/meetings/2018-06),
+APS, Argonne National Laboratory, Lemont, IL
+
+**2018.05**
+*2018 NSLS-II & CFN Users' Meeting*: assisting with
+“Hands-On Data Acquisition and Analysis Tutorial”
+[🔗](https://indico.bnl.gov/event/4162),
+Brookhaven National Laboratory, Upton, NY
+
+**2017.11**
+*Sirepo — an open-source browser interface for X-ray
+source and optics simulations*, ORNL Visualization Hackathon, Oak Ridge National
+Laboratory, Oak Ridge, TN
+
+**2017.10**
+*Sirepo — an open-source cloud-based software
+interface for X-ray source and optics simulations*, NSLS-II Lunchtime seminar,
+Brookhaven National Laboratory, Upton, NY
+
+**2017.08**
+**red**Invited talk — *Sirepo: a
+web-based interface for physical optics simulations — its deployment and use
+at NSLS-II*, SPIE Optical Engineering + Applications
+[🔗](https://doi.org/10.1117/12.2274031),
+San Diego, CA
+
+**2017.05**
+*2017 NSLS-II & CFN Users' Meeting*
+[🔗](https://www.bnl.gov/usersmeeting/events/),
+Brookhaven National Laboratory, Upton, NY
+
+**2016.12**
+*Collaboration meeting with RadiaSoft LLC*,
+Boulder, CO
+
+**2016.12**
+*Early Career Researcher Symposium 2016*,
+Brookhaven National Laboratory, Upton, NY
+
+**2016.10**
+*Software for Optical Simulations (SOS) Workshop*
+[🔗](https://www.elettra.eu/Conferences/2016/SOS/Main/Program)
+[[regular]](https://www.elettra.eu/Conferences/2016/SOS/uploads/Main/Abstract1362.pdf),
+ICTP, Trieste, Italy
+
+**2016.05**
+*2016 NSLS-II & CFN Joint Users' Meeting*
+[🔗](https://www.bnl.gov/usersmeeting/events/),
+Brookhaven National Laboratory, Upton, NY
+
+**2015.11**
+*Sensitivity, Error and Uncertainty Quantification for
+Atomic, Plasma, and Material Data*
+[🔗](https://iacs.stonybrook.edu/),
+IACS, Stony Brook University, Stony Brook, NY
+
+**2015.10**
+*Collaboration Meeting on “Simulation and Modeling for
+SR Sources and X-Ray Optics”*,
+NSLS-II, Brookhaven National Laboratory, Upton, NY
+
+**2015.07**
+**red**Invited talk — *Crystal and
+protein structure modeling, software development and applications*, Brookhaven
+National Laboratory, Upton, NY
+
+**2015.06**
+*Advances in Functional Materials — Conference 2015*,
+Stony Brook University, Stony Brook, NY
+
+**2015.06**
+*Recent progress in USPEX development*, Group seminar,
+Stony Brook University, Stony Brook, NY
+
+**2015.04**
+**red**Invited talk — *Crystal
+structure prediction from first principles*
+[🔗](https://www.physik.hu-berlin.de/en/),
+Humboldt-Universit\"at zu Berlin, Institut f\"ur Physik, Berlin, Germany
+
+**2015.04**
+*Oracle R, Advanced & predictive Analytics Workshop*,
+Stony Brook University, Stony Brook, NY
+
+**2015.02**
+*MATLAB & Simulink for Project-Based Learning using
+LEGO MINDSTORMS EV3*, Stony Brook University, Stony Brook, NY
+
+**2015.01**
+*IACS workshop “Intro to Python”*
+[🔗](https://iacs.stonybrook.edu/),
+Stony Brook University, Stony Brook, NY
+
+**2014.11**
+*Novel phase of beryllium fluoride at high pressure*,
+Group seminar, Stony Brook University, Stony Brook, NY
+
+**2014.11**
+**red**Invited tutor — *Theory and
+Computation for Interface Science and Catalysis: Fundamentals, Research and
+Hands on Engagement using VASP*
+[🔗](https://wiki.bnl.gov/CFN-Computation/index.php/Workshop2014)
+[[regular]](https://wiki.bnl.gov/CFN-Computation/images/9/99/Tutorial8.pdf),
+Brookhaven National Laboratory, Upton, NY
+
+**2014.10**
+*MATLAB and Simulink Complimentary Technical Sessions at
+Stony Brook University*, Stony Brook, NY
+
+**2014.09**
+*Proteins structure prediction using USPEX*, Group
+seminar, Stony Brook University, Stony Brook, NY
+
+**2014.09**
+*USPEX tests for Tinker: Different amino-acids XYZ-20,
+ALA-40, CASP10, REMD*, Group seminar, Stony Brook University, Stony Brook, NY
+
+**2014.07**
+*Introduction to Python*, Group seminar, Stony Brook
+University, Stony Brook, NY
+
+**2014.04**
+*SiO_2* and BeF_2 phase transformation under
+pressure. Proteins simulation with Tinker interface for USPEX, Group seminar,
+Stony Brook University, Stony Brook, NY
+
+**2014.03**
+*CECAM workshop “Simulation of biomolecular
+interactions with inorganic and organic surfaces as a challenge for future
+nanotechnologies”* [🔗](https://www.cecam.org/workshop-details/517),
+Toulouse, France
+
+**2014.03**
+*USPEX mini-workshop*, Group seminar, Stony Brook
+University, Stony Brook, NY
+
+**2014.02**
+*SiO_2* and BeF_2 phase transformation under
+pressure, Group seminar, Stony Brook University, Stony Brook, NY
+
+**2013.11**
+*Study of impurities influence on the hydrogen
+dissolution energy in the bcc iron*, Group seminar, Stony Brook University,
+Stony Brook, NY
+
+**2013.08**
+*2^nd* summer school on computer simulations in
+modern physics
+[🔗](https://physics.susu.ru),
+Chelyabinsk, Russia
+
+**2012.08**
+*Summer school on computer simulations and massive
+calculations in modern physics*
+[🔗](https://physics.susu.ru),
+Chelyabinsk, Russia
+
+**2011.10**
+*6^* All-Russian scientific-technical
+conference “Physical properties of metals and alloys”
+[🔗](https://konferencii.ru/info/57053), Yekaterinburg, Russia
+
+**2011.09**
+*International conference “Thermodynamics 2011”*,
+Athens, Greece
+
+**2011.05**
+*2^* All-Russian youth school-conference
+“Modern problems of metal science”
+[🔗](https://konferencii.ru/info/40543), Pitsunda, Abkhazia
+
+**2010.07**
+*International symposium “Metal-hydrogen systems.
+Fundamentals and applications”*
+[🔗](https://www.mh2010.com)
+[[regular]](https://www.mh2010.com/uploads/Book%20of%20Abstracts.pdf#page=197),
+Moscow, Russia
+
+**2010.06**
+*International summer school “Computational Materials
+Science”*
+[🔗](https://dipc.ehu.eus/en),
+San Sebastian, Spain
+
+**2010.03**
+*All-Russian conference “Parallel computing
+technologies 2010”*
+[🔗](https://agora.guru.ru/display.php?conf=pavt2010),
+Ufa, Russia
+
+**2010.02**
+*33^* International conference on
+theoretical physics “Kourovka-2010”
+[🔗](https://conf.uran.ru/Default?cid=kourovka)
+[[regular]](https://conf.uran.ru/kourovka/Kourovka2010.pdf#page=79), Novouralsk,
+Russia
+
+**2009.11**
+*9^* International conference
+“High-performance parallel computing on cluster systems”
+[🔗](https://agora.guru.ru/display.php?conf=hpc2009),
+Vladimir, Russia
+
+**2009.10**
+*12^* V.A. Fock All-Russian conference on
+quantum and computational chemistry
+[🔗](http://www.qcc.ru/ fock/meeting.en.php),
+Kazan, Russia
+
+**2007.04**
+*13^* All-Russian students conference in
+physics
+[🔗](http://asf.ural.ru/VNKSF/Tezis/tezis_v13.html)
+[[regular]](http://asf.ural.ru/VNKSF/Tezis/v13/VNKSF-13-02.pdf#page=82),
+Rostov-on-Don, Russia

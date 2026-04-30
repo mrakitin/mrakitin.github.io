@@ -1,0 +1,37 @@
+# Computer Skills
+
+****Data analysis, visualization****
+Python, NumPy, SciPy, Matplotlib,
+Bokeh, D3.js, Matlab/Octave, OriginPro, gnuplot, VESTA, XCrysDen, STM4, P4VASP,
+Molden, VMD, RasTop, *etc.*
+
+****Programming****
+Python (including PyQT, NumPy, SciPy, Matplotlib,
+PIL), C++, Fortran, Matlab/Octave, JavaScript, jQuery, AngularJS, some React,
+WebGL, PHP, HTML5, bash, csh/tcsh, make, Perl, AutoIt3, REXX, SQL, JCL
+
+****Parallelization****
+MPI, OpenMP, Dask
+
+****IDE/editors****
+VSCode, PyCharm, Eclipse, vim, some emacs
+
+****Writing****
+LaTeX, Bib, TeXlipse/Eclipse, plasTeX, JabRef,
+MS Word
+
+****OS****
+Linux (CentOS, SuSE, RedHat, Fedora, Ubuntu,
+Debian, Raspbian, *etc.*), Mac OS X, AIX, Solaris, HP-UX, Windows, DOS,
+z/OS
+
+****Virtualization****
+Docker, Vagrant, VirtualBox, VMware
+
+****VCS****
+GitHub, Git, SVN, CVS, Bazaar, Trac
+
+****Atomistic simulation****
+VASP, WIEN2k, Quantum Espresso, CASTEP,
+SIESTA, CP2K, FHI-aims, QuantumWise ATK, Tinker, GULP, LAMMPS, DMACRYS, Phonopy,
+TB-LMTO-ASA
