@@ -43,15 +43,15 @@ Upton, NY ([https://www.bnl.gov](https://www.bnl.gov)).
 
 ## Software Projects:
 
-- **Bluesky** — a library for experiment control and collection of scientific data and metadata, [docs](https://blueskyproject.io/bluesky), [GitHub](https://github.com/bluesky/bluesky).
+- **Bluesky** — a library for experiment control and collection of scientific data and metadata, {octicon}`book;1em` [docs](https://blueskyproject.io/bluesky), {octicon}`mark-github;1em` [GitHub](https://github.com/bluesky/bluesky).
 
-- **Ophyd** — a device abstraction library, [docs](https://blueskyproject.io/ophyd), [GitHub](https://github.com/bluesky/ophyd).
+- **Ophyd** — a device abstraction library, {octicon}`book;1em` [docs](https://blueskyproject.io/ophyd), {octicon}`mark-github;1em` [GitHub](https://github.com/bluesky/ophyd).
 
-- **Databroker** — a simple, user-friendly interface for retrieving stored data and metadata from multiple sources, [docs](https://blueskyproject.io/databroker), [GitHub](https://github.com/bluesky/databroker).
+- **Databroker** — a simple, user-friendly interface for retrieving stored data and metadata from multiple sources, {octicon}`book;1em` [docs](https://blueskyproject.io/databroker), {octicon}`mark-github;1em` [GitHub](https://github.com/bluesky/databroker).
 
-- **Sirepo-Bluesky** — an interface library between the **Bluesky** data acquisition framework and the **Sirepo** browser-based interface framework to beamline and accelerator simulation codes, [docs](https://nsls-ii.github.io/sirepo-bluesky/), [GitHub](https://github.com/NSLS-II/sirepo-bluesky).
+- **Sirepo-Bluesky** — an interface library between the **Bluesky** data acquisition framework and the **Sirepo** browser-based interface framework to beamline and accelerator simulation codes, {octicon}`book;1em` [docs](https://nsls-ii.github.io/sirepo-bluesky/), {octicon}`mark-github;1em` [GitHub](https://github.com/NSLS-II/sirepo-bluesky).
 
-- **Blop** — a Bayesian optimization library for autonomous experiment control, [docs](https://blueskyproject.io/blop/), [GitHub](https://github.com/bluesky/blop).
+- **Blop** — a Bayesian optimization library for autonomous experiment control, {octicon}`book;1em` [docs](https://blueskyproject.io/blop/), {octicon}`mark-github;1em` [GitHub](https://github.com/bluesky/blop).
 
 
 ## Funded Projects (PI roles):
