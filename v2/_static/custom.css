@@ -1,0 +1,72 @@
+/* Red highlight for invited talks / special roles (mirrors \textcolor{red} in LaTeX) */
+.cv-red {
+    color: #c0392b;
+}
+
+/* Dark mode: use a lighter red so it's readable on dark backgrounds */
+[data-md-color-scheme="slate"] .cv-red {
+    color: #e74c3c;
+}
+
+/* Date-range labels in Experience / Education — tabular figures, muted color */
+.cv-date {
+    font-variant-numeric: tabular-nums;
+    color: var(--md-default-fg-color--light, #6c757d);
+    letter-spacing: 0.01em;
+}
+
+[data-md-color-scheme="slate"] .cv-date {
+    color: var(--md-default-fg-color--light, #adb5bd);
+}
+
+/* Inline site logos (BNL, LinkedIn, ORCID) next to links */
+.site-icon {
+    height: 1em;
+    width: auto;
+    vertical-align: middle;
+    margin-right: 0.1em;
+    display: inline;
+}
+
+/* Profile photo on home page */
+.profile-photo {
+    width: 180px;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto 1rem;
+}
+
+/* Hero grid layout on index page */
+.hero-grid {
+    display: grid;
+    grid-template-columns: 200px 1fr;
+    gap: 2rem;
+    align-items: start;
+    margin-bottom: 2rem;
+}
+
+@media (max-width: 640px) {
+    .hero-grid {
+        grid-template-columns: 1fr;
+    }
+    .hero-photo {
+        text-align: center;
+    }
+}
+
+/* Gallery affiliation logos */
+.affil-logo {
+    height: 60px;
+    width: auto;
+    display: block;
+    margin: 0 auto 0.5rem;
+}
+
+/* Gallery card images — fill card width */
+.card-image {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 4px;
+    margin-bottom: 0.5rem;
+}
