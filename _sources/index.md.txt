@@ -22,10 +22,10 @@ Data Science and Systems Integration Division, NSLS-II
 Brookhaven National Laboratory, Upton, NY
 
 ✉ [mrakitin@bnl.gov](mailto:mrakitin@bnl.gov) · 
-[BNL](https://www.bnl.gov/staff/mrakitin) · 
-[GitHub](https://github.com/mrakitin) · 
-[LinkedIn](https://www.linkedin.com/in/mrakitin) · 
-[ORCID](https://orcid.org/0000-0003-3685-852X)
+![BNL](_static/logos/bnl.png){.site-icon} [BNL](https://www.bnl.gov/staff/mrakitin) · 
+{octicon}`mark-github;1em` [mrakitin](https://github.com/mrakitin) · 
+![LinkedIn](_static/logos/linkedin.svg){.site-icon} [LinkedIn](https://www.linkedin.com/in/mrakitin) · 
+![ORCID](_static/logos/orcid.svg){.site-icon} [ORCID](https://orcid.org/0000-0003-3685-852X)
 
 The full document is also available as a PDF:
 

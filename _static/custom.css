@@ -23,3 +23,12 @@
 [data-theme="dark"] .cv-date {
     color: var(--pst-color-text-muted, #adb5bd);
 }
+
+/* Inline site logos (BNL, LinkedIn, ORCID) next to links */
+.site-icon {
+    height: 1em;
+    width: auto;
+    vertical-align: middle;
+    margin-right: 0.1em;
+    display: inline;
+}
