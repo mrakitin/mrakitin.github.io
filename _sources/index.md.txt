@@ -43,10 +43,10 @@ The full document is also available as a PDF:
 pages/about
 pages/jobs
 pages/edu
+pages/pubs
+pages/confs
 pages/awards
 pages/skills
 pages/langs
-pages/pubs
-pages/confs
 pages/refs
 ```
