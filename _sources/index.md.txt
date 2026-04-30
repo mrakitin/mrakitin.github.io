@@ -49,4 +49,5 @@ pages/awards
 pages/skills
 pages/langs
 pages/refs
+pages/gallery
 ```

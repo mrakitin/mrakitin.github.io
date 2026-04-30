@@ -1,0 +1,456 @@
+# Gallery
+
+## Affiliations
+
+::::{grid} 1 2 3 3
+:gutter: 3
+
+:::{grid-item-card}
+```{image} ../_static/logos/bnl-full.png
+:alt: Brookhaven National Laboratory
+:height: 60px
+:align: center
+```
+^^^
+**[Brookhaven National Laboratory](https://www.bnl.gov)**
+
+Computational Scientist / Group Leader, NSLS-II
+
+[Nov 2017 – present]{.cv-date}
+:::
+
+:::{grid-item-card}
+```{image} ../_static/logos/sbu.png
+:alt: Stony Brook University
+:height: 60px
+:align: center
+```
+^^^
+**[Stony Brook University](https://stonybrook.edu)**
+
+Postdoctoral Associate (Oganov lab, Dept. of Geosciences)
+
+[Oct 2013 – Dec 2015]{.cv-date}
+:::
+
+:::{grid-item-card}
+```{image} ../_static/logos/susu.png
+:alt: South Ural State University
+:height: 60px
+:align: center
+```
+^^^
+**[South Ural State University](https://www.susu.ru/en)**
+
+Researcher, Dept. of General and Theoretical Physics
+
+[Oct 2008 – Sep 2013]{.cv-date}
+:::
+
+:::{grid-item-card}
+```{image} ../_static/logos/at.png
+:alt: Applied Technologies (Rocket Software partner)
+:height: 60px
+:align: center
+```
+^^^
+**[Applied Technologies (Rocket Software partner)](https://www.appliedtech.ru/en/)**
+
+QA Engineer / System Programmer
+
+[Jun 2007 – Oct 2013]{.cv-date}
+:::
+
+:::{grid-item-card}
+```{image} ../_static/logos/susu.png
+:alt: South Ural State University
+:height: 60px
+:align: center
+```
+^^^
+**[South Ural State University](https://www.susu.ru/en)**
+
+System Administrator, Dept. of General and Theoretical Physics
+
+[2006 – 2007]{.cv-date}
+:::
+
+::::
+
+---
+
+## Selected Publications
+
+::::{grid} 2 3 4 5
+:gutter: 2
+
+:::{grid-item-card}
+```{image} ../_static/paper_thumbs/2005_Mirzoev.png
+:alt: Dependence of TB-LMTO calculations accuracy on k-points number: effect of iterations mixing parameter using Broyden scheme
+:width: 100%
+```
+^^^
+[Dependence of TB-LMTO calculations accuracy on k-points number: effect of iterations mixing parameter using Broyden scheme](https://vestnik.susu.ru/mmph/issue/viewFile/36/12#page=103)
+:::
+
+:::{grid-item-card}
+```{image} ../_static/paper_thumbs/2010_Rakitin.png
+:alt: Change of electronic structure in iron containing interstitial atoms of hydrogen
+:width: 100%
+```
+^^^
+[Change of electronic structure in iron containing interstitial atoms of hydrogen](https://vestnik.susu.ru/metallurgy/issue/archive)
+:::
+
+:::{grid-item-card}
+```{image} ../_static/paper_thumbs/2011.1_Mirzoev.png
+:alt: Impurities influence on dissolution of hydrogen in bcc iron
+:width: 100%
+```
+^^^
+[Impurities influence on dissolution of hydrogen in bcc iron](https://vestnik.susu.ru/mmph/issue/viewFile/46/22#page=77)
+:::
+
+:::{grid-item-card}
+```{image} ../_static/paper_thumbs/2011.2_Ursaeva.png
+:alt: initio study of hydrogen interaction with point defects in bcc iron
+:width: 100%
+```
+^^^
+[initio study of hydrogen interaction with point defects in bcc iron](https://vestnik.susu.ru/mmph/issue/viewFile/46/22#page=114)
+:::
+
+:::{grid-item-card}
+```{image} ../_static/paper_thumbs/2012.01_Mirzaev.png
+:alt: Theory of hydrogen solubility in binary iron alloys based on initio calculation results
+:width: 100%
+```
+^^^
+[Theory of hydrogen solubility in binary iron alloys based on initio calculation results](https://doi.org/10.1080/00268976.2011.645895)
+:::
+
+:::{grid-item-card}
+```{image} ../_static/paper_thumbs/2015.08_Rakitin.png
+:alt: A novel phase of beryllium fluoride at high pressure
+:width: 100%
+```
+^^^
+[A novel phase of beryllium fluoride at high pressure](https://doi.org/10.1039/C5CP04010H)
+:::
+
+:::{grid-item-card}
+```{image} ../_static/paper_thumbs/2016.03_Davari.png
+:alt: Superconductivity of novel tin hydrides (Sn<sub>n</sub>H<sub>m</sub>) under pressure
+:width: 100%
+```
+^^^
+[Superconductivity of novel tin hydrides (Sn<sub>n</sub>H<sub>m</sub>) under pressure](https://doi.org/10.1038/srep22873)
+:::
+
+:::{grid-item-card}
+```{image} ../_static/paper_thumbs/2016.04_Chang.png
+:alt: Thorough investigations of the structural and electronic properties of Al<sub>x</sub>In<sub>1-x</sub>N ternary compound via initio computations
+:width: 100%
+```
+^^^
+[Thorough investigations of the structural and electronic properties of Al<sub>x</sub>In<sub>1-x</sub>N ternary compound via initio computations](https://doi.org/10.1016/j.jallcom.2016.04.281)
+:::
+
+:::{grid-item-card}
+```{image} ../_static/paper_thumbs/2016.10_Mirzaev.png
+:alt: Alloying Effects on Thermodynamic Characteristics of Hydrogen in BCC Iron
+:width: 100%
+```
+^^^
+[Alloying Effects on Thermodynamic Characteristics of Hydrogen in BCC Iron](https://doi.org/10.14529/met160405)
+:::
+
+:::{grid-item-card}
+```{image} ../_static/paper_thumbs/2017.05_Blednykh.png
+:alt: A Comprehensive Study of the Microwave Instability
+:width: 100%
+```
+^^^
+[A Comprehensive Study of the Microwave Instability](https://doi.org/https://doi.org/10.18429/JACoW-IPAC2017-WEPIK117)
+:::
+
+:::{grid-item-card}
+```{image} ../_static/paper_thumbs/2017.05_Chubar.png
+:alt: Analysis and Correction of in-Vacuum Undulator Misalignment Effects in a Storage Ring Synchrotron Radiation Source
+:width: 100%
+```
+^^^
+[Analysis and Correction of in-Vacuum Undulator Misalignment Effects in a Storage Ring Synchrotron Radiation Source](https://doi.org/https://doi.org/10.18429/JACoW-IPAC2017-TUPAB140)
+:::
+
+:::{grid-item-card}
+```{image} ../_static/paper_thumbs/2017.05_Davari.png
+:alt: Novel magnesium borides and their superconductivity
+:width: 100%
+```
+^^^
+[Novel magnesium borides and their superconductivity](https://doi.org/10.1039/C7CP00840F)
+:::
+
+:::{grid-item-card}
+```{image} ../_static/paper_thumbs/2017.08-01_Idir.png
+:alt: Alignment of KB mirrors with at-wavelength metrology tool simulated using SRW
+:width: 100%
+```
+^^^
+[Alignment of KB mirrors with at-wavelength metrology tool simulated using SRW](https://doi.org/10.1117/12.2274264)
+:::
+
+:::{grid-item-card}
+```{image} ../_static/paper_thumbs/2017.08-02_Wiegart.png
+:alt: X-ray optical simulations supporting advanced commissioning of the coherent hard x-ray beamline at NSLS-II
+:width: 100%
+```
+^^^
+[X-ray optical simulations supporting advanced commissioning of the coherent hard x-ray beamline at NSLS-II](https://doi.org/10.1117/12.2274403)
+:::
+
+:::{grid-item-card}
+```{image} ../_static/paper_thumbs/2017.08-03_Chubar.png
+:alt: Main functions, recent updates, and applications of Synchrotron Radiation Workshop code (invited paper)
+:width: 100%
+```
+^^^
+[Main functions, recent updates, and applications of Synchrotron Radiation Workshop code (invited paper)](https://doi.org/10.1117/12.2274285)
+:::
+
+:::{grid-item-card}
+```{image} ../_static/paper_thumbs/2017.08-04_Chubar.png
+:alt: Simulation of experiments with partially coherent x-rays using Synchrotron Radiation Workshop
+:width: 100%
+```
+^^^
+[Simulation of experiments with partially coherent x-rays using Synchrotron Radiation Workshop](https://doi.org/10.1117/12.2274481)
+:::
+
+:::{grid-item-card}
+```{image} ../_static/paper_thumbs/2017.08-05_Rakitin.png
+:alt: Sirepo: a web-based interface for physical optics simulations - its deployment and use at NSLS-II (invited paper)
+:width: 100%
+```
+^^^
+[Sirepo: a web-based interface for physical optics simulations - its deployment and use at NSLS-II (invited paper)](https://doi.org/10.1117/12.2274031)
+:::
+
+:::{grid-item-card}
+```{image} ../_static/paper_thumbs/2018.04_Rakitin.png
+:alt: First-Principles and Thermodynamic Simulation of Elastic Stress Effect on Energy of Hydrogen Dissolution in Alpha Iron
+:width: 100%
+```
+^^^
+[First-Principles and Thermodynamic Simulation of Elastic Stress Effect on Energy of Hydrogen Dissolution in Alpha Iron](https://doi.org/10.1007/s11182-018-1337-2)
+:::
+
+:::{grid-item-card}
+```{image} ../_static/paper_thumbs/2018.05_Chubar.png
+:alt: Spectrum-Based Alignment of In-Vacuum Undulators in a Low-Emittance Storage Ring
+:width: 100%
+```
+^^^
+[Spectrum-Based Alignment of In-Vacuum Undulators in a Low-Emittance Storage Ring](https://doi.org/10.1080/08940886.2018.1460173)
+:::
+
+:::{grid-item-card}
+```{image} ../_static/paper_thumbs/2018.08_Blednykh.png
+:alt: New aspects of longitudinal instabilities in electron storage rings (DOE Science Highlight)
+:width: 100%
+```
+^^^
+[New aspects of longitudinal instabilities in electron storage rings (DOE Science Highlight)](https://doi.org/10.1038/s41598-018-30306-y)
+:::
+
+:::{grid-item-card}
+```{image} ../_static/paper_thumbs/2018.11_Rakitin.png
+:alt: : an open-source cloud-based software interface for X-ray source and optics simulations
+:width: 100%
+```
+^^^
+[: an open-source cloud-based software interface for X-ray source and optics simulations](https://doi.org/10.1107/S1600577518010986)
+:::
+
+:::{grid-item-card}
+```{image} ../_static/paper_thumbs/2019.01_Nash.png
+:alt: Detailed x-ray brightness calculations in the sirepo GUI for SRW
+:width: 100%
+```
+^^^
+[Detailed x-ray brightness calculations in the sirepo GUI for SRW](https://doi.org/10.1063/1.5084711)
+:::
+
+:::{grid-item-card}
+```{image} ../_static/paper_thumbs/2019.01_Wiegart.png
+:alt: Towards the simulation of partially coherent x-ray scattering experiments
+:width: 100%
+```
+^^^
+[Towards the simulation of partially coherent x-ray scattering experiments](https://doi.org/10.1063/1.5084710)
+:::
+
+:::{grid-item-card}
+```{image} ../_static/paper_thumbs/2019.05_Allan.png
+:alt: Bluesky's Ahead: A Multi-Facility Collaboration for an a la Carte Software Project for Data Acquisition and Management
+:width: 100%
+```
+^^^
+[Bluesky's Ahead: A Multi-Facility Collaboration for an a la Carte Software Project for Data Acquisition and Management](https://doi.org/10.1080/08940886.2019.1608121)
+:::
+
+:::{grid-item-card}
+```{image} ../_static/paper_thumbs/2019.09_Nash.png
+:alt: Undulator radiation brightness calculations in the Sirepo GUI for SRW
+:width: 100%
+```
+^^^
+[Undulator radiation brightness calculations in the Sirepo GUI for SRW](https://doi.org/10.1117/12.2530663)
+:::
+
+:::{grid-item-card}
+```{image} ../_static/paper_thumbs/2020.08-01_Rakitin.png
+:alt: Introduction of the Sirepo-Bluesky interface and its application to the optimization problems
+:width: 100%
+```
+^^^
+[Introduction of the Sirepo-Bluesky interface and its application to the optimization problems](https://doi.org/10.1117/12.2569000)
+:::
+
+:::{grid-item-card}
+```{image} ../_static/paper_thumbs/2020.08-02_He.png
+:alt: Parallel performance of “Synchrotron Radiation Workshop” code: partially coherent calculations for storage rings and time-dependent calculations for XFELs
+:width: 100%
+```
+^^^
+[Parallel performance of “Synchrotron Radiation Workshop” code: partially coherent calculations for storage rings and time-dependent calculations for XFELs](https://doi.org/10.1117/12.2567448)
+:::
+
+:::{grid-item-card}
+```{image} ../_static/paper_thumbs/2020.08-03_Chubar.png
+:alt: Simulations of coherent scattering experiments at storage ring synchrotron radiation sources in the hard x-ray range
+:width: 100%
+```
+^^^
+[Simulations of coherent scattering experiments at storage ring synchrotron radiation sources in the hard x-ray range](https://doi.org/10.1117/12.2568833)
+:::
+
+:::{grid-item-card}
+```{image} ../_static/paper_thumbs/2020.08-04_Chubar.png
+:alt: Analysis of hard x-ray focusing by 2D diamond CRL
+:width: 100%
+```
+^^^
+[Analysis of hard x-ray focusing by 2D diamond CRL](https://doi.org/10.1117/12.2568980)
+:::
+
+:::{grid-item-card}
+```{image} ../_static/paper_thumbs/2021.03_Campbell.png
+:alt: Outlook for artificial intelligence and machine learning at the NSLS-II
+:width: 100%
+```
+^^^
+[Outlook for artificial intelligence and machine learning at the NSLS-II](https://doi.org/10.1088/2632-2153/abbd4e)
+:::
+
+:::{grid-item-card}
+```{image} ../_static/paper_thumbs/2021.04_Rakitin.png
+:alt: 2021.04_Rakitin
+:width: 100%
+```
+^^^
+2021.04_Rakitin
+:::
+
+:::{grid-item-card}
+```{image} ../_static/paper_thumbs/2021.07_Konstantinova.png
+:alt: Noise reduction in X-ray photon correlation spectroscopy with convolutional neural networks encodermodels
+:width: 100%
+```
+^^^
+[Noise reduction in X-ray photon correlation spectroscopy with convolutional neural networks encodermodels](https://doi.org/10.1038/s41598-021-93747-y)
+:::
+
+:::{grid-item-card}
+```{image} ../_static/paper_thumbs/2021.07_Rakitin.png
+:alt: Ab initio Simulation of Dissolution Energy and Bond Energy of Hydrogen with 3sp, 3d, and 4d Impurities in bcc Iron
+:width: 100%
+```
+^^^
+[Ab initio Simulation of Dissolution Energy and Bond Energy of Hydrogen with 3sp, 3d, and 4d Impurities in bcc Iron](https://doi.org/10.1134/s1063783421070180)
+:::
+
+:::{grid-item-card}
+```{image} ../_static/paper_thumbs/2021.07_Yang.png
+:alt: Tools for supporting solution scattering during the COVID-19 pandemic
+:width: 100%
+```
+^^^
+[Tools for supporting solution scattering during the COVID-19 pandemic](https://doi.org/10.1107/S160057752100521X)
+:::
+
+:::{grid-item-card}
+```{image} ../_static/paper_thumbs/2021.09_Jain.png
+:alt: New high-throughput endstation to accelerate the experimental optimization pipeline for synchrotron X-ray footprinting
+:width: 100%
+```
+^^^
+[New high-throughput endstation to accelerate the experimental optimization pipeline for synchrotron X-ray footprinting](https://doi.org/10.1107/S1600577521005026)
+:::
+
+:::{grid-item-card}
+```{image} ../_static/paper_thumbs/2021.12_Nash.png
+:alt: X-Ray Beamline Control with Machine Learning and an Online Model
+:width: 100%
+```
+^^^
+[X-Ray Beamline Control with Machine Learning and an Online Model](https://doi.org/10.18429/JACoW-ICALEPCS2021-WEPV024)
+:::
+
+:::{grid-item-card}
+```{image} ../_static/paper_thumbs/2022.03_Hidas.png
+:alt: High precision real-time insertion device and monochromator synchronization at NSLS-II
+:width: 100%
+```
+^^^
+[High precision real-time insertion device and monochromator synchronization at NSLS-II](https://doi.org/10.1016/j.nima.2022.166505)
+:::
+
+:::{grid-item-card}
+```{image} ../_static/paper_thumbs/2022.05_Leshchev.png
+:alt: The Inner Shell Spectroscopy beamline at NSLS-II: a facility for in situ and operando X-ray absorption spectroscopy for materials research
+:width: 100%
+```
+^^^
+[The Inner Shell Spectroscopy beamline at NSLS-II: a facility for in situ and operando X-ray absorption spectroscopy for materials research](https://doi.org/10.1107/S160057752200460X)
+:::
+
+:::{grid-item-card}
+```{image} ../_static/paper_thumbs/2022.09_Konstantinova.png
+:alt: Machine Learning for analysis of speckle dynamics: quantification and outlier detection
+:width: 100%
+```
+^^^
+[Machine Learning for analysis of speckle dynamics: quantification and outlier detection](https://doi.org/10.1103/PhysRevResearch.4.033228)
+:::
+
+:::{grid-item-card}
+```{image} ../_static/paper_thumbs/2022.10_Morris.png
+:alt: On-the-fly optimization of synchrotron beamlines using machine learning
+:width: 100%
+```
+^^^
+[On-the-fly optimization of synchrotron beamlines using machine learning](https://doi.org/10.1117/12.2644996)
+:::
+
+:::{grid-item-card}
+```{image} ../_static/paper_thumbs/mrakitin_2017_papers.png
+:alt: mrakitin_2017_papers
+:width: 100%
+```
+^^^
+mrakitin_2017_papers
+:::
+
+::::
