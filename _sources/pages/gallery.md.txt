@@ -137,6 +137,19 @@ Architecture overview of the Bluesky experiment orchestration ecosystem: run eng
 :::
 
 :::{grid-item-card}
+```{image} ../_static/gallery/Sirepo.jpg
+:alt: Sirepo
+:width: 100%
+```
+^^^
+**[Sirepo](https://www.sirepo.com)**
+
+Sirepo — a cloud-based web interface for X-ray source and optics simulations powered by SRW, developed at RadiaSoft / NSLS-II. Enables browser-based setup, execution, and visualization of synchrotron beamline simulations.
+
+[Dec 2015 – present]{.cv-date}
+:::
+
+:::{grid-item-card}
 ```{image} ../_static/gallery/TES-blop.jpg
 :alt: Autonomous Beamline Alignment (BLOP)
 :width: 100%
