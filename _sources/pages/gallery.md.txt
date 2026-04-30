@@ -92,7 +92,7 @@ System Administrator, Dept. of General and Theoretical Physics
 ^^^
 **[Bluesky Ecosystem](https://blueskyproject.io)**
 
-Architecture overview of the Bluesky experiment orchestration ecosystem: run engine, ophyd device layer, databroker, and associated tools developed at NSLS-II. See [blueskyproject.io](https://blueskyproject.io) and [Arkilic et al., Synchrotron Radiat. News **32**, 4 (2019)](https://doi.org/10.1080/08940886.2019.1608121).
+Architecture overview of the Bluesky experiment orchestration ecosystem: run engine, ophyd device layer, databroker, and associated tools developed at NSLS-II. See [blueskyproject.io](https://blueskyproject.io) and [Allan et al., Synchrotron Radiat. News **32**, 19 (2019)](https://doi.org/10.1080/08940886.2019.1608121).
 
 [Nov 2017 – present]{.cv-date}
 :::
