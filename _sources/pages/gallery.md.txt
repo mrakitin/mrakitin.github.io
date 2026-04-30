@@ -92,7 +92,7 @@ System Administrator, Dept. of General and Theoretical Physics
 ^^^
 **[Bluesky Ecosystem](https://blueskyproject.io)**
 
-Architecture overview of the Bluesky experiment orchestration ecosystem: run engine, ophyd device layer, databroker, and associated tools developed at NSLS-II.
+Architecture overview of the Bluesky experiment orchestration ecosystem: run engine, ophyd device layer, databroker, and associated tools developed at NSLS-II. See [blueskyproject.io](https://blueskyproject.io) and [Arkilic et al., Synchrotron Radiat. News **32**, 4 (2019)](https://doi.org/10.1080/08940886.2019.1608121).
 
 [Nov 2017 – present]{.cv-date}
 :::
@@ -118,7 +118,7 @@ Four beam configurations on the NSLS-II TES (8-BM) beamline: upper-left shows th
 ^^^
 **[Sirepo](https://www.sirepo.com)**
 
-Sirepo — a cloud-based web interface for X-ray source and optics simulations powered by SRW, developed at RadiaSoft / NSLS-II. Enables browser-based setup, execution, and visualization of synchrotron beamline simulations.
+Sirepo — a cloud-based web interface for X-ray source and optics simulations powered by SRW, developed at RadiaSoft / NSLS-II. Enables browser-based setup, execution, and visualization of synchrotron beamline simulations. See [Rakitin et al., J. Synchrotron Rad. **25**, 1877 (2018)](https://doi.org/10.1107/S1600577518010986).
 
 [Dec 2015 – present]{.cv-date}
 :::
