@@ -17,7 +17,7 @@
 :columns: 12 12 8 9
 
 **Max Rakitin, Ph.D.**
-Group Leader, Data Acquisition & Detectors
+Group Leader, Data Acquisition & Detectors Group,
 Data Science and Systems Integration Division, NSLS-II
 Brookhaven National Laboratory, Upton, NY
 

@@ -4,7 +4,7 @@
 **Computational Scientist (RS-5)**, **Group Leader**,
 *Data Science and Systems Integration (DSSI) Division, Data Acquisition
 and Detectors Group, NSLS-II, Brookhaven National Laboratory*,
-Upton, NY ([https://www.bnl.gov](https://www.bnl.gov)).
+Upton, NY ([https://www.bnl.gov](https://www.bnl.gov), [DSSI](https://www.bnl.gov/nsls2/datascience/groups.php)).
 
 **Supervisor:** Dr. Stuart Wilkins
 
@@ -12,7 +12,7 @@ Upton, NY ([https://www.bnl.gov](https://www.bnl.gov)).
 **Computational Scientist (RS-5)**, **Deputy Group Leader**,
 *Data Science and Systems Integration (DSSI) Program, Data Acquisition
 and Detectors Group, NSLS-II, Brookhaven National Laboratory*,
-Upton, NY ([https://www.bnl.gov](https://www.bnl.gov)).
+Upton, NY ([https://www.bnl.gov](https://www.bnl.gov), [DSSI](https://www.bnl.gov/nsls2/datascience/groups.php)).
 
 **Supervisor:** Dr. Thomas Caswell
 
@@ -20,7 +20,7 @@ Upton, NY ([https://www.bnl.gov](https://www.bnl.gov)).
 **Associate Computational Scientist (RS-4)**, **Supervisor**,
 *Data Science and Systems Integration (DSSI)
 Program, NSLS-II, Brookhaven National Laboratory*,
-Upton, NY ([https://www.bnl.gov](https://www.bnl.gov)).
+Upton, NY ([https://www.bnl.gov](https://www.bnl.gov), [DSSI](https://www.bnl.gov/nsls2/datascience/groups.php)).
 
 **Supervisor:** Dr. Stuart Campbell
 
