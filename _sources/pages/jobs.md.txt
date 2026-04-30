@@ -43,15 +43,15 @@ Upton, NY ([https://www.bnl.gov](https://www.bnl.gov)).
 
 ## Software Projects:
 
-- **Bluesky** — a library for experiment control and collection of scientific data and metadata, [https://blueskyproject.io/bluesky](https://blueskyproject.io/bluesky).
+- **Bluesky** — a library for experiment control and collection of scientific data and metadata, [docs](https://blueskyproject.io/bluesky), [GitHub](https://github.com/bluesky/bluesky).
 
-- **Ophyd** — a device abstraction library, [https://blueskyproject.io/ophyd](https://blueskyproject.io/ophyd).
+- **Ophyd** — a device abstraction library, [docs](https://blueskyproject.io/ophyd), [GitHub](https://github.com/bluesky/ophyd).
 
-- **Databroker** — a simple, user-friendly interface for retrieving stored data and metadata from multiple sources, [https://blueskyproject.io/databroker](https://blueskyproject.io/databroker).
+- **Databroker** — a simple, user-friendly interface for retrieving stored data and metadata from multiple sources, [docs](https://blueskyproject.io/databroker), [GitHub](https://github.com/bluesky/databroker).
 
-- **Sirepo-Bluesky** — an interface library between the **Bluesky** data acquisition framework and the **Sirepo** browser-based interface framework to beamline and accelerator simulation codes, [https://github.com/NSLS-II/sirepo-bluesky](https://github.com/NSLS-II/sirepo-bluesky).
+- **Sirepo-Bluesky** — an interface library between the **Bluesky** data acquisition framework and the **Sirepo** browser-based interface framework to beamline and accelerator simulation codes, [docs](https://nsls-ii.github.io/sirepo-bluesky/), [GitHub](https://github.com/NSLS-II/sirepo-bluesky).
 
-- **Blop** — a Bayesian optimization library for autonomous experiment control, [https://github.com/bluesky/blop](https://github.com/bluesky/blop).
+- **Blop** — a Bayesian optimization library for autonomous experiment control, [docs](https://blueskyproject.io/blop/), [GitHub](https://github.com/bluesky/blop).
 
 
 ## Funded Projects (PI roles):
