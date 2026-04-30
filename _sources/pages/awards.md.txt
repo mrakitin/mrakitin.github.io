@@ -1,64 +1,64 @@
 # Honors & Awards
 
-**2024.09**
+**[Sep 2024]{.cv-date}**
 Spotlight Award in recognition of exceptional job performance
 (Brookhaven National Lab, Upton, NY)
 
-**2022.11**
+**[Nov 2022]{.cv-date}**
 Engineering Award for distinguished contributions to
 Brookhaven National Laboratory's engineering objectives (a member of a team)
 — one of Brookhaven Lab's pinnacle awards (Brookhaven National Lab, Upton,
 NY)
 
-**2021.02**
+**[Feb 2021]{.cv-date}**
 Certificate of Recognition for scientific contribution to the
 U.S. Department of Energy National Virtual Biotechnology Laboratory Project
 “Molecular Design and Analysis to Inform Therapeutics Related to COVID-19”
 (part of the DOE COVID-19 Pandemic Response in 2020)
 
-**2021.01**
+**[Jan 2021]{.cv-date}**
 Certificate of Completion of the course “Scientific & Numeric
 Computing with Python” (James Powell, DUTC)
 
-**2021.01**
+**[Jan 2021]{.cv-date}**
 Certificate of Completion of the course “Expert Level Python”
 (James Powell, DUTC)
 
-**2020**
+**[2020]{.cv-date}**
 Spotlight Award in recognition of exceptional job performance
 (Brookhaven National Lab, Upton, NY)
 
-**2018**
+**[2018]{.cv-date}**
 Spotlight Award in recognition of exceptional job performance
 (Brookhaven National Lab, Upton, NY)
 
-**2012**
+**[2012]{.cv-date}**
 Certificate of summer school on computer simulations and massive
 calculations in modern physics with invited lectors from the US (Chelyabinsk,
 Russia)
 
-**2010**
+**[2010]{.cv-date}**
 Certificate of summer school on computational material sciences
 (San-Sebastian, Spain)
 
-**2010**
+**[2010]{.cv-date}**
 Scholarship of the University President (Chelyabinsk, Russia)
 
-**2009**
+**[2009]{.cv-date}**
 Certificate of courses on high-performance computational systems
 (Nizhny Novgorod, Russia)
 
-**2009–2010**
+**[2009–2010]{.cv-date}**
 State contract (grant) on Federal Programme “Scientific
 and pedagogical staff for an innovative Russia” (Moscow, Russia)
 
-**2007**
+**[2007]{.cv-date}**
 Diploma of the 13th All-Russian Physics Students
 Conference for the talk “Computer simulation of hydrogen atom in bcc iron”
 (Rostov-on-Don, Russia)
 
-**2006**
+**[2006]{.cv-date}**
 Summa cum laude in Bachelor's studies (Chelyabinsk, Russia)
 
-**2006**
+**[2006]{.cv-date}**
 Scholarship of the President of Russia

@@ -1,6 +1,6 @@
 # Experience
 
-**2024.06–present**
+**[Jun 2024–present]{.cv-date}**
 **Computational Scientist (RS-5)**, **Group Leader**,
 *Data Science and Systems Integration (DSSI) Division, Data Acquisition
 and Detectors Group, NSLS-II, Brookhaven National Laboratory*,
@@ -8,7 +8,7 @@ Upton, NY ([https://www.bnl.gov](https://www.bnl.gov)).
 
 **Supervisor:** Dr. Stuart Wilkins
 
-**2023.01–2024.06**
+**[Jan 2023–Jun 2024]{.cv-date}**
 **Computational Scientist (RS-5)**, **Deputy Group Leader**,
 *Data Science and Systems Integration (DSSI) Program, Data Acquisition
 and Detectors Group, NSLS-II, Brookhaven National Laboratory*,
@@ -16,7 +16,7 @@ Upton, NY ([https://www.bnl.gov](https://www.bnl.gov)).
 
 **Supervisor:** Dr. Thomas Caswell
 
-**2021.03–2022.12**
+**[Mar 2021–Dec 2022]{.cv-date}**
 **Associate Computational Scientist (RS-4)**, **Supervisor**,
 *Data Science and Systems Integration (DSSI)
 Program, NSLS-II, Brookhaven National Laboratory*,
@@ -24,7 +24,7 @@ Upton, NY ([https://www.bnl.gov](https://www.bnl.gov)).
 
 **Supervisor:** Dr. Stuart Campbell
 
-**2019.10–2021.03**
+**[Oct 2019–Mar 2021]{.cv-date}**
 **Associate Computational Scientist**,
 *Data Acquisition, Management and Analysis (DAMA) Group, NSLS-II,
 Brookhaven National Laboratory*,
@@ -32,7 +32,7 @@ Upton, NY ([https://www.bnl.gov](https://www.bnl.gov)).
 
 **Supervisor:** Dr. Stuart Campbell
 
-**2017.11–2019.09**
+**[Nov 2017–Sep 2019]{.cv-date}**
 **Assistant Computational Scientist**,
 *Data Acquisition, Management and Analysis (DAMA) Group, NSLS-II,
 Brookhaven National Laboratory*,
@@ -82,7 +82,7 @@ Upton, NY ([https://www.bnl.gov](https://www.bnl.gov)).
 
 ---
 
-**2015.12–2017.10**
+**[Dec 2015–Oct 2017]{.cv-date}**
 **Research Associate (Postdoc)**, *NSLS-II, Brookhaven National
 Laboratory*, Upton, NY ([https://www.bnl.gov](https://www.bnl.gov)).
 
@@ -129,7 +129,7 @@ Laboratory*, Upton, NY ([https://www.bnl.gov](https://www.bnl.gov)).
 
 ---
 
-**2013.10–2015.12**
+**[Oct 2013–Dec 2015]{.cv-date}**
 **Postdoctoral Associate (Postdoc)**, *Prof. Oganov's lab,
 Department of Geosciences, Stony Brook University*, Stony Brook, NY
 ([https://stonybrook.edu](https://stonybrook.edu), [https://uspex-team.org/en/uspex](https://uspex-team.org/en/uspex)).
@@ -167,7 +167,7 @@ Department of Geosciences, Stony Brook University*, Stony Brook, NY
 
 ---
 
-**2008.10–2013.09**
+**[Oct 2008–Sep 2013]{.cv-date}**
 **Researcher**, *Department of General and Theoretical Physics,
 South Ural State University*, Chelyabinsk, Russia ([https://www.susu.ru/en](https://www.susu.ru/en)).
 
@@ -190,7 +190,7 @@ South Ural State University*, Chelyabinsk, Russia ([https://www.susu.ru/en](http
 
 ---
 
-**2007.06–2013.10**
+**[Jun 2007–Oct 2013]{.cv-date}**
 **QA Engineer, QA Team Leader**, *Applied Technologies Ltd.*,
 Chelyabinsk, Russia ([https://www.appliedtech.ru/en/](https://www.appliedtech.ru/en/)), a partner of Rocket
 Software Inc., USA ([https://www.rocketsoftware.com](https://www.rocketsoftware.com))
@@ -223,7 +223,7 @@ Software Inc., USA ([https://www.rocketsoftware.com](https://www.rocketsoftware.
 
 ---
 
-**2006–2007**
+**[2006–2007]{.cv-date}**
 **System administrator**, *Department of General and Theoretical
 Physics, South Ural State University*, Chelyabinsk, Russia
 ([https://www.susu.ru/en](https://www.susu.ru/en)) 

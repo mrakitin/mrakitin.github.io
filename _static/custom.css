@@ -12,3 +12,14 @@
 [data-theme="dark"] .cv-red {
     color: #e74c3c;
 }
+
+/* Date-range labels in Experience / Education — tabular figures, muted color */
+.cv-date {
+    font-variant-numeric: tabular-nums;
+    color: var(--pst-color-text-muted, #6c757d);
+    letter-spacing: 0.01em;
+}
+
+[data-theme="dark"] .cv-date {
+    color: var(--pst-color-text-muted, #adb5bd);
+}
