@@ -51,7 +51,7 @@ Upton, NY ([https://www.bnl.gov](https://www.bnl.gov)).
 
 - **Sirepo-Bluesky** — an interface library between the **Bluesky** data acquisition framework and the **Sirepo** browser-based interface framework to beamline and accelerator simulation codes, [https://github.com/NSLS-II/sirepo-bluesky](https://github.com/NSLS-II/sirepo-bluesky).
 
-- Many other related software projects.
+- **Blop** — a Bayesian optimization library for autonomous experiment control, [https://github.com/bluesky/blop](https://github.com/bluesky/blop).
 
 
 ## Funded Projects (PI roles):
