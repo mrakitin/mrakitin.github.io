@@ -1,6 +1,13 @@
 # Sphinx configuration for mrakitin/CV
 
 import datetime
+from datetime import datetime as _dt
+from zoneinfo import ZoneInfo as _ZoneInfo
+
+# Compute the Eastern timezone abbreviation (EDT/EST) at build time so we can
+# embed it as a literal in html_last_updated_fmt (the %Z strftime code gives
+# the UTC offset "-0400" on some platforms rather than the abbreviation "EDT").
+_tz_abbr = _dt.now(tz=_ZoneInfo("America/New_York")).strftime("%Z")
 
 # ── Project info ──────────────────────────────────────────────────────────────
 project   = "Max Rakitin — CV"
@@ -51,8 +58,9 @@ html_title  = "Max Rakitin — CV"
 html_short_title = "CV"
 html_favicon = "_static/favicon.png"
 
-# Show build date/time in the footer (America/New_York; CI job sets TZ env var)
-html_last_updated_fmt = "%B %-d, %Y at %H:%M %Z"
+# Show build date/time in the footer (America/New_York; CI job sets TZ env var).
+# Embed the tz abbreviation as a literal so Sphinx shows "EDT" not "-0400".
+html_last_updated_fmt = f"%B %-d, %Y at %H:%M {_tz_abbr}"
 
 # Base URL for the deployed site (root of mrakitin.github.io)
 html_baseurl = "https://mrakitin.github.io/"
