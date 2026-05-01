@@ -32,7 +32,7 @@ html_theme_options = {
     "navbar_end":        ["theme-switcher", "navbar-icon-links"],
     "secondary_sidebar_items": ["page-toc"],
     "footer_start":      ["copyright"],
-    "footer_end":        [],
+    "footer_end":        ["last-updated"],
     "show_toc_level":    2,
     "navigation_depth":  2,
     "logo": {
@@ -50,6 +50,9 @@ html_theme_options = {
 html_title  = "Max Rakitin — CV"
 html_short_title = "CV"
 html_favicon = "_static/favicon.png"
+
+# Show build date/time in the footer (America/New_York; CI job sets TZ env var)
+html_last_updated_fmt = "%B %-d, %Y at %H:%M %Z"
 
 # Base URL for the deployed site (root of mrakitin.github.io)
 html_baseurl = "https://mrakitin.github.io/"
