@@ -40,6 +40,11 @@ html_theme_options = {
         "image_light": "_static/profile.jpg",
         "image_dark":  "_static/profile.jpg",
     },
+    "announcement": (
+        '🚀 A new version of this site is available at '
+        '<a href="https://mrakitin.github.io/v2/">mrakitin.github.io/v2/</a>'
+        ' — powered by MkDocs Material theme.'
+    ),
 }
 
 html_title  = "Max Rakitin — CV"
