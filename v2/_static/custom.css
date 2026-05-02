@@ -93,15 +93,18 @@
 /* ── PDF preview thumbnails on home page ───────────────────────────────────── */
 .pdf-previews {
     display: flex;
+    flex-direction: row;
     gap: 2rem;
     flex-wrap: wrap;
     margin-top: 1.5rem;
     align-items: flex-start;
 }
 
-.pdf-previews > * {
+.pdf-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     text-align: center;
-    flex: 0 0 auto;
 }
 
 .pdf-thumb {
