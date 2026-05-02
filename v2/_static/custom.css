@@ -27,12 +27,12 @@
     object-fit: contain;
     vertical-align: middle;
     margin-right: 0.1em;
-    display: inline-block;
+    display: inline;
 }
 
 /* Profile photo on home page */
 .profile-photo {
-    width: 180px;
+    width: 140px;
     border-radius: 50%;
     display: block;
     margin: 0 auto 1rem;
@@ -41,7 +41,7 @@
 /* Hero grid layout on index page */
 .hero-grid {
     display: grid;
-    grid-template-columns: 200px 1fr;
+    grid-template-columns: 150px 1fr;
     gap: 2rem;
     align-items: start;
     margin-bottom: 2rem;
