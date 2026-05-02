@@ -6,11 +6,7 @@
 </div>
 
 
-:::{tip} Downloads
-[Full CV PDF](../_static/RakitinM_CV.pdf) · [Publications PDF](../_static/RakitinM_pubs.pdf)
-
-Also indexed on [Google Scholar](https://scholar.google.com/citations?user=kK04dAcAAAAJ&hl=en), [ORCID](https://orcid.org/0000-0003-3685-852X), and [ResearchGate](https://www.researchgate.net/profile/Max-Rakitin).
-:::
+<p class="cv-downloads">📄 <a href="../_static/RakitinM_CV.pdf">Full CV PDF</a> · <a href="../_static/RakitinM_pubs.pdf">Publications PDF</a> · Also indexed on <a href="https://scholar.google.com/citations?user=kK04dAcAAAAJ&amp;hl=en">Google Scholar</a>, <a href="https://orcid.org/0000-0003-3685-852X">ORCID</a>, and <a href="https://www.researchgate.net/profile/Max-Rakitin">ResearchGate</a>.</p>
 
 ## 2025
 
