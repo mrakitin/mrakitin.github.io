@@ -22,8 +22,8 @@
 /* Inline site logos (BNL, LinkedIn, ORCID) next to links */
 .md-typeset .site-icon,
 .site-icon {
-    height: 32px;
-    width: 32px;
+    height: 18px;
+    width: 18px;
     object-fit: contain;
     vertical-align: middle;
     margin-right: 0.1em;
