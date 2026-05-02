@@ -90,6 +90,11 @@
   content: " repos";
 }
 
+/* ── MkDocs Material header: make logo photo oval ──────────────────────────── */
+.md-logo img {
+  border-radius: 50%;
+}
+
 /* ── PDF preview thumbnails on home page ───────────────────────────────────── */
 .pdf-previews {
     display: flex;
