@@ -1,10 +1,16 @@
 # Publications
 
-!!! tip "Downloads"
+<div class="page-pdf-block">
+<a href="../_static/RakitinM_pubs.pdf"><img src="../_static/cv_thumbs/RakitinM_pubs.png" alt="Publications PDF"></a>
+<p><strong><a href="../_static/RakitinM_pubs.pdf">📥 Download PDF</a></strong></p>
+</div>
 
-    [Full CV PDF](../_static/RakitinM_CV.pdf) · [Publications PDF](../_static/RakitinM_pubs.pdf)
 
-    Also indexed on [Google Scholar](https://scholar.google.com/citations?user=kK04dAcAAAAJ&hl=en), [ORCID](https://orcid.org/0000-0003-3685-852X), and [ResearchGate](https://www.researchgate.net/profile/Max-Rakitin).
+:::{tip} Downloads
+[Full CV PDF](../_static/RakitinM_CV.pdf) · [Publications PDF](../_static/RakitinM_pubs.pdf)
+
+Also indexed on [Google Scholar](https://scholar.google.com/citations?user=kK04dAcAAAAJ&hl=en), [ORCID](https://orcid.org/0000-0003-3685-852X), and [ResearchGate](https://www.researchgate.net/profile/Max-Rakitin).
+:::
 
 ## 2025
 

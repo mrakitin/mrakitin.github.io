@@ -1,5 +1,11 @@
 # References
 
+<div class="page-pdf-block">
+<a href="../_static/RakitinM_refs.pdf"><img src="../_static/cv_thumbs/RakitinM_refs.png" alt="References PDF"></a>
+<p><strong><a href="../_static/RakitinM_refs.pdf">📥 Download PDF</a></strong></p>
+</div>
+
+
 **Colleague**
 **Thomas Caswell**, Ph.D., Data Acquisition and Detectors Deputy Group
 Leader,

@@ -1,5 +1,11 @@
 # Experience
 
+<div class="page-pdf-block">
+<a href="../_static/RakitinM_jobs.pdf"><img src="../_static/cv_thumbs/RakitinM_jobs.png" alt="Experience PDF"></a>
+<p><strong><a href="../_static/RakitinM_jobs.pdf">📥 Download PDF</a></strong></p>
+</div>
+
+
 **<span class="cv-date">Jun 2024–present</span>**
 **Computational Scientist (RS-5)**, **Group Leader**,
 *Data Science and Systems Integration (DSSI) Division, Data Acquisition

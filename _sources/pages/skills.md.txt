@@ -1,5 +1,11 @@
 # Computer Skills
 
+<div class="page-pdf-block">
+<a href="../_static/RakitinM_skills.pdf"><img src="../_static/cv_thumbs/RakitinM_skills.png" alt="Skills PDF"></a>
+<p><strong><a href="../_static/RakitinM_skills.pdf">📥 Download PDF</a></strong></p>
+</div>
+
+
 **Data analysis, visualization**
 Python, NumPy, SciPy, Matplotlib,
 Bokeh, D3.js, Matlab/Octave, OriginPro, gnuplot, VESTA, XCrysDen, STM4, P4VASP,

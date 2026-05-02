@@ -1,5 +1,11 @@
 # About
 
+<div class="page-pdf-block">
+<a href="../_static/RakitinM_CV.pdf"><img src="../_static/cv_thumbs/RakitinM_CV.png" alt="Full CV PDF"></a>
+<p><strong><a href="../_static/RakitinM_CV.pdf">📥 Download PDF</a></strong></p>
+</div>
+
+
 **Name:**
 Max Rakitin (a.k.a. Maksim S. Rakitin)
 

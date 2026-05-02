@@ -1,5 +1,11 @@
 # Honors & Awards
 
+<div class="page-pdf-block">
+<a href="../_static/RakitinM_awards.pdf"><img src="../_static/cv_thumbs/RakitinM_awards.png" alt="Awards PDF"></a>
+<p><strong><a href="../_static/RakitinM_awards.pdf">📥 Download PDF</a></strong></p>
+</div>
+
+
 **<span class="cv-date">Sep 2024</span>**
 Spotlight Award in recognition of exceptional job performance
 (Brookhaven National Lab, Upton, NY)

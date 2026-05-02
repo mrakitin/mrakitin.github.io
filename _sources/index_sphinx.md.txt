@@ -10,6 +10,7 @@
 :alt: Max Rakitin
 :width: 200px
 :align: center
+:class: profile-photo
 ```
 :::
 

@@ -1,5 +1,11 @@
 # Education
 
+<div class="page-pdf-block">
+<a href="../_static/RakitinM_edu.pdf"><img src="../_static/cv_thumbs/RakitinM_edu.png" alt="Education PDF"></a>
+<p><strong><a href="../_static/RakitinM_edu.pdf">📥 Download PDF</a></strong></p>
+</div>
+
+
 **<span class="cv-date">Oct 2008–Sep 2012</span>**
 **Ph.D.
 in Condensed Matter Physics (defended on September 19, 2012)** 
