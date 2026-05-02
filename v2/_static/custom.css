@@ -7,16 +7,23 @@
 [data-md-color-scheme="slate"] .cv-red {
     color: #e74c3c;
 }
+/* Sphinx/pydata-theme dark mode */
+[data-theme="dark"] .cv-red {
+    color: #e74c3c;
+}
 
 /* Date-range labels in Experience / Education — tabular figures, muted color */
 .cv-date {
     font-variant-numeric: tabular-nums;
-    color: var(--md-default-fg-color--light, #6c757d);
+    color: var(--md-default-fg-color--light, var(--pst-color-text-muted, #6c757d));
     letter-spacing: 0.01em;
 }
 
 [data-md-color-scheme="slate"] .cv-date {
     color: var(--md-default-fg-color--light, #adb5bd);
+}
+[data-theme="dark"] .cv-date {
+    color: var(--pst-color-text-muted, #adb5bd);
 }
 
 /* Inline site logos (BNL, LinkedIn, ORCID) next to links */
@@ -28,6 +35,11 @@
     vertical-align: middle;
     margin-right: 0.1em;
     display: inline;
+}
+
+/* Sphinx: slightly tighten definition-list style entries */
+.bd-content dt {
+    font-weight: 600;
 }
 
 /* Profile photo on home page */
