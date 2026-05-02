@@ -28,8 +28,8 @@ source_suffix = {
     ".rst": "restructuredtext",
     ".md":  "markdown",
 }
-master_doc = "index"
-exclude_patterns = ["_build", "Thumbs.db", ".DS_Store", "index_mkdocs.md"]
+master_doc = "index_sphinx"
+exclude_patterns = ["_build", "Thumbs.db", ".DS_Store", "index.md"]
 
 # ── HTML output ───────────────────────────────────────────────────────────────
 html_theme = "pydata_sphinx_theme"
