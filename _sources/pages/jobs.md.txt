@@ -1,6 +1,6 @@
 # Experience
 
-**[Jun 2024–present]{.cv-date}**
+**<span class="cv-date">Jun 2024–present</span>**
 **Computational Scientist (RS-5)**, **Group Leader**,
 *Data Science and Systems Integration (DSSI) Division, Data Acquisition
 and Detectors Group, NSLS-II, Brookhaven National Laboratory*,
@@ -8,7 +8,7 @@ Upton, NY ([https://www.bnl.gov](https://www.bnl.gov), [DSSI](https://www.bnl.go
 
 **Supervisor:** Dr. Stuart Wilkins
 
-**[Jan 2023–Jun 2024]{.cv-date}**
+**<span class="cv-date">Jan 2023–Jun 2024</span>**
 **Computational Scientist (RS-5)**, **Deputy Group Leader**,
 *Data Science and Systems Integration (DSSI) Program, Data Acquisition
 and Detectors Group, NSLS-II, Brookhaven National Laboratory*,
@@ -16,7 +16,7 @@ Upton, NY ([https://www.bnl.gov](https://www.bnl.gov), [DSSI](https://www.bnl.go
 
 **Supervisor:** Dr. Thomas Caswell
 
-**[Mar 2021–Dec 2022]{.cv-date}**
+**<span class="cv-date">Mar 2021–Dec 2022</span>**
 **Associate Computational Scientist (RS-4)**, **Supervisor**,
 *Data Science and Systems Integration (DSSI)
 Program, NSLS-II, Brookhaven National Laboratory*,
@@ -24,7 +24,7 @@ Upton, NY ([https://www.bnl.gov](https://www.bnl.gov), [DSSI](https://www.bnl.go
 
 **Supervisor:** Dr. Stuart Campbell
 
-**[Oct 2019–Mar 2021]{.cv-date}**
+**<span class="cv-date">Oct 2019–Mar 2021</span>**
 **Associate Computational Scientist**,
 *Data Acquisition, Management and Analysis (DAMA) Group, NSLS-II,
 Brookhaven National Laboratory*,
@@ -32,7 +32,7 @@ Upton, NY ([https://www.bnl.gov](https://www.bnl.gov)).
 
 **Supervisor:** Dr. Stuart Campbell
 
-**[Nov 2017–Sep 2019]{.cv-date}**
+**<span class="cv-date">Nov 2017–Sep 2019</span>**
 **Assistant Computational Scientist**,
 *Data Acquisition, Management and Analysis (DAMA) Group, NSLS-II,
 Brookhaven National Laboratory*,
@@ -43,15 +43,15 @@ Upton, NY ([https://www.bnl.gov](https://www.bnl.gov)).
 
 ## Software Projects:
 
-- **Bluesky** — a library for experiment control and collection of scientific data and metadata, {octicon}`book;1em` [docs](https://blueskyproject.io/bluesky), [GitHub GitHub](https://github.com/bluesky/bluesky).
+- **Bluesky** — a library for experiment control and collection of scientific data and metadata, :octicons-book-16: [docs](https://blueskyproject.io/bluesky), :octicons-mark-github-16: [bluesky/bluesky](https://github.com/bluesky/bluesky).
 
-- **Ophyd** — a device abstraction library, {octicon}`book;1em` [docs](https://blueskyproject.io/ophyd), [GitHub GitHub](https://github.com/bluesky/ophyd).
+- **Ophyd** — a device abstraction library, :octicons-book-16: [docs](https://blueskyproject.io/ophyd), :octicons-mark-github-16: [bluesky/ophyd](https://github.com/bluesky/ophyd).
 
-- **Databroker** — a simple, user-friendly interface for retrieving stored data and metadata from multiple sources, {octicon}`book;1em` [docs](https://blueskyproject.io/databroker), [GitHub GitHub](https://github.com/bluesky/databroker).
+- **Databroker** — a simple, user-friendly interface for retrieving stored data and metadata from multiple sources, :octicons-book-16: [docs](https://blueskyproject.io/databroker), :octicons-mark-github-16: [bluesky/databroker](https://github.com/bluesky/databroker).
 
-- **Sirepo-Bluesky** — an interface library between the **Bluesky** data acquisition framework and the **Sirepo** browser-based interface framework to beamline and accelerator simulation codes, {octicon}`book;1em` [docs](https://nsls-ii.github.io/sirepo-bluesky/), [GitHub GitHub](https://github.com/NSLS-II/sirepo-bluesky).
+- **Sirepo-Bluesky** — an interface library between the **Bluesky** data acquisition framework and the **Sirepo** browser-based interface framework to beamline and accelerator simulation codes, :octicons-book-16: [docs](https://nsls-ii.github.io/sirepo-bluesky/), :octicons-mark-github-16: [NSLS-II/sirepo-bluesky](https://github.com/NSLS-II/sirepo-bluesky).
 
-- **Blop** — a Bayesian optimization library for autonomous experiment control, {octicon}`book;1em` [docs](https://blueskyproject.io/blop/), [GitHub GitHub](https://github.com/bluesky/blop).
+- **Blop** — a Bayesian optimization library for autonomous experiment control, :octicons-book-16: [docs](https://blueskyproject.io/blop/), :octicons-mark-github-16: [bluesky/blop](https://github.com/bluesky/blop).
 
 
 ## Funded Projects (PI roles):
@@ -82,7 +82,7 @@ Upton, NY ([https://www.bnl.gov](https://www.bnl.gov)).
 
 ---
 
-**[Dec 2015–Oct 2017]{.cv-date}**
+**<span class="cv-date">Dec 2015–Oct 2017</span>**
 **Research Associate (Postdoc)**, *NSLS-II, Brookhaven National
 Laboratory*, Upton, NY ([https://www.bnl.gov](https://www.bnl.gov)).
 
@@ -91,13 +91,13 @@ Laboratory*, Upton, NY ([https://www.bnl.gov](https://www.bnl.gov)).
 
 ## Software Projects:
 
-- **Synchrotron Radiation Workshop (SRW)** — computer code for X-ray source and optics simulations, [GitHub GitHub](https://github.com/ochubar/SRW).
+- **Synchrotron Radiation Workshop (SRW)** — computer code for X-ray source and optics simulations, :octicons-mark-github-16: [ochubar/SRW](https://github.com/ochubar/SRW).
 
-- **Sirepo** — a cloud-based framework for SRW, [GitHub GitHub](https://github.com/radiasoft/sirepo).
+- **Sirepo** — a cloud-based framework for SRW, :octicons-mark-github-16: [radiasoft/sirepo](https://github.com/radiasoft/sirepo).
 
-- **Image processing and data visualization**, [GitHub GitHub](https://github.com/mrakitin/plotting) and [GitHub GitHub](https://github.com/mrakitin/experiments).
+- **Image processing and data visualization**, :octicons-mark-github-16: [mrakitin/plotting](https://github.com/mrakitin/plotting) and :octicons-mark-github-16: [mrakitin/experiments](https://github.com/mrakitin/experiments).
 
-- **CRL simulator** — a code for simulation of a transfocator (compound refractive lenses (CRL) for X-ray focusing), [GitHub GitHub](https://github.com/mrakitin/bnlcrl).
+- **CRL simulator** — a code for simulation of a transfocator (compound refractive lenses (CRL) for X-ray focusing), :octicons-mark-github-16: [mrakitin/bnlcrl](https://github.com/mrakitin/bnlcrl).
 
 
 ## Responsibilities:
@@ -129,7 +129,7 @@ Laboratory*, Upton, NY ([https://www.bnl.gov](https://www.bnl.gov)).
 
 ---
 
-**[Oct 2013–Dec 2015]{.cv-date}**
+**<span class="cv-date">Oct 2013–Dec 2015</span>**
 **Postdoctoral Associate (Postdoc)**, *Prof. Oganov's lab,
 Department of Geosciences, Stony Brook University*, Stony Brook, NY
 ([https://stonybrook.edu](https://stonybrook.edu), [https://uspex-team.org/en/uspex](https://uspex-team.org/en/uspex)).
@@ -141,7 +141,7 @@ Department of Geosciences, Stony Brook University*, Stony Brook, NY
 
 - Refactoring of [USPEX](https://uspex-team.org/en/uspex) code and porting it from Matlab to Python using modern programming techniques.
 
-- *Ab initio* investigation of BeF_2 and SiO_2 systems in a wide pressures range ([paper](https://doi.org/10.1039/C5CP04010H)) using [USPEX](https://uspex-team.org/en/uspex), [VASP](https://vasp.at), [Quantum Espresso](https://www.quantum-espresso.org), [Phonopy](https://phonopy.github.io/phonopy/).
+- *Ab initio* investigation of BeF<sub>2</sub> and SiO<sub>2</sub> systems in a wide pressures range ([paper](https://doi.org/10.1039/C5CP04010H)) using [USPEX](https://uspex-team.org/en/uspex), [VASP](https://vasp.at), [Quantum Espresso](https://www.quantum-espresso.org), [Phonopy](https://phonopy.github.io/phonopy/).
 
 - Prediction of secondary structures of proteins from knowledge of sequences of amino acids. Development of USPEX interface for [Tinker](https://dasher.wustl.edu/tinker/).
 
@@ -162,12 +162,12 @@ Department of Geosciences, Stony Brook University*, Stony Brook, NY
 
 - Creation and maintenance of [USPEX manual](https://uspex-team.org/en/uspex/documentation) in LaTeX, PDF, HTML formats.
 
-- https://groups.google.com/g/uspex USPEX community support.
+- [USPEX community](https://groups.google.com/g/uspex) support.
 
 
 ---
 
-**[Oct 2008–Sep 2013]{.cv-date}**
+**<span class="cv-date">Oct 2008–Sep 2013</span>**
 **Researcher**, *Department of General and Theoretical Physics,
 South Ural State University*, Chelyabinsk, Russia ([https://www.susu.ru/en](https://www.susu.ru/en)).
 
@@ -190,7 +190,7 @@ South Ural State University*, Chelyabinsk, Russia ([https://www.susu.ru/en](http
 
 ---
 
-**[Jun 2007–Oct 2013]{.cv-date}**
+**<span class="cv-date">Jun 2007–Oct 2013</span>**
 **QA Engineer, QA Team Leader**, *Applied Technologies Ltd.*,
 Chelyabinsk, Russia ([https://www.appliedtech.ru/en/](https://www.appliedtech.ru/en/)), a partner of Rocket
 Software Inc., USA ([https://www.rocketsoftware.com](https://www.rocketsoftware.com))
@@ -201,29 +201,24 @@ Software Inc., USA ([https://www.rocketsoftware.com](https://www.rocketsoftware.
 ## Software Projects:
 
 - Tivoli Enterprise Portal (TEP) (August 2011 – October 2013) — QA team leader. Responsibilities: software testing on Windows, Linux, Linux on z, z/OS operating systems, GUI testing automation using [IBM Rational Functional Tester](https://www.ibm.com/docs/en/rft/latest), creation of TEP Automated Testing System (TATS) for automatic data verification using Python, REST API, JSON, XML, PHP, HTML, JavaScript, jQuery in six TEP-enabled products:
-  - https://www.ibm.com/docs/en/adv-rpt-dfsmshsm/latest
-- Tivoli Advanced Reporting and Management for DFSMShsm;
-  - https://www.ibm.com/docs/en/adv-audit-dfsmshsm/latest
-- Tivoli Advanced Audit for DFSMShsm;
-  - https://www.ibm.com/docs/en/catalog-management/latest
-- Tivoli Advanced Catalog Management for z/OS;
-  - https://www.ibm.com/docs/en/backup-recovery/latest
-- Tivoli Advanced Backup and Recovery for z/OS;
-  - https://www.ibm.com/docs/en/tivoli-aam/latest
-- Tivoli Advanced Allocation Management;
-  - https://www.ibm.com/docs/en/auto-tape-alloc-mgr/latest
-- Tivoli Automated Tape Allocation Manager for z/OS. Regular voice and video conversations with colleagues from the US.
+    - [Tivoli Advanced Reporting and Management for DFSMShsm](https://www.ibm.com/docs/en/adv-rpt-dfsmshsm/latest);
+    - [Tivoli Advanced Audit for DFSMShsm](https://www.ibm.com/docs/en/adv-audit-dfsmshsm/latest);
+    - [Tivoli Advanced Catalog Management for z/OS](https://www.ibm.com/docs/en/catalog-management/latest);
+    - [Tivoli Advanced Backup and Recovery for z/OS](https://www.ibm.com/docs/en/backup-recovery/latest);
+    - [Tivoli Advanced Allocation Management](https://www.ibm.com/docs/en/tivoli-aam/latest);
+    - [Tivoli Automated Tape Allocation Manager for z/OS](https://www.ibm.com/docs/en/auto-tape-alloc-mgr/latest).
+- Regular voice and video conversations with colleagues from the US.
 
-- https://www.ibm.com/docs/en/tsm/latest Tivoli Storage Manager for z/OS Media (February 2011 – August 2011) — QA engineer. Responsibilities: software testing on Windows, Linux on z, Solaris, AIX, z/OS operating systems with IBM DB2 databases, testing automation using IBM-developed tools, bash, batch.
+- [Tivoli Storage Manager for z/OS Media](https://www.ibm.com/docs/en/tsm/latest) (February 2011 – August 2011) — QA engineer. Responsibilities: software testing on Windows, Linux on z, Solaris, AIX, z/OS operating systems with IBM DB2 databases, testing automation using IBM-developed tools, bash, batch.
 
-- https://www.ibm.com/docs/en/tivoli-aam/latest IBM Tivoli Advanced Allocation Management (January 2009 – January 2011) — QA engineer. Responsibilities: software testing on z/OS, testing automation using bash, JCL, REXX. Regular voice and video conversations with colleagues from the US.
+- [IBM Tivoli Advanced Allocation Management](https://www.ibm.com/docs/en/tivoli-aam/latest) (January 2009 – January 2011) — QA engineer. Responsibilities: software testing on z/OS, testing automation using bash, JCL, REXX. Regular voice and video conversations with colleagues from the US.
 
-- https://www.rocketsoftware.com/products/rocket-servergraph Rocket Servergraph Data Protection Expert (June 2007 – December 2008) — QA engineer. Responsibilities: software testing on Windows, Linux, Solaris, HP-UX, AIX operating systems with PostgreSQL databases, GUI testing automation using AutoIt3, automation of data verification using Perl and SQL. Regular voice and video conversations with colleagues from the US.
+- [Rocket Servergraph Data Protection Expert](https://www.rocketsoftware.com/products/rocket-servergraph) (June 2007 – December 2008) — QA engineer. Responsibilities: software testing on Windows, Linux, Solaris, HP-UX, AIX operating systems with PostgreSQL databases, GUI testing automation using AutoIt3, automation of data verification using Perl and SQL. Regular voice and video conversations with colleagues from the US.
 
 
 ---
 
-**[2006–2007]{.cv-date}**
+**<span class="cv-date">2006–2007</span>**
 **System administrator**, *Department of General and Theoretical
 Physics, South Ural State University*, Chelyabinsk, Russia
 ([https://www.susu.ru/en](https://www.susu.ru/en)) 

@@ -1,6 +1,6 @@
 # Education
 
-**[Oct 2008–Sep 2012]{.cv-date}**
+**<span class="cv-date">Oct 2008–Sep 2012</span>**
 **Ph.D.
 in Condensed Matter Physics (defended on September 19, 2012)** 
 
@@ -11,7 +11,7 @@ dissolution energy in the bcc iron
 
 *Scientific adviser*: Prof. A.A. Mirzoev, Dr. of Sciences
 
-**[Sep 2006–Jun 2008]{.cv-date}**
+**<span class="cv-date">Sep 2006–Jun 2008</span>**
 **M.S.
 in Applied Mathematics and Physics (June 13, 2008)** 
 
@@ -24,9 +24,9 @@ impurities on dissolution energy of H in Fe
 
 *GPA*: 3.85 / 4.0
 
-**[Sep 2002–Jun 2006]{.cv-date}**
+**<span class="cv-date">Sep 2002–Jun 2006</span>**
 **B.S. in Applied Mathematics and Physics (June 20, 2006),
-[summa cum laude]{.cv-red}** 
+<span class="cv-red">summa cum laude</span>** 
 
 *South Ural State University (SUSU), Chelyabinsk, Russia* 
 

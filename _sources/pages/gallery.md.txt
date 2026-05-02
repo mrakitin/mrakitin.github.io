@@ -2,164 +2,124 @@
 
 ## Affiliations
 
-::::{grid} 1 2 3 3
-:gutter: 3
+<div class="grid cards" markdown>
 
-:::{grid-item-card}
-```{image} ../_static/logos/bnl-full.png
-:alt: Brookhaven National Laboratory
-:height: 60px
-:align: center
-```
-^^^
-**[Brookhaven National Laboratory](https://www.bnl.gov)**
+-   ![Brookhaven National Laboratory](../_static/logos/bnl-full.png){ .affil-logo }
 
-Computational Scientist / Group Leader, NSLS-II
+    <hr>
 
-[Nov 2017 – present]{.cv-date}
-:::
+    **[Brookhaven National Laboratory](https://www.bnl.gov)**
 
-:::{grid-item-card}
-```{image} ../_static/logos/sbu.png
-:alt: Stony Brook University
-:height: 60px
-:align: center
-```
-^^^
-**[Stony Brook University](https://stonybrook.edu)**
+    Computational Scientist / Group Leader, NSLS-II
 
-Postdoctoral Associate (Oganov lab, Dept. of Geosciences)
+    <span class="cv-date">Nov 2017 – present</span>
 
-[Oct 2013 – Dec 2015]{.cv-date}
-:::
+-   ![Stony Brook University](../_static/logos/sbu.png){ .affil-logo }
 
-:::{grid-item-card}
-```{image} ../_static/logos/susu.png
-:alt: South Ural State University
-:height: 60px
-:align: center
-```
-^^^
-**[South Ural State University](https://www.susu.ru/en)**
+    <hr>
 
-Researcher, Dept. of General and Theoretical Physics
+    **[Stony Brook University](https://stonybrook.edu)**
 
-[Oct 2008 – Sep 2013]{.cv-date}
-:::
+    Postdoctoral Associate (Oganov lab, Dept. of Geosciences)
 
-:::{grid-item-card}
-```{image} ../_static/logos/at.png
-:alt: Applied Technologies (Rocket Software partner)
-:height: 60px
-:align: center
-```
-^^^
-**[Applied Technologies (Rocket Software partner)](https://www.appliedtech.ru/en/)**
+    <span class="cv-date">Oct 2013 – Dec 2015</span>
 
-QA Engineer / System Programmer
+-   ![South Ural State University](../_static/logos/susu.png){ .affil-logo }
 
-[Jun 2007 – Oct 2013]{.cv-date}
-:::
+    <hr>
 
-:::{grid-item-card}
-```{image} ../_static/logos/susu.png
-:alt: South Ural State University
-:height: 60px
-:align: center
-```
-^^^
-**[South Ural State University](https://www.susu.ru/en)**
+    **[South Ural State University](https://www.susu.ru/en)**
 
-System Administrator, Dept. of General and Theoretical Physics
+    Researcher, Dept. of General and Theoretical Physics
 
-[2006 – 2007]{.cv-date}
-:::
+    <span class="cv-date">Oct 2008 – Sep 2013</span>
 
-::::
+-   ![Applied Technologies (Rocket Software partner)](../_static/logos/at.png){ .affil-logo }
+
+    <hr>
+
+    **[Applied Technologies (Rocket Software partner)](https://www.appliedtech.ru/en/)**
+
+    QA Engineer / System Programmer
+
+    <span class="cv-date">Jun 2007 – Oct 2013</span>
+
+-   ![South Ural State University](../_static/logos/susu.png){ .affil-logo }
+
+    <hr>
+
+    **[South Ural State University](https://www.susu.ru/en)**
+
+    System Administrator, Dept. of General and Theoretical Physics
+
+    <span class="cv-date">2006 – 2007</span>
+
+</div>
 
 ---
 
 ## Software Projects
 
-::::{grid} 1 2 3 3
-:gutter: 3
+<div class="grid cards" markdown>
 
-:::{grid-item-card}
-```{image} ../_static/gallery/bluesky-overview.png
-:alt: Bluesky Ecosystem
-:width: 100%
-```
-^^^
-**[Bluesky Ecosystem](https://blueskyproject.io)**
+-   ![Bluesky Ecosystem](../_static/gallery/bluesky-overview.png){ .card-image }
 
-Architecture overview of the Bluesky experiment orchestration ecosystem: run engine, ophyd device layer, databroker, and associated tools developed at NSLS-II. See [blueskyproject.io](https://blueskyproject.io) and [Allan et al., Synchrotron Radiat. News **32**, 19 (2019)](https://doi.org/10.1080/08940886.2019.1608121).
+    <hr>
 
-[Nov 2017 – present]{.cv-date}
-:::
+    **[Bluesky Ecosystem](https://blueskyproject.io)**
 
-:::{grid-item-card}
-```{image} ../_static/gallery/TES-blop.jpg
-:alt: Autonomous Beamline Alignment (BLOP)
-:width: 100%
-```
-^^^
-**[Autonomous Beamline Alignment (BLOP)](https://doi.org/10.1107/S1600577524008993)**
+    Architecture overview of the Bluesky experiment orchestration ecosystem: run engine, ophyd device layer, databroker, and associated tools developed at NSLS-II. See [blueskyproject.io](https://blueskyproject.io) and [Allan et al., Synchrotron Radiat. News **32**, 19 (2019)](https://doi.org/10.1080/08940886.2019.1608121).
 
-Four beam configurations on the NSLS-II TES (8-BM) beamline: upper-left shows the initial beam; lower-right shows the optimal alignment. Six degrees of freedom (KB mirror translations/rotations and toroidal mirror pitch/translation) are tuned to maximize flux density. From [Morris et al., J. Synchrotron Rad. **31**, 1446 (2024)](https://doi.org/10.1107/S1600577524008993).
+    <span class="cv-date">Nov 2017 – present</span>
 
-[2020 – present]{.cv-date}
-:::
+-   ![Autonomous Beamline Alignment (BLOP)](../_static/gallery/TES-blop.jpg){ .card-image }
 
-:::{grid-item-card}
-```{image} ../_static/gallery/Sirepo.jpg
-:alt: Sirepo
-:width: 100%
-```
-^^^
-**[Sirepo](https://www.sirepo.com)**
+    <hr>
 
-Sirepo — a cloud-based web interface for X-ray source and optics simulations powered by SRW, developed at RadiaSoft / NSLS-II. Enables browser-based setup, execution, and visualization of synchrotron beamline simulations. See [Rakitin et al., J. Synchrotron Rad. **25**, 1877 (2018)](https://doi.org/10.1107/S1600577518010986).
+    **[Autonomous Beamline Alignment (BLOP)](https://doi.org/10.1107/S1600577524008993)**
 
-[Dec 2015 – present]{.cv-date}
-:::
+    Four beam configurations on the NSLS-II TES (8-BM) beamline: upper-left shows the initial beam; lower-right shows the optimal alignment. Six degrees of freedom (KB mirror translations/rotations and toroidal mirror pitch/translation) are tuned to maximize flux density. From [Morris et al., J. Synchrotron Rad. **31**, 1446 (2024)](https://doi.org/10.1107/S1600577524008993).
 
-:::{grid-item-card}
-```{image} ../_static/gallery/SRW-gui.png
-:alt: TkInter GUI for SRW
-:width: 100%
-```
-^^^
-**[TkInter GUI for SRW](https://github.com/mrakitin/SRW-gui)**
+    <span class="cv-date">2020 – present</span>
 
-Prototype desktop GUI for Synchrotron Radiation Workshop (SRW), developed as a job-interview demo at BNL.
+-   ![Sirepo](../_static/gallery/Sirepo.jpg){ .card-image }
 
-[Jul 2015]{.cv-date}
-:::
+    <hr>
 
-:::{grid-item-card}
-```{image} ../_static/gallery/USPEX-api.png
-:alt: Stokes Random-Cell Generator API
-:width: 100%
-```
-^^^
-**[Stokes Random-Cell Generator API](https://uspex.stonybrook.edu)**
+    **[Sirepo](https://www.sirepo.com)**
 
-Simplified REST API for on-the-fly generation of random crystal cells, part of USPEX online utilities at Stony Brook University.
+    Sirepo — a cloud-based web interface for X-ray source and optics simulations powered by SRW, developed at RadiaSoft / NSLS-II. Enables browser-based setup, execution, and visualization of synchrotron beamline simulations. See [Rakitin et al., J. Synchrotron Rad. **25**, 1877 (2018)](https://doi.org/10.1107/S1600577518010986).
 
-[Jun 2015]{.cv-date}
-:::
+    <span class="cv-date">Dec 2015 – present</span>
 
-:::{grid-item-card}
-```{image} ../_static/gallery/TATS.png
-:alt: TEP Automated Testing System (TATS)
-:width: 100%
-```
-^^^
-**TEP Automated Testing System (TATS)**
+-   ![TkInter GUI for SRW](../_static/gallery/SRW-gui.png){ .card-image }
 
-End-to-end automated testing framework for the TEP mainframe emulator product at Applied Technologies / Rocket Software.
+    <hr>
 
-[Aug 2011 – Oct 2013]{.cv-date}
-:::
+    **[TkInter GUI for SRW](https://github.com/mrakitin/SRW-gui)**
 
-::::
+    Prototype desktop GUI for Synchrotron Radiation Workshop (SRW), developed as a job-interview demo at BNL.
+
+    <span class="cv-date">Jul 2015</span>
+
+-   ![Stokes Random-Cell Generator API](../_static/gallery/USPEX-api.png){ .card-image }
+
+    <hr>
+
+    **[Stokes Random-Cell Generator API](https://uspex.stonybrook.edu)**
+
+    Simplified REST API for on-the-fly generation of random crystal cells, part of USPEX online utilities at Stony Brook University.
+
+    <span class="cv-date">Jun 2015</span>
+
+-   ![TEP Automated Testing System (TATS)](../_static/gallery/TATS.png){ .card-image }
+
+    <hr>
+
+    **TEP Automated Testing System (TATS)**
+
+    End-to-end automated testing framework for the TEP mainframe emulator product at Applied Technologies / Rocket Software.
+
+    <span class="cv-date">Aug 2011 – Oct 2013</span>
+
+</div>
