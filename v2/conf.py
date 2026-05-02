@@ -29,7 +29,8 @@ source_suffix = {
     ".md":  "markdown",
 }
 master_doc = "index_sphinx"
-exclude_patterns = ["_build", "Thumbs.db", ".DS_Store", "index.md"]
+exclude_patterns = ["_build", "Thumbs.db", ".DS_Store", "index.md", "_sphinx_extra"]
+html_extra_path   = ["_sphinx_extra"]
 
 # ── HTML output ───────────────────────────────────────────────────────────────
 html_theme = "pydata_sphinx_theme"
