@@ -84,3 +84,8 @@
     border-radius: 4px;
     margin-bottom: 0.5rem;
 }
+
+/* ── MkDocs Material header: label the repo count ──────────────────────────── */
+.md-source__fact--repositories::after {
+  content: " repos";
+}
