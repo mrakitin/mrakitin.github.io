@@ -1,0 +1,53 @@
+# Max Rakitin — Curriculum Vitae
+
+::::{grid} 1 1 2 2
+:gutter: 3
+
+:::{grid-item}
+:columns: 12 12 4 3
+
+```{image} _static/profile.jpg
+:alt: Max Rakitin
+:width: 200px
+:align: center
+```
+:::
+
+:::{grid-item}
+:columns: 12 12 8 9
+
+**Max Rakitin, Ph.D.**
+Group Leader, Data Acquisition & Detectors Group,
+Data Science and Systems Integration Division, NSLS-II
+Brookhaven National Laboratory, Upton, NY
+
+✉ [mrakitin@bnl.gov](mailto:mrakitin@bnl.gov) · 
+![BNL](_static/logos/bnl.png){.site-icon} [BNL](https://www.bnl.gov/staff/mrakitin) · 
+{octicon}`mark-github;1em` [mrakitin](https://github.com/mrakitin) · 
+![LinkedIn](_static/logos/linkedin.svg){.site-icon} [LinkedIn](https://www.linkedin.com/in/mrakitin) · 
+![ORCID](_static/logos/orcid.svg){.site-icon} [ORCID](https://orcid.org/0000-0003-3685-852X)
+
+The full document is also available as a PDF:
+
+- {download}`Full CV (PDF) <_static/RakitinM_CV.pdf>`
+- {download}`Publications (PDF) <_static/RakitinM_pubs.pdf>`
+:::
+::::
+
+---
+
+```{toctree}
+:maxdepth: 1
+:caption: Sections
+
+pages/about
+pages/jobs
+pages/edu
+pages/pubs
+pages/confs
+pages/awards
+pages/skills
+pages/langs
+pages/refs
+pages/gallery
+```
