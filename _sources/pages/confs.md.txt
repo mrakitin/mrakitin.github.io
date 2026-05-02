@@ -95,13 +95,13 @@ LBNL, Berkeley, CA
 **[Jan 2019]{.cv-date}**
 **[Invited talk]{.cv-red}** — *Bluesky,
 ophyd, pseudo motors, detectors*
-[🔗](https://github.com/mrakitin/Berlin-2019-tutorials-workshop),
+[GitHub](https://github.com/mrakitin/Berlin-2019-tutorials-workshop),
 Automation in Beamline Control and Data Acquisition workshop,
 HZB, BESSY-II, Berlin, Germany
 
 **[Jan 2019]{.cv-date}**
 **[Invited tutorials on Sirepo and Bluesky]{.cv-red}**
-[🔗](https://github.com/mrakitin/Berlin-2019-tutorials-workshop),
+[GitHub](https://github.com/mrakitin/Berlin-2019-tutorials-workshop),
 Automation in Beamline Control and Data Acquisition workshop,
 HZB, BESSY-II, Berlin, Germany
 
