@@ -22,7 +22,7 @@ Group Leader, Data Acquisition & Detectors Group,
 Data Science and Systems Integration Division, NSLS-II
 Brookhaven National Laboratory, Upton, NY
 
-✉ [mrakitin@bnl.gov](mailto:mrakitin@bnl.gov) · 
+![Email](_static/logos/email.svg){.site-icon} [mrakitin@bnl.gov](mailto:mrakitin@bnl.gov) · 
 ![BNL](_static/logos/bnl.png){.site-icon} [BNL](https://www.bnl.gov/staff/mrakitin) · 
 {octicon}`mark-github;1em` [mrakitin](https://github.com/mrakitin) · 
 ![LinkedIn](_static/logos/linkedin.svg){.site-icon} [LinkedIn](https://www.linkedin.com/in/mrakitin) · 
