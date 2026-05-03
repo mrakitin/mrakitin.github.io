@@ -31,6 +31,7 @@ source_suffix = {
 master_doc = "index_sphinx"
 exclude_patterns = ["_build", "Thumbs.db", ".DS_Store", "index.md", "_sphinx_extra"]
 html_extra_path   = ["_sphinx_extra"]
+templates_path    = ["_templates"]
 
 # ── HTML output ───────────────────────────────────────────────────────────────
 html_theme = "pydata_sphinx_theme"
@@ -38,7 +39,7 @@ html_theme = "pydata_sphinx_theme"
 html_theme_options = {
     "github_url":        "https://github.com/mrakitin",
     "navbar_end":        ["theme-switcher", "navbar-icon-links"],
-    "secondary_sidebar_items": ["page-toc"],
+    "secondary_sidebar_items": ["sidebar-pdf", "page-toc"],
     "footer_start":      ["copyright"],
     "footer_end":        ["last-updated"],
     "show_toc_level":    2,

@@ -1,0 +1,27 @@
+{# Sidebar widget: per-page PDF thumbnail + download link.
+   Renders in the secondary (right) sidebar of pydata-sphinx-theme.
+   Only shows when the current page has an associated section PDF. #}
+
+{% set page_pdfs = {
+    "pages/about":  ("RakitinM_CV.pdf",     "Full CV PDF"),
+    "pages/jobs":   ("RakitinM_jobs.pdf",   "Experience PDF"),
+    "pages/edu":    ("RakitinM_edu.pdf",    "Education PDF"),
+    "pages/pubs":   ("RakitinM_pubs.pdf",   "Publications PDF"),
+    "pages/confs":  ("RakitinM_confs.pdf",  "Conferences PDF"),
+    "pages/awards": ("RakitinM_awards.pdf", "Awards PDF"),
+    "pages/skills": ("RakitinM_skills.pdf", "Skills PDF"),
+    "pages/refs":   ("RakitinM_refs.pdf",   "References PDF"),
+} %}
+
+{% if pagename in page_pdfs %}
+  {% set pdf_name, alt = page_pdfs[pagename] %}
+  {% set thumb = pdf_name | replace(".pdf", ".png") %}
+  <div class="sidebar-pdf-widget">
+    <a href="{{ pathto('_static/' + pdf_name, 1) }}">
+      <img src="{{ pathto('_static/cv_thumbs/' + thumb, 1) }}" alt="{{ alt }}">
+    </a>
+    <p>
+      <a href="{{ pathto('_static/' + pdf_name, 1) }}">📥 Download PDF</a>
+    </p>
+  </div>
+{% endif %}
