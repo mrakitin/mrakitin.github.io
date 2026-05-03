@@ -28,26 +28,17 @@ Brookhaven National Laboratory, Upton, NY
 ![LinkedIn](_static/logos/linkedin.svg){.site-icon} [LinkedIn](https://www.linkedin.com/in/mrakitin) · 
 ![ORCID](_static/logos/orcid.svg){.site-icon} [ORCID](https://orcid.org/0000-0003-3685-852X)
 
-:::
-::::
+<div class="pdf-previews">
+  <div class="pdf-item">
+    <a href="_static/RakitinM_CV.pdf"><img class="pdf-thumb" src="_static/cv_thumbs/RakitinM_CV.png" alt="Full CV"></a>
+    <p><strong><a href="_static/RakitinM_CV.pdf">Full CV (PDF)</a></strong></p>
+  </div>
+  <div class="pdf-item">
+    <a href="_static/RakitinM_pubs.pdf"><img class="pdf-thumb" src="_static/cv_thumbs/RakitinM_pubs.png" alt="Publications"></a>
+    <p><strong><a href="_static/RakitinM_pubs.pdf">Publications (PDF)</a></strong></p>
+  </div>
+</div>
 
-::::{grid} 2
-:gutter: 3
-
-:::{grid-item}
-:columns: 6
-
-[![Full CV](_static/cv_thumbs/RakitinM_CV.png){.pdf-thumb}](_static/RakitinM_CV.pdf)
-
-**{download}`Full CV (PDF) <_static/RakitinM_CV.pdf>`**
-:::
-
-:::{grid-item}
-:columns: 6
-
-[![Publications](_static/cv_thumbs/RakitinM_pubs.png){.pdf-thumb}](_static/RakitinM_pubs.pdf)
-
-**{download}`Publications (PDF) <_static/RakitinM_pubs.pdf>`**
 :::
 ::::
 
