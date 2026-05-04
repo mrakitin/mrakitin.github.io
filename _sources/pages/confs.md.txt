@@ -6,6 +6,37 @@
 </div>
 
 
+**<span class="cv-date">May 2026</span>**
+*Application of the Bluesky data acquisition framework
+and the Blop optimization tool for NEXT-II ARI & SXN beamlines*
+[[regular]](https://www.bnl.gov/usersmeeting/files/pdf/agenda.pdf),
+NSLS-II & CFN Users' Meeting 2026,
+Workshop 11 — “Enhancing the Performance of Existing Beamlines at NSLS-II”,
+Brookhaven National Laboratory, Upton, NY
+
+**<span class="cv-date">Feb 2026</span>**
+*Blop: Bluesky-based Beamline Optimization package*,
+demonstration for U.S. Department of Energy Under Secretary for Science
+Darío Gil
+[🔗](https://www.bnl.gov/newsroom/news.php?a=222807&btw=1),
+Brookhaven National Laboratory, Upton, NY
+
+**<span class="cv-date">Nov 2025</span>**
+*Blop: beamline optimization package*
+[🔗](https://indico.desy.de/event/49932/contributions/193630/),
+ROCK-IT Bluesky Workshop,
+Deutsches Elektronen-Synchrotron (DESY), Hamburg, Germany
+
+**<span class="cv-date">Feb 2025</span>**
+*Bluesky – status and future plans*,
+Collaboration visit,
+Paul Scherrer Institute (PSI), Villigen, Switzerland
+
+**<span class="cv-date">Feb 2025</span>**
+*Blop: Bluesky-based Beamline Optimization package*,
+Collaboration visit,
+Helmholtz-Zentrum Berlin (HZB), BESSY-II, Berlin, Germany
+
 **<span class="cv-date">Sep 2024</span>**
 **<span class="cv-red">Invited talk</span>** — *Automated
 Beamline Alignment and Experiment Steering*
