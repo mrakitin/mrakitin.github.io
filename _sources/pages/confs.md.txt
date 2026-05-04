@@ -11,7 +11,8 @@
 and the Blop optimization tool for NEXT-II ARI & SXN beamlines*
 [[regular]](https://www.bnl.gov/usersmeeting/files/pdf/agenda.pdf),
 NSLS-II & CFN Users' Meeting 2026,
-Workshop 11 — “Enhancing the Performance of Existing Beamlines at NSLS-II”,
+Workshop 11 — “Soft X-ray Nanoprobe – First Science Opportunities,
+Instrumentation and Practice”,
 Brookhaven National Laboratory, Upton, NY
 
 **<span class="cv-date">Feb 2026</span>**
