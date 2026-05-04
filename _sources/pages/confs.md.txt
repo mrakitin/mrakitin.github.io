@@ -133,13 +133,13 @@ LBNL, Berkeley, CA
 **<span class="cv-date">Jan 2019</span>**
 **<span class="cv-red">Invited talk</span>** — *Bluesky,
 ophyd, pseudo motors, detectors*
-[GitHub](https://github.com/mrakitin/Berlin-2019-tutorials-workshop),
+![GitHub](../_static/logos/github.svg){.site-icon} [mrakitin/Berlin-2019-tutorials-workshop](https://github.com/mrakitin/Berlin-2019-tutorials-workshop),
 Automation in Beamline Control and Data Acquisition workshop,
 HZB, BESSY-II, Berlin, Germany
 
 **<span class="cv-date">Jan 2019</span>**
 **<span class="cv-red">Invited tutorials on Sirepo and Bluesky</span>**
-[GitHub](https://github.com/mrakitin/Berlin-2019-tutorials-workshop),
+![GitHub](../_static/logos/github.svg){.site-icon} [mrakitin/Berlin-2019-tutorials-workshop](https://github.com/mrakitin/Berlin-2019-tutorials-workshop),
 Automation in Beamline Control and Data Acquisition workshop,
 HZB, BESSY-II, Berlin, Germany
 
@@ -234,7 +234,7 @@ Stony Brook University, Stony Brook, NY
 **<span class="cv-red">Invited talk</span>** — *Crystal
 structure prediction from first principles*
 [🔗](https://www.physik.hu-berlin.de/en/),
-Humboldt-Universit\"at zu Berlin, Institut f\"ur Physik, Berlin, Germany
+Humboldt-Universität zu Berlin, Institut für Physik, Berlin, Germany
 
 **<span class="cv-date">Apr 2015</span>**
 *Oracle R, Advanced & predictive Analytics Workshop*,

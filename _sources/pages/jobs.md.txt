@@ -49,15 +49,15 @@ Upton, NY ([https://www.bnl.gov](https://www.bnl.gov)).
 
 ## Software Projects:
 
-- **Bluesky** — a library for experiment control and collection of scientific data and metadata, :octicons-book-16: [docs](https://blueskyproject.io/bluesky), :octicons-mark-github-16: [bluesky/bluesky](https://github.com/bluesky/bluesky).
+- **Bluesky** — a library for experiment control and collection of scientific data and metadata, 📖 [docs](https://blueskyproject.io/bluesky), ![GitHub](../_static/logos/github.svg){.site-icon} [bluesky/bluesky](https://github.com/bluesky/bluesky).
 
-- **Ophyd** — a device abstraction library, :octicons-book-16: [docs](https://blueskyproject.io/ophyd), :octicons-mark-github-16: [bluesky/ophyd](https://github.com/bluesky/ophyd).
+- **Ophyd** — a device abstraction library, 📖 [docs](https://blueskyproject.io/ophyd), ![GitHub](../_static/logos/github.svg){.site-icon} [bluesky/ophyd](https://github.com/bluesky/ophyd).
 
-- **Databroker** — a simple, user-friendly interface for retrieving stored data and metadata from multiple sources, :octicons-book-16: [docs](https://blueskyproject.io/databroker), :octicons-mark-github-16: [bluesky/databroker](https://github.com/bluesky/databroker).
+- **Databroker** — a simple, user-friendly interface for retrieving stored data and metadata from multiple sources, 📖 [docs](https://blueskyproject.io/databroker), ![GitHub](../_static/logos/github.svg){.site-icon} [bluesky/databroker](https://github.com/bluesky/databroker).
 
-- **Sirepo-Bluesky** — an interface library between the **Bluesky** data acquisition framework and the **Sirepo** browser-based interface framework to beamline and accelerator simulation codes, :octicons-book-16: [docs](https://nsls-ii.github.io/sirepo-bluesky/), :octicons-mark-github-16: [NSLS-II/sirepo-bluesky](https://github.com/NSLS-II/sirepo-bluesky).
+- **Sirepo-Bluesky** — an interface library between the **Bluesky** data acquisition framework and the **Sirepo** browser-based interface framework to beamline and accelerator simulation codes, 📖 [docs](https://nsls-ii.github.io/sirepo-bluesky/), ![GitHub](../_static/logos/github.svg){.site-icon} [NSLS-II/sirepo-bluesky](https://github.com/NSLS-II/sirepo-bluesky).
 
-- **Blop** — a Bayesian optimization library for autonomous experiment control, :octicons-book-16: [docs](https://blueskyproject.io/blop/), :octicons-mark-github-16: [bluesky/blop](https://github.com/bluesky/blop).
+- **Blop** — a Bayesian optimization library for autonomous experiment control, 📖 [docs](https://blueskyproject.io/blop/), ![GitHub](../_static/logos/github.svg){.site-icon} [bluesky/blop](https://github.com/bluesky/blop).
 
 
 ## Funded Projects (PI roles):
@@ -97,13 +97,13 @@ Laboratory*, Upton, NY ([https://www.bnl.gov](https://www.bnl.gov)).
 
 ## Software Projects:
 
-- **Synchrotron Radiation Workshop (SRW)** — computer code for X-ray source and optics simulations, :octicons-mark-github-16: [ochubar/SRW](https://github.com/ochubar/SRW).
+- **Synchrotron Radiation Workshop (SRW)** — computer code for X-ray source and optics simulations, ![GitHub](../_static/logos/github.svg){.site-icon} [ochubar/SRW](https://github.com/ochubar/SRW).
 
-- **Sirepo** — a cloud-based framework for SRW, :octicons-mark-github-16: [radiasoft/sirepo](https://github.com/radiasoft/sirepo).
+- **Sirepo** — a cloud-based framework for SRW, ![GitHub](../_static/logos/github.svg){.site-icon} [radiasoft/sirepo](https://github.com/radiasoft/sirepo).
 
-- **Image processing and data visualization**, :octicons-mark-github-16: [mrakitin/plotting](https://github.com/mrakitin/plotting) and :octicons-mark-github-16: [mrakitin/experiments](https://github.com/mrakitin/experiments).
+- **Image processing and data visualization**, ![GitHub](../_static/logos/github.svg){.site-icon} [mrakitin/plotting](https://github.com/mrakitin/plotting) and ![GitHub](../_static/logos/github.svg){.site-icon} [mrakitin/experiments](https://github.com/mrakitin/experiments).
 
-- **CRL simulator** — a code for simulation of a transfocator (compound refractive lenses (CRL) for X-ray focusing), :octicons-mark-github-16: [mrakitin/bnlcrl](https://github.com/mrakitin/bnlcrl).
+- **CRL simulator** — a code for simulation of a transfocator (compound refractive lenses (CRL) for X-ray focusing), ![GitHub](../_static/logos/github.svg){.site-icon} [mrakitin/bnlcrl](https://github.com/mrakitin/bnlcrl).
 
 
 ## Responsibilities:
