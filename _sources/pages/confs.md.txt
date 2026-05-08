@@ -7,7 +7,7 @@
 
 
 **<span class="cv-date">May 2026</span>**
-*Application of the Bluesky data acquisition framework
+**<span class="cv-red">Invited talk</span>** — *Application of the Bluesky data acquisition framework
 and the Blop optimization tool for NEXT-II ARI & SXN beamlines*
 [📄](https://www.bnl.gov/usersmeeting/files/pdf/agenda.pdf),
 NSLS-II & CFN Users' Meeting 2026,
