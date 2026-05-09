@@ -44,6 +44,7 @@ html_theme_options = {
     "footer_end":        ["last-updated"],
     "show_toc_level":    2,
     "navigation_depth":  2,
+    "header_links_before_dropdown": 6,
     "logo": {
         "text": "Max Rakitin",
         "image_light": "_static/profile.jpg",
