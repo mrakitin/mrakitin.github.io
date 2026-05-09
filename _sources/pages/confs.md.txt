@@ -6,6 +6,9 @@
 </div>
 
 
+
+## 2026
+
 **<span class="cv-date">May 2026</span>**
 **<span class="cv-red">Invited talk</span>** — *Application of the Bluesky data acquisition framework
 and the Blop optimization tool for NEXT-II ARI & SXN beamlines*
@@ -21,6 +24,9 @@ demonstration for U.S. Department of Energy Under Secretary for Science
 Darío Gil
 [🔗](https://www.bnl.gov/newsroom/news.php?a=222807&btw=1),
 Brookhaven National Laboratory, Upton, NY
+
+
+## 2025
 
 **<span class="cv-date">Nov 2025</span>**
 *Blop: beamline optimization package*
@@ -38,6 +44,9 @@ Paul Scherrer Institute (PSI), Villigen, Switzerland
 Collaboration visit,
 Helmholtz-Zentrum Berlin (HZB), BESSY-II, Berlin, Germany
 
+
+## 2024
+
 **<span class="cv-date">Sep 2024</span>**
 **<span class="cv-red">Invited talk</span>** — *Automated
 Beamline Alignment and Experiment Steering*
@@ -51,6 +60,9 @@ Menlo Park, CA
 *Bluesky and Bluesky-Queueserver tutorials*
 [🔗](https://conference.sns.gov/event/448/page/3139-workgroups-and-training),
 EPICS Meeting, Oak Ridge National Laboratory, Oak Ridge, TN
+
+
+## 2023
 
 **<span class="cv-date">Nov 2023</span>**
 **<span class="cv-red">Invited talk</span>** — *Bluesky for
@@ -87,6 +99,9 @@ Artificial Intelligence and Machine Learning Methods*
 25th Annual Accelerator Test Facility (ATF) Users' Meeting,
 Brookhaven National Laboratory, Upton, NY
 
+
+## 2022
+
 **<span class="cv-date">Aug 2022</span>**
 **<span class="cv-red">Invited talk</span>** — *Automated
 beamline alignment at NSLS-II*
@@ -108,9 +123,15 @@ generation experimental data access at NSLS-II*
 [🔗](https://www.sri2021.eu/programme/invited_speakers/),
 SRI2021, Virtual Conference
 
+
+## 2020
+
 **<span class="cv-date">Feb 2020</span>**
 **<span class="cv-red">Invited talk</span>** — *Bluesky
 Data Collection Framework*, Canadian Light Source, Saskatoon, Canada
+
+
+## 2019
 
 **<span class="cv-date">Oct 2019</span>**
 *Overview of Bluesky*, Imaging Workshop, Oak Ridge
@@ -143,6 +164,9 @@ HZB, BESSY-II, Berlin, Germany
 Automation in Beamline Control and Data Acquisition workshop,
 HZB, BESSY-II, Berlin, Germany
 
+
+## 2018
+
 **<span class="cv-date">Oct 2018</span>**
 *NOBUGS 2018*
 [🔗](https://www.bnl.gov/nobugs2018)
@@ -164,6 +188,9 @@ APS, Argonne National Laboratory, Lemont, IL
 “Hands-On Data Acquisition and Analysis Tutorial”
 [🔗](https://indico.bnl.gov/event/4162),
 Brookhaven National Laboratory, Upton, NY
+
+
+## 2017
 
 **<span class="cv-date">Nov 2017</span>**
 *Sirepo — an open-source browser interface for X-ray
@@ -187,6 +214,9 @@ San Diego, CA
 [🔗](https://www.bnl.gov/usersmeeting/events/),
 Brookhaven National Laboratory, Upton, NY
 
+
+## 2016
+
 **<span class="cv-date">Dec 2016</span>**
 *Collaboration meeting with RadiaSoft LLC*,
 Boulder, CO
@@ -205,6 +235,9 @@ ICTP, Trieste, Italy
 *2016 NSLS-II & CFN Joint Users' Meeting*
 [🔗](https://www.bnl.gov/usersmeeting/events/),
 Brookhaven National Laboratory, Upton, NY
+
+
+## 2015
 
 **<span class="cv-date">Nov 2015</span>**
 *Sensitivity, Error and Uncertainty Quantification for
@@ -248,6 +281,9 @@ LEGO MINDSTORMS EV3*, Stony Brook University, Stony Brook, NY
 *IACS workshop “Intro to Python”*
 [🔗](https://iacs.stonybrook.edu/),
 Stony Brook University, Stony Brook, NY
+
+
+## 2014
 
 **<span class="cv-date">Nov 2014</span>**
 *Novel phase of beryllium fluoride at high pressure*,
@@ -296,6 +332,9 @@ University, Stony Brook, NY
 *SiO<sub>2</sub> and BeF<sub>2</sub> phase transformation under
 pressure*, Group seminar, Stony Brook University, Stony Brook, NY
 
+
+## 2013
+
 **<span class="cv-date">Nov 2013</span>**
 *Study of impurities influence on the hydrogen
 dissolution energy in the bcc iron*, Group seminar, Stony Brook University,
@@ -307,11 +346,17 @@ modern physics*
 [🔗](https://physics.susu.ru),
 Chelyabinsk, Russia
 
+
+## 2012
+
 **<span class="cv-date">Aug 2012</span>**
 *Summer school on computer simulations and massive
 calculations in modern physics*
 [🔗](https://physics.susu.ru),
 Chelyabinsk, Russia
+
+
+## 2011
 
 **<span class="cv-date">Oct 2011</span>**
 *6th All-Russian scientific-technical
@@ -326,6 +371,9 @@ Athens, Greece
 *2nd All-Russian youth school-conference
 “Modern problems of metal science”*
 [🔗](https://konferencii.ru/info/40543), Pitsunda, Abkhazia
+
+
+## 2010
 
 **<span class="cv-date">Jul 2010</span>**
 *International symposium “Metal-hydrogen systems.
@@ -353,6 +401,9 @@ theoretical physics “Kourovka-2010”*
 [📄](https://conf.uran.ru/kourovka/Kourovka2010.pdf#page=79), Novouralsk,
 Russia
 
+
+## 2009
+
 **<span class="cv-date">Nov 2009</span>**
 *9th International conference
 “High-performance parallel computing on cluster systems”*
@@ -364,6 +415,9 @@ Vladimir, Russia
 quantum and computational chemistry*
 [🔗](http://www.qcc.ru/ fock/meeting.en.php),
 Kazan, Russia
+
+
+## 2007
 
 **<span class="cv-date">Apr 2007</span>**
 *13th All-Russian students conference in
