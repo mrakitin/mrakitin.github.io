@@ -10,15 +10,15 @@
 
 ## 2025
 
-**62.** Z. Lentz, R. Tang-Kong, <u>M. Rakitin</u>, T. Morris, S. Miskovich. "ML-assisted beamline optimization at LCLS." *Proc. 20th Int. Conf. Accel. Large Exp. Phys. Control Syst. (ICALEPCS'25)*, 1873-1877 (2025). [DOI: 10.18429/JACoW-ICALEPCS2025-FRAG001](https://doi.org/10.18429/JACoW-ICALEPCS2025-FRAG001)
+**62.** Z. Lentz, R. Tang-Kong, <u>M. Rakitin</u>, T. Morris, S. Miskovich. "ML-assisted beamline optimization at LCLS." *Proc. 20th Int. Conf. Accel. Large Exp. Phys. Control Syst. (ICALEPCS'25)*, 1873–1877 (2025). [DOI: 10.18429/JACoW-ICALEPCS2025-FRAG001](https://doi.org/10.18429/JACoW-ICALEPCS2025-FRAG001)
 
-**61.** D. Gavrilov, T. Caswell, A. Sligar, <u>M. Rakitin</u>. "Bluesky Queue Server for beamline control at NSLS-II." *Proc. 20th Int. Conf. Accel. Large Exp. Phys. Control Syst. (ICALEPCS'25)*, 1706-1710 (2025). [DOI: 10.18429/JACoW-ICALEPCS2025-THPD053](https://doi.org/10.18429/JACoW-ICALEPCS2025-THPD053)
+**61.** D. Gavrilov, T. A. Caswell, A. J. Sligar, <u>M. Rakitin</u>. "Bluesky Queue Server for beamline control at NSLS-II." *Proc. 20th Int. Conf. Accel. Large Exp. Phys. Control Syst. (ICALEPCS'25)*, 1706–1710 (2025). [DOI: 10.18429/JACoW-ICALEPCS2025-THPD053](https://doi.org/10.18429/JACoW-ICALEPCS2025-THPD053)
 
-**60.** Y. Hidaka, D. Allan, <u>M. Rakitin</u>. "A new Python middle layer framework: Particle Accelerator MIddle LAyer (PAMILA)." *Proc. 6th North American Particle Accel. Conf. (NAPAC2025)*, 48-51 (2025). [DOI: 10.18429/JACoW-NAPAC2025-MOP005](https://doi.org/10.18429/JACoW-NAPAC2025-MOP005)
+**60.** Y. Hidaka, D. Allan, <u>M. Rakitin</u>. "A new Python middle layer framework: Particle Accelerator MIddle LAyer (PAMILA)." *Proc. 6th North American Particle Accel. Conf. (NAPAC2025)*, 48–51 (2025). [DOI: 10.18429/JACoW-NAPAC2025-MOP005](https://doi.org/10.18429/JACoW-NAPAC2025-MOP005)
 
 ## 2024
 
-**59.** H. Wijesinghe, A. Barbour, L. Wiegart, E. Carlin, J. Einstein-Curtis, P. Moeller, R. Nagler, R. O'Rourke, N. Cook, <u>M. Rakitin</u>. "Bluesky and Raydata: An Integrated Platform for Adaptive Experiment Orchestration." *SC24-W: Workshops of the International Conference for High Performance Computing, Networking, Storage and Analysis*, 2162-2167 (2024). [DOI: 10.1109/SCW63240.2024.00271](https://doi.org/10.1109/SCW63240.2024.00271)
+**59.** H. Wijesinghe, A. Barbour, L. Wiegart, E. Carlin, J. Einstein-Curtis, P. Moeller, R. Nagler, R. O'Rourke, N. Cook, <u>M. Rakitin</u>. "Bluesky and Raydata: An Integrated Platform for Adaptive Experiment Orchestration." *SC24-W: Workshops of the International Conference for High Performance Computing, Networking, Storage and Analysis*, 2162–2167 (2024). [DOI: 10.1109/SCW63240.2024.00271](https://doi.org/10.1109/SCW63240.2024.00271)
 
 **58.** A. Tayal, D. S. Coburn, D. Abel, <u>M. Rakitin</u>, O. Ivashkevych, J. Wlodek, D. Wierzbicki, W. Xu, E. Nazaretski, E. Stavitski, D. Leshchev. "Five-analyzer Johann spectrometer for hard X-ray photon-in/photon-out spectroscopy at the Inner Shell Spectroscopy beamline at NSLS-II: design, alignment and data acquisition." *Journal of Synchrotron Radiation*, 1609–1621 (2024). [DOI: 10.1107/S1600577524009342](https://doi.org/10.1107/S1600577524009342)
 
@@ -44,13 +44,13 @@
 
 **48.** H. Goel, O. Chubar, L. Wiegart, A. Fluerasu, R. Li, A. He, <u>M. Rakitin</u>, M. Lin, P. Moeller, R. Nagler. "GPU accelerated simulations of time-dependent coherent x-ray scattering experiments." *Advances in Computational Methods for X-Ray Optics VI*, 1269709 (2023). [DOI: 10.1117/12.2677888](https://doi.org/10.1117/12.2677888)
 
-**47.** N. Cook, E. Carlin, R. Nagler, R. O'Rourke, A. Barbour, <u>M. Rakitin</u>, L. Wiegart. "An online analysis platform for improving X-ray light source operations." *Proc. IPAC'23*, 4266-4268 (2023). [DOI: 10.18429/JACoW-IPAC2023-THPA128](https://doi.org/10.18429/JACoW-IPAC2023-THPA128)
+**47.** N. Cook, E. Carlin, R. Nagler, R. O'Rourke, A. Barbour, <u>M. Rakitin</u>, L. Wiegart. "An online analysis platform for improving X-ray light source operations." *Proc. IPAC'23*, 4266–4268 (2023). [DOI: 10.18429/JACoW-IPAC2023-THPA128](https://doi.org/10.18429/JACoW-IPAC2023-THPA128)
 
 ## 2022
 
 **46.** <u>M. Rakitin</u>, S. Campbell, D. Allan, T. Caswell, D. Gavrilov, M. Hanwell, S. Wilkins. "Next generation experimental data access at NSLS-II." *Journal of Physics: Conference Series*, 012100 (2022). [DOI: 10.1088/1742-6596/2380/1/012100](https://doi.org/10.1088/1742-6596/2380/1/012100)
 
-**45.** B. Nash, D. Abell, R. Nagler, P. Moeller, M. Keilman, I. Pogorelov, N. Goldring, <u>M. Rakitin</u>, J. Lynch, A. Giles, A. Walter, J. Maldonado, T. Morris, S. Bak, Y. Du. "Combining diagnostics, modeling, and control systems for automated alignment of the TES beamline." *Journal of Physics: Conference Series*, 012103 (2022). [DOI: 10.1088/1742-6596/2380/1/012103](https://doi.org/10.1088/1742-6596/2380/1/012103)
+**45.** B. Nash, D. T. Abell, R. Nagler, P. Moeller, M. Keilman, I. Pogorelov, N. Goldring, <u>M. Rakitin</u>, J. Lynch, A. Giles, A. Walter, J. Maldonado, T. Morris, S. Bak, Y. Du. "Combining diagnostics, modeling, and control systems for automated alignment of the TES beamline." *Journal of Physics: Conference Series*, 012103 (2022). [DOI: 10.1088/1742-6596/2380/1/012103](https://doi.org/10.1088/1742-6596/2380/1/012103)
 
 **44.** H. Goel, O. Chubar, L. Wiegart, A. Fluerasu, R. Li, A. He, <u>M. Rakitin</u>, P. Moeller, R. Nagler. "Developments in SRW Code and Sirepo Framework Supporting Simulation of Time-Dependent Coherent X-ray Scattering Experiments." *Journal of Physics: Conference Series*, 012126 (2022). [DOI: 10.1088/1742-6596/2380/1/012126](https://doi.org/10.1088/1742-6596/2380/1/012126)
 
@@ -74,7 +74,7 @@
 
 **35.** L. Yang, E. Lazo, J. Byrnes, S. Chodankar, S. Antonelli, <u>M. Rakitin</u>. "Tools for supporting solution scattering during the COVID-19 pandemic." *Journal of Synchrotron Radiation*, 1237–1244 (2021). [DOI: 10.1107/S160057752100521X](https://doi.org/10.1107/S160057752100521X)
 
-**34.** <u>M. S. Rakitin</u>, A. A. Mirzoev. "Ab initio Simulation of Dissolution Energy and Bond Energy of Hydrogen with 3sp, 3d, and 4d Impurities in bcc Iron." *Phys. Solid State*, 1065–1068 (2021). [DOI: 10.1134/s1063783421070180](https://doi.org/10.1134/s1063783421070180)
+**34.** <u>M. S. Rakitin</u>, A. A. Mirzoev. "Ab initio Simulation of Dissolution Energy and Bond Energy of Hydrogen with 3sp, 3d, and 4d Impurities in bcc Iron." *Phys. Solid State*, 1065–1068 (2021). [DOI: 10.1134/S1063783421070180](https://doi.org/10.1134/S1063783421070180)
 
 **33.** T. Konstantinova, L. Wiegart, <u>M. Rakitin</u>, A. M. DeGennaro, A. M. Barbour. "Noise reduction in X-ray photon correlation spectroscopy with convolutional neural networks encodermodels." *Sci Rep* (2021). [DOI: 10.1038/s41598-021-93747-y](https://doi.org/10.1038/s41598-021-93747-y)
 
@@ -92,7 +92,7 @@
 
 ## 2019
 
-**27.** B. Nash, O. Chubar, D. Bruhwiler, <u>M. Rakitin</u>, P. Moeller, R. Nagler, N. Goldring. "Undulator radiation brightness calculations in the Sirepo GUI for SRW." *Advances in Laboratory-based X-Ray Sources, Optics, and Applications VII*, 79–92 (2019). [DOI: 10.1117/12.2530663](https://doi.org/10.1117/12.2530663)
+**27.** B. Nash, O. Chubar, D. L. Bruhwiler, <u>M. Rakitin</u>, P. Moeller, R. Nagler, N. Goldring. "Undulator radiation brightness calculations in the Sirepo GUI for SRW." *Advances in Laboratory-based X-Ray Sources, Optics, and Applications VII*, 79–92 (2019). [DOI: 10.1117/12.2530663](https://doi.org/10.1117/12.2530663)
 
 **26.** B. Nash, N. Goldring, D. L. Bruhwiler, O. Tchoubar, A. He, <u>M. Rakitin</u>, R. Nagler, P. Moeller. "Phase IIA Final Technical Report for "Development of software framework for x-Ray optics simulation and modeling"." (2019). [Link](https://www.osti.gov/biblio/1532614)
 
@@ -110,7 +110,7 @@
 
 **20.** O. Chubar, C. Kitegi, Y. K. Chen-Wiegart, D. Hidas, Y. Hidaka, T. Tanabe, G. Williams, J. Thieme, T. Caswell, <u>M. Rakitin</u>, L. Wiegart, A. Fluerasu, L. Yang, S. Chodankar, M. Zhernenkov. "Spectrum-Based Alignment of In-Vacuum Undulators in a Low-Emittance Storage Ring." *Synchrotron Radiation News*, 4–8 (2018). [DOI: 10.1080/08940886.2018.1460173](https://doi.org/10.1080/08940886.2018.1460173)
 
-**19.** <u>M. Rakitin</u>, A. A. Mirzoev, D. A. Mirzaev. "First-Principles and Thermodynamic Simulation of Elastic Stress Effect on Energy of Hydrogen Dissolution in Alpha Iron." *Russian Physics Journal*, 2136–2143 (2018). [DOI: 10.1007/s11182-018-1337-2](https://doi.org/10.1007/s11182-018-1337-2)
+**19.** <u>M. S. Rakitin</u>, A. A. Mirzoev, D. A. Mirzaev. "First-Principles and Thermodynamic Simulation of Elastic Stress Effect on Energy of Hydrogen Dissolution in Alpha Iron." *Russian Physics Journal*, 2136–2143 (2018). [DOI: 10.1007/s11182-018-1337-2](https://doi.org/10.1007/s11182-018-1337-2)
 
 ## 2017
 
@@ -126,9 +126,9 @@
 
 **13.** M. M. Davari Esfahani, Q. Zhu, H. Dong, A. R. Oganov, S. Wang, <u>M. S. Rakitin</u>, X. Zhou. "Novel magnesium borides and their superconductivity." *Phys. Chem. Chem. Phys.*, 14486–14494 (2017). [DOI: 10.1039/C7CP00840F](https://doi.org/10.1039/C7CP00840F)
 
-**12.** O. V. Chubar, T. A. Caswell, Y. Chen-Wiegart, A. Fluerasu, Y. Hidaka, D. A. Hidas, C. A. Kitegi, <u>M. S. Rakitin</u>, T. Tanabe, J. Thieme, L. Wiegart, G. Williams. "Analysis and Correction of in-Vacuum Undulator Misalignment Effects in a Storage Ring Synchrotron Radiation Source." *Proc. of International Particle Accelerator Conference (IPAC'17), Copenhagen, Denmark, 14–19 May, 2017*, 1663–1665 (2017). [DOI: https://doi.org/10.18429/JACoW-IPAC2017-TUPAB140](https://doi.org/https://doi.org/10.18429/JACoW-IPAC2017-TUPAB140)
+**12.** O. V. Chubar, T. A. Caswell, Y. Chen-Wiegart, A. Fluerasu, Y. Hidaka, D. A. Hidas, C. A. Kitegi, <u>M. S. Rakitin</u>, T. Tanabe, J. Thieme, L. Wiegart, G. Williams. "Analysis and Correction of in-Vacuum Undulator Misalignment Effects in a Storage Ring Synchrotron Radiation Source." *Proc. of International Particle Accelerator Conference (IPAC'17), Copenhagen, Denmark, 14–19 May, 2017*, 1663–1665 (2017). [DOI: 10.18429/JACoW-IPAC2017-TUPAB140](https://doi.org/10.18429/JACoW-IPAC2017-TUPAB140)
 
-**11.** A. Blednykh, B. Bacha, G. Bassi, O. V. Chubar, <u>M. S. Rakitin</u>, V. V. Smaluk, M. Zhernenkov. "A Comprehensive Study of the Microwave Instability." *Proc. of International Particle Accelerator Conference (IPAC'17), Copenhagen, Denmark, 14–19 May, 2017*, 3224–3226 (2017). [DOI: https://doi.org/10.18429/JACoW-IPAC2017-WEPIK117](https://doi.org/https://doi.org/10.18429/JACoW-IPAC2017-WEPIK117)
+**11.** A. Blednykh, B. Bacha, G. Bassi, O. V. Chubar, <u>M. S. Rakitin</u>, V. V. Smaluk, M. Zhernenkov. "A Comprehensive Study of the Microwave Instability." *Proc. of International Particle Accelerator Conference (IPAC'17), Copenhagen, Denmark, 14–19 May, 2017*, 3224–3226 (2017). [DOI: 10.18429/JACoW-IPAC2017-WEPIK117](https://doi.org/10.18429/JACoW-IPAC2017-WEPIK117)
 
 ## 2016
 
