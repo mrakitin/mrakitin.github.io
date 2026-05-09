@@ -6,7 +6,9 @@
 </div>
 
 
-**<span class="cv-date">Jun 2024–present</span>**
+
+## Jun 2024–present
+
 **Computational Scientist (RS-5)**, **Group Leader**,
 *Data Science and Systems Integration (DSSI) Division, Data Acquisition
 and Detectors Group, NSLS-II, Brookhaven National Laboratory*,
@@ -14,7 +16,9 @@ Upton, NY ([https://www.bnl.gov](https://www.bnl.gov), [DSSI](https://www.bnl.go
 
 **Supervisor:** Dr. Stuart Wilkins
 
-**<span class="cv-date">Jan 2023–Jun 2024</span>**
+
+## Jan 2023–Jun 2024
+
 **Computational Scientist (RS-5)**, **Deputy Group Leader**,
 *Data Science and Systems Integration (DSSI) Program, Data Acquisition
 and Detectors Group, NSLS-II, Brookhaven National Laboratory*,
@@ -22,7 +26,9 @@ Upton, NY ([https://www.bnl.gov](https://www.bnl.gov), [DSSI](https://www.bnl.go
 
 **Supervisor:** Dr. Thomas Caswell
 
-**<span class="cv-date">Mar 2021–Dec 2022</span>**
+
+## Mar 2021–Dec 2022
+
 **Associate Computational Scientist (RS-4)**, **Supervisor**,
 *Data Science and Systems Integration (DSSI)
 Program, NSLS-II, Brookhaven National Laboratory*,
@@ -30,7 +36,9 @@ Upton, NY ([https://www.bnl.gov](https://www.bnl.gov), [DSSI](https://www.bnl.go
 
 **Supervisor:** Dr. Stuart Campbell
 
-**<span class="cv-date">Oct 2019–Mar 2021</span>**
+
+## Oct 2019–Mar 2021
+
 **Associate Computational Scientist**,
 *Data Acquisition, Management and Analysis (DAMA) Group, NSLS-II,
 Brookhaven National Laboratory*,
@@ -38,7 +46,9 @@ Upton, NY ([https://www.bnl.gov](https://www.bnl.gov)).
 
 **Supervisor:** Dr. Stuart Campbell
 
-**<span class="cv-date">Nov 2017–Sep 2019</span>**
+
+## Nov 2017–Sep 2019
+
 **Assistant Computational Scientist**,
 *Data Acquisition, Management and Analysis (DAMA) Group, NSLS-II,
 Brookhaven National Laboratory*,
@@ -47,7 +57,7 @@ Upton, NY ([https://www.bnl.gov](https://www.bnl.gov)).
 **Supervisor:** Dr. Stuart Campbell
 
 
-## Software Projects:
+### Software Projects
 
 - **Bluesky** — a library for experiment control and collection of scientific data and metadata, 📖 [docs](https://blueskyproject.io/bluesky), ![GitHub](../_static/logos/github.svg){.site-icon} [bluesky/bluesky](https://github.com/bluesky/bluesky).
 
@@ -60,7 +70,7 @@ Upton, NY ([https://www.bnl.gov](https://www.bnl.gov)).
 - **Blop** — a Bayesian optimization library for autonomous experiment control, 📖 [docs](https://blueskyproject.io/blop/), ![GitHub](../_static/logos/github.svg){.site-icon} [bluesky/blop](https://github.com/bluesky/blop).
 
 
-## Funded Projects (PI roles):
+### Funded Projects (PI roles)
 
 - **LDRD Type B “Simulation-aided Instrument Optimization Using Artificial Intelligence and Machine Learning Methods”** (LDRD #22-031, FY2022–FY2024, Oct. 2021–Sep. 2023) — PI: M. Rakitin, co-PIs: Y. Du, M. Fedurin. BNL Laboratory-Directed Research and Development project, [https://www.osti.gov/biblio/1972474](https://www.osti.gov/biblio/1972474).
 
@@ -69,7 +79,7 @@ Upton, NY ([https://www.bnl.gov](https://www.bnl.gov)).
 - **DOE SBIR “An Integrated Platform for High Performance Data Management and Analysis at X-ray Light Sources”** (Award No. DE-SC0021553, 2021–2024) — PI at BNL (subcontract). Lead organization: RadiaSoft, LLC (PI: N. Cook).
 
 
-## Responsibilities:
+### Responsibilities
 
 - Scientific software development & maintenance.
 
@@ -86,16 +96,15 @@ Upton, NY ([https://www.bnl.gov](https://www.bnl.gov)).
 - Mentor to student interns (summer 2016: 1 intern, summer 2018: 1 intern, summer 2019: 1 intern, spring and summer 2020: 2 interns, summer 2021: 2 interns, summer 2023: 1 intern, summer 2024: co-mentor to 1 intern).
 
 
----
+## Dec 2015–Oct 2017
 
-**<span class="cv-date">Dec 2015–Oct 2017</span>**
 **Research Associate (Postdoc)**, *NSLS-II, Brookhaven National
 Laboratory*, Upton, NY ([https://www.bnl.gov](https://www.bnl.gov)).
 
 **Supervisor:** Dr. Oleg Tchoubar (Chubar)
 
 
-## Software Projects:
+### Software Projects
 
 - **Synchrotron Radiation Workshop (SRW)** — computer code for X-ray source and optics simulations, ![GitHub](../_static/logos/github.svg){.site-icon} [ochubar/SRW](https://github.com/ochubar/SRW).
 
@@ -106,7 +115,7 @@ Laboratory*, Upton, NY ([https://www.bnl.gov](https://www.bnl.gov)).
 - **CRL simulator** — a code for simulation of a transfocator (compound refractive lenses (CRL) for X-ray focusing), ![GitHub](../_static/logos/github.svg){.site-icon} [mrakitin/bnlcrl](https://github.com/mrakitin/bnlcrl).
 
 
-## Responsibilities:
+### Responsibilities
 
 - Adding new functionality to Sirepo (*e.g.*, new optical elements, new reports, [implementation](https://github.com/radiasoft/sirepo/wiki/Dynamical-access-of-crystal-data-and-optical-constants-from-external-servers) of dynamical access of crystal data and optical constants from external servers).
 
@@ -133,9 +142,8 @@ Laboratory*, Upton, NY ([https://www.bnl.gov](https://www.bnl.gov)).
 - Tutorship of summer students.
 
 
----
+## Oct 2013–Dec 2015
 
-**<span class="cv-date">Oct 2013–Dec 2015</span>**
 **Postdoctoral Associate (Postdoc)**, *Prof. Oganov's lab,
 Department of Geosciences, Stony Brook University*, Stony Brook, NY
 ([https://stonybrook.edu](https://stonybrook.edu), [https://uspex-team.org/en/uspex](https://uspex-team.org/en/uspex)).
@@ -143,7 +151,7 @@ Department of Geosciences, Stony Brook University*, Stony Brook, NY
 **Supervisor:** Prof. Artem R. Oganov
 
 
-## Software Projects:
+### Software Projects
 
 - Refactoring of [USPEX](https://uspex-team.org/en/uspex) code and porting it from Matlab to Python using modern programming techniques.
 
@@ -152,7 +160,7 @@ Department of Geosciences, Stony Brook University*, Stony Brook, NY
 - Prediction of secondary structures of proteins from knowledge of sequences of amino acids. Development of USPEX interface for [Tinker](https://dasher.wustl.edu/tinker/).
 
 
-## Responsibilities:
+### Responsibilities
 
 - Main developer of the project on rewriting [USPEX](https://uspex-team.org/en/uspex) in Python with use of NumPy, SciPy, TkInter, *etc*. Web-based API creation.
 
@@ -171,21 +179,20 @@ Department of Geosciences, Stony Brook University*, Stony Brook, NY
 - [USPEX community](https://groups.google.com/g/uspex) support.
 
 
----
+## Oct 2008–Sep 2013
 
-**<span class="cv-date">Oct 2008–Sep 2013</span>**
 **Researcher**, *Department of General and Theoretical Physics,
 South Ural State University*, Chelyabinsk, Russia ([https://www.susu.ru/en](https://www.susu.ru/en)).
 
 **Supervisor:** Prof. Alexander A. Mirzoev
 
 
-## Software Projects:
+### Software Projects
 
 - Performing research on investigating influence of hydrogen on structure and properties of iron-based alloys using DFT methods ([WIEN2k](http://www.wien2k.at)).
 
 
-## Responsibilities:
+### Responsibilities
 
 - Development of bash/Python utilities for monitoring WIEN2k calculations in PBS/Torque and SLURM queues and for processing data of calculations, developing mail notification system for the calculations.
 
@@ -194,9 +201,8 @@ South Ural State University*, Chelyabinsk, Russia ([https://www.susu.ru/en](http
 - Teaching and consulting students how to use WIEN2k both on a PC and on supercomputers.
 
 
----
+## Jun 2007–Oct 2013
 
-**<span class="cv-date">Jun 2007–Oct 2013</span>**
 **QA Engineer, QA Team Leader**, *Applied Technologies Ltd.*,
 Chelyabinsk, Russia ([https://www.appliedtech.ru/en/](https://www.appliedtech.ru/en/)), a partner of Rocket
 Software Inc., USA ([https://www.rocketsoftware.com](https://www.rocketsoftware.com))
@@ -204,7 +210,7 @@ Software Inc., USA ([https://www.rocketsoftware.com](https://www.rocketsoftware.
 **Supervisor:** Valery Ermakov, CEO
 
 
-## Software Projects:
+### Software Projects
 
 - Tivoli Enterprise Portal (TEP) (August 2011 – October 2013) — QA team leader. Responsibilities: software testing on Windows, Linux, Linux on z, z/OS operating systems, GUI testing automation using [IBM Rational Functional Tester](https://www.ibm.com/docs/en/rft/latest), creation of TEP Automated Testing System (TATS) for automatic data verification using Python, REST API, JSON, XML, PHP, HTML, JavaScript, jQuery in six TEP-enabled products:
     - [Tivoli Advanced Reporting and Management for DFSMShsm](https://www.ibm.com/docs/en/adv-rpt-dfsmshsm/latest);
@@ -222,9 +228,8 @@ Software Inc., USA ([https://www.rocketsoftware.com](https://www.rocketsoftware.
 - [Rocket Servergraph Data Protection Expert](https://www.rocketsoftware.com/products/rocket-servergraph) (June 2007 – December 2008) — QA engineer. Responsibilities: software testing on Windows, Linux, Solaris, HP-UX, AIX operating systems with PostgreSQL databases, GUI testing automation using AutoIt3, automation of data verification using Perl and SQL. Regular voice and video conversations with colleagues from the US.
 
 
----
+## 2006–2007
 
-**<span class="cv-date">2006–2007</span>**
 **System administrator**, *Department of General and Theoretical
 Physics, South Ural State University*, Chelyabinsk, Russia
 ([https://www.susu.ru/en](https://www.susu.ru/en)) 
