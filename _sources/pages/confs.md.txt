@@ -58,8 +58,9 @@ Menlo Park, CA
 **<span class="cv-date">Sep 2024</span>**
 **<span class="cv-red">Workshop organizer</span>** —
 *Bluesky and Bluesky-Queueserver tutorials*
-[🔗](https://conference.sns.gov/event/448/page/3139-workgroups-and-training),
-EPICS Meeting, Oak Ridge National Laboratory, Oak Ridge, TN
+[🔗](https://conference.sns.gov/event/448/page/3139-workgroups-and-training)
+[🔗](https://conference.sns.gov/event/448/timetable/?view=standard),
+EPICS Collaboration Meeting, Oak Ridge National Laboratory, Oak Ridge, TN
 
 
 ## 2023
