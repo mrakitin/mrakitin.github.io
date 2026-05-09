@@ -115,9 +115,14 @@
     display: none;
 }
 
-/* Hide in-page PDF block in MkDocs Material — it appears in the sidebar instead */
-.md-content .page-pdf-block {
-    display: none;
+/* Hide in-page PDF block in MkDocs Material on wide screens — it appears in
+   the secondary sidebar instead (sidebar_pdf.js).  On narrow viewports the
+   secondary sidebar is not shown, so reveal the in-page block as a fallback.
+   MkDocs Material switches its sidebar at the "76em" breakpoint. */
+@media screen and (min-width: 76em) {
+    .md-content .page-pdf-block {
+        display: none;
+    }
 }
 
 .page-pdf-block img {
