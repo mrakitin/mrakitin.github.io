@@ -73,8 +73,10 @@ html_static_path = ["_static"]
 
 html_css_files = ["custom.css"]
 
-# Sidebar links to PDF downloads
-html_context = {}
+# Sidebar links to PDF downloads; default_mode sets the initial color scheme.
+html_context = {
+    "default_mode": "light",
+}
 
 # ── Misc ──────────────────────────────────────────────────────────────────────
 nitpicky = False
