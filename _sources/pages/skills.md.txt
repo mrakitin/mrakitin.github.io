@@ -16,6 +16,9 @@ Python (including PyQT, NumPy, SciPy, Matplotlib,
 PIL), C++, Fortran, Matlab/Octave, JavaScript, jQuery, AngularJS, some React,
 WebGL, PHP, HTML5, bash, csh/tcsh, make, Perl, AutoIt3, REXX, SQL, JCL
 
+**Databases**
+SQLite3, PostgreSQL, MySQL, DB2 (IBM), MongoDB
+
 **Parallelization**
 MPI, OpenMP, Dask
 
