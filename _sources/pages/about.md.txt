@@ -2,7 +2,13 @@
 
 <div class="page-pdf-block">
 <a href="../_static/RakitinM_CV.pdf"><img src="../_static/cv_thumbs/RakitinM_CV.png" alt="Full CV PDF"></a>
-<p><strong><a href="../_static/RakitinM_CV.pdf">📥 Download PDF</a></strong></p>
+<p><strong><a href="../_static/RakitinM_CV.pdf">📥 Full CV PDF</a></strong></p>
+</div>
+
+
+<div class="page-pdf-block">
+<a href="../_static/RakitinM_bio.pdf"><img src="../_static/cv_thumbs/RakitinM_bio.png" alt="Bio PDF"></a>
+<p><strong><a href="../_static/RakitinM_bio.pdf">📥 Bio PDF</a></strong></p>
 </div>
 
 
