@@ -7,54 +7,34 @@
 
 
 
-## Jun 2024–present
+## Nov 2017–present
 
-**Computational Scientist (RS-5)**, **Group Leader**,
-*Data Science and Systems Integration (DSSI) Division, Data Acquisition
-and Detectors Group, NSLS-II, Brookhaven National Laboratory*,
+**Computational Scientist (RS-3 RS-5)**,
+*Data Acquisition and Detectors Group (formerly Data Acquisition,
+Management, and Analysis (DAMA) Group), Data Science and Systems Integration
+(DSSI) Division, NSLS-II, Brookhaven National Laboratory*,
 Upton, NY ([https://www.bnl.gov](https://www.bnl.gov), [DSSI](https://www.bnl.gov/nsls2/datascience/groups.php)).
 
-**Supervisor:** Dr. Stuart Wilkins
-
-
-## Jan 2023–Jun 2024
-
-**Computational Scientist (RS-5)**, **Deputy Group Leader**,
-*Data Science and Systems Integration (DSSI) Program, Data Acquisition
-and Detectors Group, NSLS-II, Brookhaven National Laboratory*,
-Upton, NY ([https://www.bnl.gov](https://www.bnl.gov), [DSSI](https://www.bnl.gov/nsls2/datascience/groups.php)).
-
-**Supervisor:** Dr. Thomas Caswell
-
-
-## Mar 2021–Dec 2022
-
-**Associate Computational Scientist (RS-4)**, **Supervisor**,
-*Data Science and Systems Integration (DSSI)
-Program, NSLS-II, Brookhaven National Laboratory*,
-Upton, NY ([https://www.bnl.gov](https://www.bnl.gov), [DSSI](https://www.bnl.gov/nsls2/datascience/groups.php)).
-
-**Supervisor:** Dr. Stuart Campbell
-
-
-## Oct 2019–Mar 2021
-
-**Associate Computational Scientist**,
-*Data Acquisition, Management and Analysis (DAMA) Group, NSLS-II,
-Brookhaven National Laboratory*,
-Upton, NY ([https://www.bnl.gov](https://www.bnl.gov)).
-
-**Supervisor:** Dr. Stuart Campbell
-
-
-## Nov 2017–Sep 2019
-
-**Assistant Computational Scientist**,
-*Data Acquisition, Management and Analysis (DAMA) Group, NSLS-II,
-Brookhaven National Laboratory*,
-Upton, NY ([https://www.bnl.gov](https://www.bnl.gov)).
-
-**Supervisor:** Dr. Stuart Campbell
+ 
+ - 2024.06–present: **Computational Scientist (RS-5), Group Leader**,
+ *Data Acquisition and Detectors Group, DSSI Division*.
+ **Supervisor:** Dr. Stuart Wilkins.
+ 
+ - 2023.01–2024.06: **Computational Scientist (RS-5), Deputy Group Leader**,
+ *Data Acquisition and Detectors Group, DSSI Program*.
+ **Supervisor:** Dr. Thomas Caswell.
+ 
+ - 2021.03–2022.12: **Associate Computational Scientist (RS-4), Supervisor**,
+ *Data Science and Systems Integration (DSSI) Program*.
+ **Supervisor:** Dr. Stuart Campbell.
+ 
+ - 2019.10–2021.03: **Associate Computational Scientist**,
+ *Data Acquisition, Management and Analysis (DAMA) Group*.
+ **Supervisor:** Dr. Stuart Campbell.
+ 
+ - 2017.11–2019.09: **Assistant Computational Scientist**,
+ *Data Acquisition, Management and Analysis (DAMA) Group*.
+ **Supervisor:** Dr. Stuart Campbell.
 
 
 ### Software Projects
@@ -94,6 +74,15 @@ Upton, NY ([https://www.bnl.gov](https://www.bnl.gov)).
 - Teaching people to use our software stack.
 
 - Mentor to student interns (summer 2016: 1 intern, summer 2018: 1 intern, summer 2019: 1 intern, spring and summer 2020: 2 interns, summer 2021: 2 interns, summer 2023: 1 intern, summer 2024: co-mentor to 1 intern).
+
+
+## Jun 2023–May 2024
+
+**Consultant**, *Exabyte Inc. (Mat3ra)*, Remote
+([https://www.mat3ra.com](https://www.mat3ra.com)).
+
+Materials modeling platform. Provided scientific and software consulting for
+cloud-based DFT and *ab initio* simulation workflows.
 
 
 ## Dec 2015–Oct 2017
