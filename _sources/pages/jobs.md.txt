@@ -49,6 +49,8 @@ Upton, NY ([https://www.bnl.gov](https://www.bnl.gov), [DSSI](https://www.bnl.go
 
 - **Blop** — a Bayesian optimization library for autonomous experiment control, 📖 [docs](https://blueskyproject.io/blop/), ![GitHub](../_static/logos/github.svg){.site-icon} [bluesky/blop](https://github.com/bluesky/blop).
 
+- **edrixs** — an open-source toolkit for resonant inelastic X-ray scattering simulations, ![GitHub](../_static/logos/github.svg){.site-icon} [EDRIXS/edrixs](https://github.com/EDRIXS/edrixs). Contributions: packaging, design of team refactoring, and testing of a new implementation based on [PETSc](https://petsc.org) and [SLEPc](https://slepc.upv.es) at NERSC.
+
 
 ### Funded Projects (PI roles)
 
