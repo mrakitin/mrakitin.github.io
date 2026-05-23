@@ -20,16 +20,7 @@ I am a group leader of the Data Acquisition and Detectors
 group of the Data Science and Systems Integration Division of NSLS-II, BNL.
 
 **News:**
-<div class="news-preview-card">
-<a href="https://www.bnl.gov/newsroom/news.php?a=220832" target="_blank" rel="noopener">
-<img class="news-preview-thumb" src="https://www.bnl.gov/today/body_pics/2022/09/2022-9-8-9558-5-1000px.jpg" loading="lazy" alt="">
-<div class="news-preview-body">
-<div class="news-preview-title">Computer, Is My Experiment Finished?</div>
-<div class="news-preview-desc">A conversation with three Brookhaven Lab researchers on how artificial intelligence applications are changing large research facilities such as NSLS-II.</div>
-<div class="news-preview-meta">September 16, 2022 · Brookhaven National Laboratory</div>
-</div>
-</a>
-</div>
+[https://www.bnl.gov/newsroom/news.php?a=220832](https://www.bnl.gov/newsroom/news.php?a=220832)
 
 <div class="news-preview-card">
 <a href="https://www.bnl.gov/newsroom/news.php?a=219533" target="_blank" rel="noopener">
