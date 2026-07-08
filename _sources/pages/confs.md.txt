@@ -18,6 +18,13 @@ Workshop 11 — “Soft X-ray Nanoprobe – First Science Opportunities,
 Instrumentation and Practice”,
 Brookhaven National Laboratory, Upton, NY
 
+**<span class="cv-date">Jun 2026</span>**
+**<span class="cv-red">Track leader</span>** —
+*Autonomous Experiment Steering*,
+DSSI Retreat “Controls, AI, Robotics, and Data Enabling Operations, Science and Technology”
+(June 4–5, 2026),
+Brookhaven National Laboratory, Upton, NY
+
 **<span class="cv-date">Feb 2026</span>**
 *Blop: Bluesky-based Beamline Optimization package*,
 demonstration for U.S. Department of Energy Under Secretary for Science
