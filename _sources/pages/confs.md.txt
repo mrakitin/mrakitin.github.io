@@ -9,6 +9,13 @@
 
 ## 2026
 
+**<span class="cv-date">Jun 2026</span>**
+**<span class="cv-red">Track leader</span>** —
+*Autonomous Experiment Steering*,
+DSSI Retreat “Controls, AI, Robotics, and Data Enabling Operations, Science and Technology”
+(June 4–5, 2026),
+Brookhaven National Laboratory, Upton, NY
+
 **<span class="cv-date">May 2026</span>**
 **<span class="cv-red">Invited talk</span>** — *Application of the Bluesky data acquisition framework
 and the Blop optimization tool for NEXT-II ARI & SXN beamlines*
@@ -16,13 +23,6 @@ and the Blop optimization tool for NEXT-II ARI & SXN beamlines*
 NSLS-II & CFN Users' Meeting 2026,
 Workshop 11 — “Soft X-ray Nanoprobe – First Science Opportunities,
 Instrumentation and Practice”,
-Brookhaven National Laboratory, Upton, NY
-
-**<span class="cv-date">Jun 2026</span>**
-**<span class="cv-red">Track leader</span>** —
-*Autonomous Experiment Steering*,
-DSSI Retreat “Controls, AI, Robotics, and Data Enabling Operations, Science and Technology”
-(June 4–5, 2026),
 Brookhaven National Laboratory, Upton, NY
 
 **<span class="cv-date">Feb 2026</span>**
