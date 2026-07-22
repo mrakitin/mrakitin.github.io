@@ -10,7 +10,7 @@
 ## 2026
 
 **<span class="cv-date">Jul 2026</span>**
-*Bluesky and Photon Beamline Integration Challenges in
+**<span class="cv-red">Invited talk</span>** — *Bluesky and Photon Beamline Integration Challenges in
 AI/ML-Driven Experimental Facilities*
 [🔗](https://indico.slac.stanford.edu/event/10526/contributions/15417/)
 [📄](https://indico.slac.stanford.edu/event/10526/contributions/15417/attachments/6689/16788/FACET-II-AI-mrakitin-20260715.pdf),
