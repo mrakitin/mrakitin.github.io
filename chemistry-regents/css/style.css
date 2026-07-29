@@ -131,14 +131,16 @@ tr:hover td { background: var(--primary-light); }
 tr:last-child td { border-bottom: none; }
 
 /* ── Tip boxes ───────────────────────────────────────── */
-.tip, .warn, .info {
+.tip, .warn, .info, .notice {
   border-radius: var(--radius); padding: 14px 18px;
   margin: 16px 0; font-size: 0.93rem;
 }
 .tip { background: var(--success-light); border-left: 4px solid var(--success); }
 .warn { background: var(--warning-light); border-left: 4px solid var(--warning); }
 .info { background: var(--primary-light); border-left: 4px solid var(--primary); }
-.tip strong, .warn strong, .info strong { display: block; margin-bottom: 4px; }
+.notice-warn { background: #fff8e1; border-left: 4px solid #f59e0b; }
+.notice-info { background: var(--primary-light); border-left: 4px solid var(--primary); }
+.tip strong, .warn strong, .info strong, .notice strong { display: block; margin-bottom: 4px; }
 
 /* ── Formula blocks ──────────────────────────────────── */
 .formula {
