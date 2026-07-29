@@ -1,0 +1,72 @@
+ZMQ-in / UDP-out Simulator
+==========================
+
+.. image:: https://github.com/mrakitin/zmq-in-udp-out-simulator/actions/workflows/screenshots.yml/badge.svg
+   :target: https://github.com/mrakitin/zmq-in-udp-out-simulator/actions/workflows/screenshots.yml
+   :alt: Screenshots & Docs
+
+A Python simulator for the `GeRM (Germanium Matrix) detector
+<https://github.com/NSLS2/Mars_DDM>`_ developed at `NSLS-II
+<https://www.bnl.gov/nsls2/>`_.
+
+The simulator accepts device configuration and acquisition control commands
+over **ZMQ REP** and emits simulated detector event data as **UDP datagrams**
+in the real GeRM wire format.  An **EPICS AreaDetector IOC** (``ADGerm``)
+bridges the detector to the EPICS control system, and a **Phoebus** screen
+provides a graphical operator interface.  Acquired data are written as **HDF5**
+files readable by `NeXpy <https://nexpy.github.io/nexpy/>`_.
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents
+
+   screenshots
+
+----
+
+Quick start
+-----------
+
+.. code-block:: bash
+
+   # Terminal 1 — simulator
+   pixi run simulate
+
+   # Terminal 2 — EPICS IOC  (macOS arm64 only)
+   pixi run ioc
+
+   # Terminal 3 — Phoebus control screen
+   pixi run phoebus
+
+   # Automate acquisition and capture screenshots
+   bash scripts/take_screenshots.sh
+
+----
+
+Available ``pixi`` tasks
+------------------------
+
+.. list-table::
+   :header-rows: 1
+   :widths: 20 80
+
+   * - Task
+     - Description
+   * - ``pixi run simulate``
+     - Start the GeRM UDP/ZMQ simulator
+   * - ``pixi run ioc``
+     - Start the EPICS AreaDetector IOC *(macOS arm64 only)*
+   * - ``pixi run phoebus``
+     - Open Phoebus with the ADGerm control screen *(macOS arm64 only)*
+   * - ``pixi run command <cmd>``
+     - Send ZMQ commands to the simulator
+   * - ``pixi run view``
+     - Plot acquired detector data with matplotlib
+   * - ``pixi run nexpy``
+     - Open an HDF5 file in the NeXpy browser
+   * - ``pixi run screenshots``
+     - Run the full automation workflow and capture screenshots
+   * - ``pixi run docs``
+     - Build this Sphinx documentation
+   * - ``pixi run test``
+     - Run the pytest test suite

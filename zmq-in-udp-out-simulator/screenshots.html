@@ -1,0 +1,748 @@
+
+<!DOCTYPE html>
+
+
+<html lang="en" data-content_root="./" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Acquisition Workflow Screenshots &#8212; ZMQ→UDP Simulator</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
+  </script>
+  <!--
+    this give us a css class that will be invisible only if js is disabled
+  -->
+  <noscript>
+    <style>
+      .pst-js-only { display: none !important; }
+
+    </style>
+  </noscript>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=90905a2f556bf617f1a9" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=90905a2f556bf617f1a9" rel="stylesheet" />
+
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=8f2a1f02" />
+  
+  <!-- So that users can add custom icons -->
+  <script defer src="_static/scripts/fontawesome.js?digest=90905a2f556bf617f1a9"></script>
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=90905a2f556bf617f1a9" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=90905a2f556bf617f1a9" />
+
+    <script src="_static/documentation_options.js?v=01f34227"></script>
+    <script src="_static/doctools.js?v=fd6eb6e6"></script>
+    <script src="_static/sphinx_highlight.js?v=6ffebe34"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'screenshots';</script>
+    <script>DOCUMENTATION_OPTIONS.search_as_you_type = false;</script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="prev" title="ZMQ-in / UDP-out Simulator" href="index.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+  <meta name="docsearch:version" content="" />
+  
+    
+    <script src="_static/searchtools.js"></script>
+    <script src="_static/language_data.js"></script>
+    <script src="searchindex.js"></script>
+  
+  </head>
+  <body data-default-mode="">
+  
+  
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
+  
+  
+  
+  
+  <dialog id="pst-search-dialog">
+    
+<form class="bd-search d-flex align-items-center"
+      action="search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         placeholder="Search the docs ..."
+         aria-label="Search the docs ..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form>
+  </dialog>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+</div>
+
+  
+    <header id="pst-header" class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+<div class="bd-header__inner bd-page-width">
+  <button class="pst-navbar-icon sidebar-toggle primary-toggle" aria-label="Site navigation">
+    <span class="fa-solid fa-bars"></span>
+  </button>
+  
+  
+  <div class=" navbar-header-items__start">
+    
+      <div class="navbar-item">
+
+  
+    
+  
+
+<a class="navbar-brand logo" href="index.html">
+  
+  
+  
+  
+  
+  
+    <p class="title logo__title">ZMQ→UDP Simulator</p>
+  
+</a></div>
+    
+  </div>
+  
+  <div class=" navbar-header-items">
+    
+    <div class="me-auto navbar-header-items__center">
+      
+        <div class="navbar-item">
+<nav>
+  <ul class="bd-navbar-elements navbar-nav">
+    
+<li class="nav-item current active">
+  <a class="nav-link nav-internal" href="#">
+    Acquisition Workflow Screenshots
+  </a>
+</li>
+
+  </ul>
+</nav></div>
+      
+    </div>
+    
+    
+    <div class="navbar-header-items__end">
+      
+        <div class="navbar-item navbar-persistent--container">
+          
+
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button>
+        </div>
+      
+      
+        <div class="navbar-item">
+
+<div class="theme-switch-container dropdown pst-js-only" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Color mode">
+  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button dropdown-toggle" aria-label="Color mode" data-bs-toggle="dropdown">
+    <i class="theme-switch fa-solid fa-sun fa-lg fa-fw" data-mode="light" title="Light"></i>
+    <i class="theme-switch fa-solid fa-moon fa-lg fa-fw" data-mode="dark" title="Dark"></i>
+    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg fa-fw" data-mode="auto" title="System Settings"></i>
+  </button>
+  <ul class="dropdown-menu dropdown-menu-end">
+    <li><button class="dropdown-item d-flex align-items-center theme-change-button" data-mode="auto"><i class="fa-solid fa-circle-half-stroke fa-lg fa-fw me-1"></i>System Settings</button></li>
+    <li><button class="dropdown-item d-flex align-items-center theme-change-button" data-mode="light"><i class="fa-solid fa-sun fa-lg fa-fw me-1"></i>Light</button></li>
+    <li><button class="dropdown-item d-flex align-items-center theme-change-button" data-mode="dark"><i class="fa-solid fa-moon fa-lg fa-fw me-1"></i>Dark</button></li>
+  </ul>
+</div></div>
+      
+        <div class="navbar-item"><ul class="navbar-icon-links"
+    aria-label="Icon Links">
+        <li class="nav-item">
+          
+          
+          
+          
+          
+          
+          
+          
+          <a href="https://github.com/mrakitin/zmq-in-udp-out-simulator" title="GitHub" class="nav-link pst-navbar-icon" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><i class="fa-brands fa-square-github fa-lg" aria-hidden="true"></i><span class="visually-hidden">GitHub</span></a>
+        </li>
+        <li class="nav-item">
+          
+          
+          
+          
+          
+          
+          
+          
+          <a href="https://github.com/mrakitin/zmq-in-udp-out-simulator" title="GitHub" class="nav-link pst-navbar-icon" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><i class="fa-brands fa-github fa-lg" aria-hidden="true"></i><span class="visually-hidden">GitHub</span></a>
+        </li>
+        <li class="nav-item">
+          
+          
+          
+          
+          
+          
+          
+          
+          <a href="https://www.bnl.gov/nsls2/" title="NSLS-II" class="nav-link pst-navbar-icon" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><i class="fa-solid fa-atom fa-lg" aria-hidden="true"></i><span class="visually-hidden">NSLS-II</span></a>
+        </li>
+</ul></div>
+      
+    </div>
+    
+  </div>
+  
+  
+    <div class="navbar-persistent--mobile">
+
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button>
+    </div>
+  
+
+  
+    <button class="pst-navbar-icon sidebar-toggle secondary-toggle" aria-label="On this page">
+      <span class="fa-solid fa-outdent"></span>
+    </button>
+  
+</div>
+
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+      <div class="sidebar-header-items__center">
+        
+          
+          
+            <div class="navbar-item">
+<nav>
+  <ul class="bd-navbar-elements navbar-nav">
+    
+<li class="nav-item current active">
+  <a class="nav-link nav-internal" href="#">
+    Acquisition Workflow Screenshots
+  </a>
+</li>
+
+  </ul>
+</nav></div>
+          
+        
+      </div>
+    
+    
+    
+      <div class="sidebar-header-items__end">
+        
+          <div class="navbar-item">
+
+<div class="theme-switch-container dropdown pst-js-only" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Color mode">
+  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button dropdown-toggle" aria-label="Color mode" data-bs-toggle="dropdown">
+    <i class="theme-switch fa-solid fa-sun fa-lg fa-fw" data-mode="light" title="Light"></i>
+    <i class="theme-switch fa-solid fa-moon fa-lg fa-fw" data-mode="dark" title="Dark"></i>
+    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg fa-fw" data-mode="auto" title="System Settings"></i>
+  </button>
+  <ul class="dropdown-menu dropdown-menu-end">
+    <li><button class="dropdown-item d-flex align-items-center theme-change-button" data-mode="auto"><i class="fa-solid fa-circle-half-stroke fa-lg fa-fw me-1"></i>System Settings</button></li>
+    <li><button class="dropdown-item d-flex align-items-center theme-change-button" data-mode="light"><i class="fa-solid fa-sun fa-lg fa-fw me-1"></i>Light</button></li>
+    <li><button class="dropdown-item d-flex align-items-center theme-change-button" data-mode="dark"><i class="fa-solid fa-moon fa-lg fa-fw me-1"></i>Dark</button></li>
+  </ul>
+</div></div>
+        
+          <div class="navbar-item"><ul class="navbar-icon-links"
+    aria-label="Icon Links">
+        <li class="nav-item">
+          
+          
+          
+          
+          
+          
+          
+          
+          <a href="https://github.com/mrakitin/zmq-in-udp-out-simulator" title="GitHub" class="nav-link pst-navbar-icon" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><i class="fa-brands fa-square-github fa-lg" aria-hidden="true"></i><span class="visually-hidden">GitHub</span></a>
+        </li>
+        <li class="nav-item">
+          
+          
+          
+          
+          
+          
+          
+          
+          <a href="https://github.com/mrakitin/zmq-in-udp-out-simulator" title="GitHub" class="nav-link pst-navbar-icon" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><i class="fa-brands fa-github fa-lg" aria-hidden="true"></i><span class="visually-hidden">GitHub</span></a>
+        </li>
+        <li class="nav-item">
+          
+          
+          
+          
+          
+          
+          
+          
+          <a href="https://www.bnl.gov/nsls2/" title="NSLS-II" class="nav-link pst-navbar-icon" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><i class="fa-solid fa-atom fa-lg" aria-hidden="true"></i><span class="visually-hidden">NSLS-II</span></a>
+        </li>
+</ul></div>
+        
+      </div>
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item pst-sidebar-collapse"><button id="pst-collapse-sidebar-button" aria-expanded="true" aria-controls="pst-primary-sidebar">
+  <svg class="pst-icon" role="img" aria-hidden="true" focusable="false" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+    <path fill="currentColor" d="M3 15.5C2.36232 15.5 1.74874 15.2564 1.28478 14.8189C0.820828 14.3815 0.541576 13.7832 0.504167 13.1467L0.5 13L0.5 3C0.499965 2.36232 0.743605 1.74874 1.18107 1.28478C1.61854 0.820828 2.21676 0.541576 2.85333 0.504167L3 0.5L13 0.5C13.6377 0.499965 14.2513 0.743605 14.7152 1.18107C15.1792 1.61854 15.4584 2.21676 15.4958 2.85333L15.5 3L15.5 13C15.5 13.6377 15.2564 14.2513 14.8189 14.7152C14.3815 15.1792 13.7832 15.4584 13.1467 15.4958L13 15.5L3 15.5ZM3 13.8333L10.5 13.8333L10.5 2.16667L3 2.16667C2.79589 2.16669 2.59889 2.24163 2.44636 2.37726C2.29383 2.5129 2.19638 2.69979 2.1725 2.9025L2.16667 3L2.16667 13C2.16669 13.2041 2.24163 13.4011 2.37726 13.5536C2.5129 13.7062 2.69979 13.8036 2.9025 13.8275L3 13.8333ZM6.65583 10.325L6.5775 10.2558L4.91083 8.58917C4.76735 8.44567 4.68116 8.25476 4.66843 8.05223C4.65569 7.84971 4.71729 7.6495 4.84167 7.48917L4.91083 7.41083L6.5775 5.74417C6.72747 5.59471 6.9287 5.50794 7.14032 5.50148C7.35194 5.49502 7.55809 5.56935 7.7169 5.70937C7.8757 5.8494 7.97525 6.04463 7.99533 6.25539C8.01541 6.46616 7.95451 6.67667 7.825 6.84417L7.75583 6.9225L6.67917 8L7.75583 9.0775C7.89931 9.22099 7.98551 9.41191 7.99824 9.61443C8.01097 9.81695 7.94938 10.0172 7.825 10.1775L7.75583 10.2558C7.61234 10.3993 7.42142 10.4855 7.2189 10.4982C7.01638 10.511 6.81617 10.4494 6.65583 10.325Z"/>
+  </svg>
+  <span class="pst-collapse-sidebar-label">Collapse Sidebar</span>
+  <span class="pst-expand-sidebar-label">Expand Sidebar</span>
+</button></div>
+        <div class="sidebar-primary-item">
+
+<nav class="bd-docs-nav bd-links"
+     aria-label="Section Navigation">
+  <p class="bd-links__title" role="heading" aria-level="1">Section Navigation</p>
+  <div class="bd-toc-item navbar-nav"></div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+      <div class="sidebar-primary-item"><nav class="sidebar-indices-items" aria-labelledby="pst-indices-navigation-heading-2">
+  <p id="pst-indices-navigation-heading-2" class="sidebar-indices-items__title" role="heading" aria-level="1">Indices</p>
+  <ul class="indices-link">
+        <li class="toctree-l1">
+          <a class="reference internal"
+             href="genindex.html"
+             accesskey="I">General Index</a>
+        </li>
+  </ul>
+</nav></div>
+  </div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main" role="main">
+        
+        
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article d-print-none">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item">
+
+<nav aria-label="Breadcrumb" class="d-print-none">
+  <ul class="bd-breadcrumbs">
+    
+    <li class="breadcrumb-item breadcrumb-home">
+      <a href="index.html" class="nav-link" aria-label="Home">
+        <i class="fa-solid fa-home"></i>
+      </a>
+    </li>
+    <li class="breadcrumb-item active" aria-current="page"><span class="ellipsis">Acquisition Workflow Screenshots</span></li>
+  </ul>
+</nav>
+</div>
+      
+    </div>
+  
+  
+</div>
+</div>
+              
+              
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <section id="acquisition-workflow-screenshots">
+<h1>Acquisition Workflow Screenshots<a class="headerlink" href="#acquisition-workflow-screenshots" title="Link to this heading">#</a></h1>
+<p>These screenshots are captured automatically by the nightly CI pipeline
+(<code class="docutils literal notranslate"><span class="pre">scripts/take_screenshots.sh</span></code>) and updated in the repository on every run.
+They document the complete acquisition workflow from raw simulator startup to
+data visualisation in NeXpy.</p>
+<p>The pipeline runs on <strong>macOS arm64</strong> (the same architecture as the
+darwin-aarch64 IOC binary).  When the IOC binary is unavailable (e.g. on a
+fresh checkout before the IOC is compiled), the workflow falls back to
+<strong>demo mode</strong> — synthetic GeRM data are generated by
+<code class="docutils literal notranslate"><span class="pre">scripts/nexpy_capture.py</span></code> and the data-visualisation screenshots are
+still produced.</p>
+<hr class="docutils" />
+<section id="starting-the-simulator">
+<h2>1 · Starting the simulator<a class="headerlink" href="#starting-the-simulator" title="Link to this heading">#</a></h2>
+<p>The simulator binds a <strong>ZMQ REP</strong> socket on <code class="docutils literal notranslate"><span class="pre">tcp://*:5556</span></code> and listens for
+commands.  Once the IOC triggers an acquisition it starts sending UDP frames
+on port <code class="docutils literal notranslate"><span class="pre">9870</span></code>.</p>
+<figure class="align-center" id="id1">
+<img alt="Simulator started" src="screenshots/01_simulator_started.png" />
+<figcaption>
+<p><span class="caption-text"><code class="docutils literal notranslate"><span class="pre">pixi</span> <span class="pre">run</span> <span class="pre">simulate</span></code> — simulator process running in the foreground.</span><a class="headerlink" href="#id1" title="Link to this image">#</a></p>
+</figcaption>
+</figure>
+</section>
+<hr class="docutils" />
+<section id="starting-the-epics-ioc">
+<h2>2 · Starting the EPICS IOC<a class="headerlink" href="#starting-the-epics-ioc" title="Link to this heading">#</a></h2>
+<p>The <code class="docutils literal notranslate"><span class="pre">ADGerm</span></code> IOC loads ~1 063 PVs (detector camera, NDStats, NDCodec,
+NDStdArrays, NDFileHDF5, NDFileTIFF, NDPva).  The <code class="docutils literal notranslate"><span class="pre">iocRun:</span> <span class="pre">All</span>
+<span class="pre">initialization</span> <span class="pre">complete</span></code> message confirms readiness.</p>
+<figure class="align-center" id="id2">
+<img alt="IOC started" src="screenshots/02_ioc_started.png" />
+<figcaption>
+<p><span class="caption-text"><code class="docutils literal notranslate"><span class="pre">pixi</span> <span class="pre">run</span> <span class="pre">ioc</span></code> — IOC fully initialised, all plugins enabled.</span><a class="headerlink" href="#id2" title="Link to this image">#</a></p>
+</figcaption>
+</figure>
+</section>
+<hr class="docutils" />
+<section id="phoebus-control-screen">
+<h2>3 · Phoebus control screen<a class="headerlink" href="#phoebus-control-screen" title="Link to this heading">#</a></h2>
+<p>Phoebus opens the <code class="docutils literal notranslate"><span class="pre">ADGerm.bob</span></code> screen with macros <code class="docutils literal notranslate"><span class="pre">P=GERM:</span></code> and
+<code class="docutils literal notranslate"><span class="pre">R=cam1:</span></code>.  All PV values are fetched over Channel Access once the IOC is
+running.</p>
+<figure class="align-center" id="id3">
+<img alt="Phoebus main screen" src="screenshots/03_phoebus_main.png" />
+<figcaption>
+<p><span class="caption-text"><code class="docutils literal notranslate"><span class="pre">pixi</span> <span class="pre">run</span> <span class="pre">phoebus</span></code> — ADGerm main operator screen.</span><a class="headerlink" href="#id3" title="Link to this image">#</a></p>
+</figcaption>
+</figure>
+</section>
+<hr class="docutils" />
+<section id="warmup-acquisition">
+<h2>4 · Warmup acquisition<a class="headerlink" href="#warmup-acquisition" title="Link to this heading">#</a></h2>
+<p>A single-frame <strong>warmup</strong> acquisition (<code class="docutils literal notranslate"><span class="pre">ImageMode=Single</span></code>, <code class="docutils literal notranslate"><span class="pre">NumImages=1</span></code>)
+is required before enabling HDF5 capture.  It primes the <code class="docutils literal notranslate"><span class="pre">NDArray</span></code> internal
+dimensions so the HDF5 plugin can open the file correctly.</p>
+<figure class="align-center" id="id4">
+<img alt="Warmup acquire" src="screenshots/04_warmup_acquire.png" />
+<figcaption>
+<p><span class="caption-text">Warmup: <code class="docutils literal notranslate"><span class="pre">caput</span> <span class="pre">GERM:cam1:Acquire</span> <span class="pre">1</span></code> with <code class="docutils literal notranslate"><span class="pre">NumImages=1,</span> <span class="pre">ImageMode=Single</span></code>.</span><a class="headerlink" href="#id4" title="Link to this image">#</a></p>
+</figcaption>
+</figure>
+</section>
+<hr class="docutils" />
+<section id="acquire">
+<h2>5 · Acquire<a class="headerlink" href="#acquire" title="Link to this heading">#</a></h2>
+<p>The main acquisition begins (<code class="docutils literal notranslate"><span class="pre">ImageMode=Multiple</span></code>, <code class="docutils literal notranslate"><span class="pre">NumImages=50</span></code>).
+The <strong>Detector State</strong> PV transitions to <em>Acquiring</em> and the Phoebus LED
+turns green.</p>
+<figure class="align-center" id="id5">
+<img alt="Acquire started" src="screenshots/05_acquire_started.png" />
+<figcaption>
+<p><span class="caption-text">Acquisition started — <code class="docutils literal notranslate"><span class="pre">GERM:cam1:DetectorState_RBV</span> <span class="pre">=</span> <span class="pre">Acquiring</span></code>.</span><a class="headerlink" href="#id5" title="Link to this image">#</a></p>
+</figcaption>
+</figure>
+<figure class="align-center" id="id6">
+<img alt="Acquire done" src="screenshots/06_acquire_done.png" />
+<figcaption>
+<p><span class="caption-text">Acquisition complete — state returns to <em>Idle</em>.</span><a class="headerlink" href="#id6" title="Link to this image">#</a></p>
+</figcaption>
+</figure>
+</section>
+<hr class="docutils" />
+<section id="hdf5-capture">
+<h2>6 · HDF5 Capture<a class="headerlink" href="#hdf5-capture" title="Link to this heading">#</a></h2>
+<p>With capture enabled (<code class="docutils literal notranslate"><span class="pre">GERM:HDF1:Capture=1</span></code>) the NDFileHDF5 plugin opens
+the output file (e.g. <code class="docutils literal notranslate"><span class="pre">/tmp/germ0001.h5</span></code>) and streams every incoming
+<code class="docutils literal notranslate"><span class="pre">NDArray</span></code> frame into it.</p>
+<figure class="align-center" id="id7">
+<img alt="Capture started" src="screenshots/07_capture_started.png" />
+<figcaption>
+<p><span class="caption-text"><code class="docutils literal notranslate"><span class="pre">caput</span> <span class="pre">GERM:HDF1:Capture</span> <span class="pre">1</span></code> — HDF5 file open, capture active.</span><a class="headerlink" href="#id7" title="Link to this image">#</a></p>
+</figcaption>
+</figure>
+<figure class="align-center" id="id8">
+<img alt="Phoebus HDF5 plugin screen" class="with-shadow" src="screenshots/07b_phoebus_hdf5_plugin.png" />
+<figcaption>
+<p><span class="caption-text">Phoebus <code class="docutils literal notranslate"><span class="pre">NDFileHDF5.bob</span></code> screen showing the file path, write mode, and
+capture status.</span><a class="headerlink" href="#id8" title="Link to this image">#</a></p>
+</figcaption>
+</figure>
+</section>
+<hr class="docutils" />
+<section id="acquire-again-stream-to-hdf5">
+<h2>7 · Acquire again (stream to HDF5)<a class="headerlink" href="#acquire-again-stream-to-hdf5" title="Link to this heading">#</a></h2>
+<p>A second acquisition (<code class="docutils literal notranslate"><span class="pre">NumImages=100</span></code>, <code class="docutils literal notranslate"><span class="pre">ImageMode=Multiple</span></code>) streams
+frames directly into the open HDF5 file.  The <em>Num Captured</em> counter
+increments with every frame written.</p>
+<figure class="align-center" id="id9">
+<img alt="Acquiring to HDF5" src="screenshots/08_acquiring_to_hdf5.png" />
+<figcaption>
+<p><span class="caption-text">Data streaming into <code class="docutils literal notranslate"><span class="pre">/tmp/germ0001.h5</span></code> — <code class="docutils literal notranslate"><span class="pre">GERM:HDF1:NumCaptured_RBV</span></code>
+increments.</span><a class="headerlink" href="#id9" title="Link to this image">#</a></p>
+</figcaption>
+</figure>
+<figure class="align-center" id="id10">
+<img alt="File written" src="screenshots/09_file_written.png" />
+<figcaption>
+<p><span class="caption-text">Capture stopped — HDF5 file closed and written to disk.</span><a class="headerlink" href="#id10" title="Link to this image">#</a></p>
+</figcaption>
+</figure>
+</section>
+<hr class="docutils" />
+<section id="opening-nexpy">
+<h2>8 · Opening NeXpy<a class="headerlink" href="#opening-nexpy" title="Link to this heading">#</a></h2>
+<p>The <strong>Open NeXpy</strong> button in the Phoebus <code class="docutils literal notranslate"><span class="pre">NDFileHDF5.bob</span></code> screen runs
+<code class="docutils literal notranslate"><span class="pre">ADGerm/germApp/op/bob/open_nexpy.sh</span></code>.  The script:</p>
+<ol class="arabic simple">
+<li><p>Stops HDF5 capture (ensures the file is fully flushed and closed).</p></li>
+<li><p>Reads the filename from <code class="docutils literal notranslate"><span class="pre">GERM:HDF1:FullFileName_RBV</span></code>.</p></li>
+<li><p>Launches <code class="docutils literal notranslate"><span class="pre">pixi</span> <span class="pre">run</span> <span class="pre">nexpy</span> <span class="pre">&lt;filename&gt;</span></code>.</p></li>
+</ol>
+<figure class="align-center" id="id11">
+<img alt="NeXpy opened" src="screenshots/10_nexpy_opened.png" />
+<figcaption>
+<p><span class="caption-text">NeXpy file browser opened with <code class="docutils literal notranslate"><span class="pre">/tmp/germ0001.h5</span></code> loaded.</span><a class="headerlink" href="#id11" title="Link to this image">#</a></p>
+</figcaption>
+</figure>
+</section>
+<hr class="docutils" />
+<section id="expanding-the-hdf5-tree">
+<h2>9 · Expanding the HDF5 tree<a class="headerlink" href="#expanding-the-hdf5-tree" title="Link to this heading">#</a></h2>
+<p>The left panel shows the NeXpy file tree.  The screenshot below is
+generated by <code class="docutils literal notranslate"><span class="pre">scripts/nexpy_capture.py</span></code> and mirrors the dark-themed
+tree view, with the <code class="docutils literal notranslate"><span class="pre">entry/data/data</span></code> dataset highlighted (selected).</p>
+<figure class="align-center" id="id12">
+<img alt="NeXpy tree view" src="_images/10_nexpy_tree.png" />
+<figcaption>
+<p><span class="caption-text">HDF5 file tree — <code class="docutils literal notranslate"><span class="pre">entry/data/data</span> <span class="pre">[uint32</span>&#160; <span class="pre">[10,</span> <span class="pre">384,</span> <span class="pre">4096]]</span></code> selected.</span><a class="headerlink" href="#id12" title="Link to this image">#</a></p>
+</figcaption>
+</figure>
+<p>The file structure produced by <code class="docutils literal notranslate"><span class="pre">NDFileHDF5</span></code> in Stream mode:</p>
+<div class="highlight-text notranslate"><div class="highlight"><pre><span></span>/entry
+  /data
+    /data          uint32  (10, 384, 4096)   ← 10 frames × 384 pixels × 4096 time bins
+  /instrument
+    /NDAttributes
+      /FrameNumber         uint32  (10,)
+      /NDArrayTimeStamp    float64 (10,)
+      /NumLostEvents       uint32  (10,)
+    /detector/
+</pre></div>
+</div>
+<figure class="align-center" id="id13">
+<img alt="NeXpy tree expanded" class="with-shadow" src="screenshots/11_nexpy_tree_expanded.png" />
+<figcaption>
+<p><span class="caption-text">NeXpy tree expanded and <code class="docutils literal notranslate"><span class="pre">data</span></code> dataset selected — ready to plot.</span><a class="headerlink" href="#id13" title="Link to this image">#</a></p>
+</figcaption>
+</figure>
+</section>
+<hr class="docutils" />
+<section id="viewing-and-plotting-data">
+<h2>10 · Viewing and plotting data<a class="headerlink" href="#viewing-and-plotting-data" title="Link to this heading">#</a></h2>
+<p>Double-clicking a dataset (or pressing <strong>Enter</strong>) in NeXpy renders the
+detector image.  The screenshot below shows <code class="docutils literal notranslate"><span class="pre">entry/data/data[0]</span></code> — one
+frame from the acquisition — as rendered by NeXpy’s built-in plot panel.</p>
+<figure class="align-center" id="id14">
+<img alt="Single-frame detector image" src="_images/11_nexpy_data_view.png" />
+<figcaption>
+<p><span class="caption-text"><code class="docutils literal notranslate"><span class="pre">entry/data/data</span></code> frame 0 — shape <code class="docutils literal notranslate"><span class="pre">(384,</span> <span class="pre">4096)</span></code>.
+X-axis: time bin (0–4 095).  Y-axis: pixel (chip × 32 + channel).
+Chip boundaries are shown as faint white lines.</span><a class="headerlink" href="#id14" title="Link to this image">#</a></p>
+</figcaption>
+</figure>
+<figure class="align-center" id="id15">
+<img alt="NeXpy plot view" class="with-shadow" src="screenshots/12_nexpy_plot_view.png" />
+<figcaption>
+<p><span class="caption-text">NeXpy plot panel with the data array plotted interactively.</span><a class="headerlink" href="#id15" title="Link to this image">#</a></p>
+</figcaption>
+</figure>
+</section>
+<hr class="docutils" />
+<section id="hit-map-all-frames-summed">
+<h2>11 · Hit map (all frames summed)<a class="headerlink" href="#hit-map-all-frames-summed" title="Link to this heading">#</a></h2>
+<p>Summing over all 10 frames gives the integrated hit map.  The right
+panel shows the 1-D projection (hits per pixel across all time bins).</p>
+<figure class="align-center" id="id16">
+<img alt="Summed hit map" src="_images/12_nexpy_hitmap.png" />
+<figcaption>
+<p><span class="caption-text">Integrated hit map — 10 frames, 1 200 total hits.
+Chip boundaries marked in white.</span><a class="headerlink" href="#id16" title="Link to this image">#</a></p>
+</figcaption>
+</figure>
+</section>
+<hr class="docutils" />
+<section id="acquisition-statistics">
+<h2>12 · Acquisition statistics<a class="headerlink" href="#acquisition-statistics" title="Link to this heading">#</a></h2>
+<p>A four-panel summary of the acquisition:</p>
+<ul class="simple">
+<li><p><strong>Events per frame</strong> — should be constant at the configured
+<code class="docutils literal notranslate"><span class="pre">EventsPerFrame</span></code> value (default 120).</p></li>
+<li><p><strong>Frame numbers</strong> — must be monotonically increasing (no dropped frames).</p></li>
+<li><p><strong>Hits per chip</strong> — uniformly distributed across all 12 chips.</p></li>
+<li><p><strong>Lost events</strong> — should be zero for the simulator.</p></li>
+</ul>
+<figure class="align-center" id="id17">
+<img alt="Acquisition statistics" src="_images/13_nexpy_statistics.png" />
+<figcaption>
+<p><span class="caption-text">Acquisition statistics: 10 frames, 120 events/frame, 0 lost events.</span><a class="headerlink" href="#id17" title="Link to this image">#</a></p>
+</figcaption>
+</figure>
+</section>
+<hr class="docutils" />
+<section id="reproducing-the-screenshots-locally">
+<h2>Reproducing the screenshots locally<a class="headerlink" href="#reproducing-the-screenshots-locally" title="Link to this heading">#</a></h2>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span><span class="c1"># Full workflow (requires pre-built IOC + Phoebus on macOS arm64)</span>
+bash<span class="w"> </span>scripts/take_screenshots.sh
+
+<span class="c1"># Data-visualisation screenshots only (any platform, any HDF5 file)</span>
+pixi<span class="w"> </span>run<span class="w"> </span>python<span class="w"> </span>scripts/nexpy_capture.py<span class="w"> </span>--hdf5-file<span class="w"> </span>/tmp/germ0001.h5
+
+<span class="c1"># Demo mode — synthetic data, no HDF5 file required</span>
+pixi<span class="w"> </span>run<span class="w"> </span>python<span class="w"> </span>scripts/nexpy_capture.py<span class="w"> </span>--demo-mode
+
+<span class="c1"># Rebuild this documentation</span>
+pixi<span class="w"> </span>run<span class="w"> </span>docs
+open<span class="w"> </span>docs/_build/html/index.html
+</pre></div>
+</div>
+</section>
+</section>
+
+
+                </article>
+              
+              
+              
+              
+              
+                <footer class="prev-next-footer d-print-none">
+                  
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="index.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">ZMQ-in / UDP-out Simulator</p>
+      </div>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <dialog id="pst-secondary-sidebar-modal"></dialog>
+                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+<div
+    id="pst-page-navigation-heading-2"
+    class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> On this page
+  </div>
+  <nav id="pst-page-toc-nav" class="page-toc" aria-labelledby="pst-page-navigation-heading-2">
+    <ul class="pst-show_toc_level nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#starting-the-simulator">1 · Starting the simulator</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#starting-the-epics-ioc">2 · Starting the EPICS IOC</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#phoebus-control-screen">3 · Phoebus control screen</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#warmup-acquisition">4 · Warmup acquisition</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#acquire">5 · Acquire</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#hdf5-capture">6 · HDF5 Capture</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#acquire-again-stream-to-hdf5">7 · Acquire again (stream to HDF5)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#opening-nexpy">8 · Opening NeXpy</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#expanding-the-hdf5-tree">9 · Expanding the HDF5 tree</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#viewing-and-plotting-data">10 · Viewing and plotting data</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#hit-map-all-frames-summed">11 · Hit map (all frames summed)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#acquisition-statistics">12 · Acquisition statistics</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#reproducing-the-screenshots-locally">Reproducing the screenshots locally</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+          </footer>
+        
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script defer src="_static/scripts/bootstrap.js?digest=90905a2f556bf617f1a9"></script>
+<script defer src="_static/scripts/pydata-sphinx-theme.js?digest=90905a2f556bf617f1a9"></script>
+
+  <footer class="bd-footer">
+<div class="bd-footer__inner bd-page-width">
+  
+    <div class="footer-items__start">
+      
+        <div class="footer-item">
+
+  <p class="copyright">
+    
+      © Copyright 2026, Max Rakitin.
+      <br/>
+    
+  </p>
+</div>
+      
+    </div>
+  
+  
+  
+    <div class="footer-items__end">
+      
+        <div class="footer-item">
+
+  <p class="sphinx-version">
+    Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 9.1.0.
+    <br/>
+  </p>
+</div>
+      
+    </div>
+  
+</div>
+
+  </footer>
+  </body>
+</html>
