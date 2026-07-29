@@ -82,17 +82,11 @@ The main acquisition begins (``ImageMode=Multiple``, ``NumImages=50``).
 The **Detector State** PV transitions to *Acquiring* and the Phoebus LED
 turns green.
 
-.. figure:: screenshots/05_acquire_started.png
+.. figure:: screenshots/05_acquire.png
    :alt: Acquire started
    :align: center
 
    Acquisition started — ``GERM:cam1:DetectorState_RBV = Acquiring``.
-
-.. figure:: screenshots/06_acquire_done.png
-   :alt: Acquire done
-   :align: center
-
-   Acquisition complete — state returns to *Idle*.
 
 ----
 
@@ -103,19 +97,11 @@ With capture enabled (``GERM:HDF1:Capture=1``) the NDFileHDF5 plugin opens
 the output file (e.g. ``/tmp/germ0001.h5``) and streams every incoming
 ``NDArray`` frame into it.
 
-.. figure:: screenshots/07_capture_started.png
-   :alt: Capture started
+.. figure:: screenshots/06_capture_on.png
+   :alt: Capture enabled
    :align: center
 
    ``caput GERM:HDF1:Capture 1`` — HDF5 file open, capture active.
-
-.. figure:: screenshots/07b_phoebus_hdf5_plugin.png
-   :alt: Phoebus HDF5 plugin screen
-   :align: center
-   :class: with-shadow
-
-   Phoebus ``NDFileHDF5.bob`` screen showing the file path, write mode, and
-   capture status.
 
 ----
 
@@ -126,15 +112,15 @@ A second acquisition (``NumImages=100``, ``ImageMode=Multiple``) streams
 frames directly into the open HDF5 file.  The *Num Captured* counter
 increments with every frame written.
 
-.. figure:: screenshots/08_acquiring_to_hdf5.png
+.. figure:: screenshots/07_capture_acquire.png
    :alt: Acquiring to HDF5
    :align: center
 
    Data streaming into ``/tmp/germ0001.h5`` — ``GERM:HDF1:NumCaptured_RBV``
    increments.
 
-.. figure:: screenshots/09_file_written.png
-   :alt: File written
+.. figure:: screenshots/08_acquisition_complete.png
+   :alt: Acquisition complete
    :align: center
 
    Capture stopped — HDF5 file closed and written to disk.
@@ -151,7 +137,7 @@ The **Open NeXpy** button in the Phoebus ``NDFileHDF5.bob`` screen runs
 2. Reads the filename from ``GERM:HDF1:FullFileName_RBV``.
 3. Launches ``pixi run nexpy <filename>``.
 
-.. figure:: screenshots/10_nexpy_opened.png
+.. figure:: screenshots/09_nexpy_opened.png
    :alt: NeXpy opened
    :align: center
 
@@ -186,13 +172,6 @@ The file structure produced by ``NDFileHDF5`` in Stream mode:
          /NumLostEvents       uint32  (10,)
        /detector/
 
-.. figure:: screenshots/11_nexpy_tree_expanded.png
-   :alt: NeXpy tree expanded
-   :align: center
-   :class: with-shadow
-
-   NeXpy tree expanded and ``data`` dataset selected — ready to plot.
-
 ----
 
 10 · Viewing and plotting data
@@ -209,13 +188,6 @@ frame from the acquisition — as rendered by NeXpy's built-in plot panel.
    ``entry/data/data`` frame 0 — shape ``(384, 4096)``.
    X-axis: time bin (0–4 095).  Y-axis: pixel (chip × 32 + channel).
    Chip boundaries are shown as faint white lines.
-
-.. figure:: screenshots/12_nexpy_plot_view.png
-   :alt: NeXpy plot view
-   :align: center
-   :class: with-shadow
-
-   NeXpy plot panel with the data array plotted interactively.
 
 ----
 

@@ -468,15 +468,9 @@ dimensions so the HDF5 plugin can open the file correctly.</p>
 The <strong>Detector State</strong> PV transitions to <em>Acquiring</em> and the Phoebus LED
 turns green.</p>
 <figure class="align-center" id="id5">
-<img alt="Acquire started" src="screenshots/05_acquire_started.png" />
+<img alt="Acquire started" src="_images/05_acquire.png" />
 <figcaption>
 <p><span class="caption-text">Acquisition started — <code class="docutils literal notranslate"><span class="pre">GERM:cam1:DetectorState_RBV</span> <span class="pre">=</span> <span class="pre">Acquiring</span></code>.</span><a class="headerlink" href="#id5" title="Link to this image">#</a></p>
-</figcaption>
-</figure>
-<figure class="align-center" id="id6">
-<img alt="Acquire done" src="screenshots/06_acquire_done.png" />
-<figcaption>
-<p><span class="caption-text">Acquisition complete — state returns to <em>Idle</em>.</span><a class="headerlink" href="#id6" title="Link to this image">#</a></p>
 </figcaption>
 </figure>
 </section>
@@ -486,17 +480,10 @@ turns green.</p>
 <p>With capture enabled (<code class="docutils literal notranslate"><span class="pre">GERM:HDF1:Capture=1</span></code>) the NDFileHDF5 plugin opens
 the output file (e.g. <code class="docutils literal notranslate"><span class="pre">/tmp/germ0001.h5</span></code>) and streams every incoming
 <code class="docutils literal notranslate"><span class="pre">NDArray</span></code> frame into it.</p>
-<figure class="align-center" id="id7">
-<img alt="Capture started" src="screenshots/07_capture_started.png" />
+<figure class="align-center" id="id6">
+<img alt="Capture enabled" src="_images/06_capture_on.png" />
 <figcaption>
-<p><span class="caption-text"><code class="docutils literal notranslate"><span class="pre">caput</span> <span class="pre">GERM:HDF1:Capture</span> <span class="pre">1</span></code> — HDF5 file open, capture active.</span><a class="headerlink" href="#id7" title="Link to this image">#</a></p>
-</figcaption>
-</figure>
-<figure class="align-center" id="id8">
-<img alt="Phoebus HDF5 plugin screen" class="with-shadow" src="screenshots/07b_phoebus_hdf5_plugin.png" />
-<figcaption>
-<p><span class="caption-text">Phoebus <code class="docutils literal notranslate"><span class="pre">NDFileHDF5.bob</span></code> screen showing the file path, write mode, and
-capture status.</span><a class="headerlink" href="#id8" title="Link to this image">#</a></p>
+<p><span class="caption-text"><code class="docutils literal notranslate"><span class="pre">caput</span> <span class="pre">GERM:HDF1:Capture</span> <span class="pre">1</span></code> — HDF5 file open, capture active.</span><a class="headerlink" href="#id6" title="Link to this image">#</a></p>
 </figcaption>
 </figure>
 </section>
@@ -506,17 +493,17 @@ capture status.</span><a class="headerlink" href="#id8" title="Link to this imag
 <p>A second acquisition (<code class="docutils literal notranslate"><span class="pre">NumImages=100</span></code>, <code class="docutils literal notranslate"><span class="pre">ImageMode=Multiple</span></code>) streams
 frames directly into the open HDF5 file.  The <em>Num Captured</em> counter
 increments with every frame written.</p>
-<figure class="align-center" id="id9">
-<img alt="Acquiring to HDF5" src="screenshots/08_acquiring_to_hdf5.png" />
+<figure class="align-center" id="id7">
+<img alt="Acquiring to HDF5" src="_images/07_capture_acquire.png" />
 <figcaption>
 <p><span class="caption-text">Data streaming into <code class="docutils literal notranslate"><span class="pre">/tmp/germ0001.h5</span></code> — <code class="docutils literal notranslate"><span class="pre">GERM:HDF1:NumCaptured_RBV</span></code>
-increments.</span><a class="headerlink" href="#id9" title="Link to this image">#</a></p>
+increments.</span><a class="headerlink" href="#id7" title="Link to this image">#</a></p>
 </figcaption>
 </figure>
-<figure class="align-center" id="id10">
-<img alt="File written" src="screenshots/09_file_written.png" />
+<figure class="align-center" id="id8">
+<img alt="Acquisition complete" src="_images/08_acquisition_complete.png" />
 <figcaption>
-<p><span class="caption-text">Capture stopped — HDF5 file closed and written to disk.</span><a class="headerlink" href="#id10" title="Link to this image">#</a></p>
+<p><span class="caption-text">Capture stopped — HDF5 file closed and written to disk.</span><a class="headerlink" href="#id8" title="Link to this image">#</a></p>
 </figcaption>
 </figure>
 </section>
@@ -530,10 +517,10 @@ increments.</span><a class="headerlink" href="#id9" title="Link to this image">#
 <li><p>Reads the filename from <code class="docutils literal notranslate"><span class="pre">GERM:HDF1:FullFileName_RBV</span></code>.</p></li>
 <li><p>Launches <code class="docutils literal notranslate"><span class="pre">pixi</span> <span class="pre">run</span> <span class="pre">nexpy</span> <span class="pre">&lt;filename&gt;</span></code>.</p></li>
 </ol>
-<figure class="align-center" id="id11">
-<img alt="NeXpy opened" src="screenshots/10_nexpy_opened.png" />
+<figure class="align-center" id="id9">
+<img alt="NeXpy opened" src="_images/09_nexpy_opened.png" />
 <figcaption>
-<p><span class="caption-text">NeXpy file browser opened with <code class="docutils literal notranslate"><span class="pre">/tmp/germ0001.h5</span></code> loaded.</span><a class="headerlink" href="#id11" title="Link to this image">#</a></p>
+<p><span class="caption-text">NeXpy file browser opened with <code class="docutils literal notranslate"><span class="pre">/tmp/germ0001.h5</span></code> loaded.</span><a class="headerlink" href="#id9" title="Link to this image">#</a></p>
 </figcaption>
 </figure>
 </section>
@@ -543,10 +530,10 @@ increments.</span><a class="headerlink" href="#id9" title="Link to this image">#
 <p>The left panel shows the NeXpy file tree.  The screenshot below is
 generated by <code class="docutils literal notranslate"><span class="pre">scripts/nexpy_capture.py</span></code> and mirrors the dark-themed
 tree view, with the <code class="docutils literal notranslate"><span class="pre">entry/data/data</span></code> dataset highlighted (selected).</p>
-<figure class="align-center" id="id12">
+<figure class="align-center" id="id10">
 <img alt="NeXpy tree view" src="_images/10_nexpy_tree.png" />
 <figcaption>
-<p><span class="caption-text">HDF5 file tree — <code class="docutils literal notranslate"><span class="pre">entry/data/data</span> <span class="pre">[uint32</span>&#160; <span class="pre">[10,</span> <span class="pre">384,</span> <span class="pre">4096]]</span></code> selected.</span><a class="headerlink" href="#id12" title="Link to this image">#</a></p>
+<p><span class="caption-text">HDF5 file tree — <code class="docutils literal notranslate"><span class="pre">entry/data/data</span> <span class="pre">[uint32</span>&#160; <span class="pre">[10,</span> <span class="pre">384,</span> <span class="pre">4096]]</span></code> selected.</span><a class="headerlink" href="#id10" title="Link to this image">#</a></p>
 </figcaption>
 </figure>
 <p>The file structure produced by <code class="docutils literal notranslate"><span class="pre">NDFileHDF5</span></code> in Stream mode:</p>
@@ -561,12 +548,6 @@ tree view, with the <code class="docutils literal notranslate"><span class="pre"
     /detector/
 </pre></div>
 </div>
-<figure class="align-center" id="id13">
-<img alt="NeXpy tree expanded" class="with-shadow" src="screenshots/11_nexpy_tree_expanded.png" />
-<figcaption>
-<p><span class="caption-text">NeXpy tree expanded and <code class="docutils literal notranslate"><span class="pre">data</span></code> dataset selected — ready to plot.</span><a class="headerlink" href="#id13" title="Link to this image">#</a></p>
-</figcaption>
-</figure>
 </section>
 <hr class="docutils" />
 <section id="viewing-and-plotting-data">
@@ -574,18 +555,12 @@ tree view, with the <code class="docutils literal notranslate"><span class="pre"
 <p>Double-clicking a dataset (or pressing <strong>Enter</strong>) in NeXpy renders the
 detector image.  The screenshot below shows <code class="docutils literal notranslate"><span class="pre">entry/data/data[0]</span></code> — one
 frame from the acquisition — as rendered by NeXpy’s built-in plot panel.</p>
-<figure class="align-center" id="id14">
+<figure class="align-center" id="id11">
 <img alt="Single-frame detector image" src="_images/11_nexpy_data_view.png" />
 <figcaption>
 <p><span class="caption-text"><code class="docutils literal notranslate"><span class="pre">entry/data/data</span></code> frame 0 — shape <code class="docutils literal notranslate"><span class="pre">(384,</span> <span class="pre">4096)</span></code>.
 X-axis: time bin (0–4 095).  Y-axis: pixel (chip × 32 + channel).
-Chip boundaries are shown as faint white lines.</span><a class="headerlink" href="#id14" title="Link to this image">#</a></p>
-</figcaption>
-</figure>
-<figure class="align-center" id="id15">
-<img alt="NeXpy plot view" class="with-shadow" src="screenshots/12_nexpy_plot_view.png" />
-<figcaption>
-<p><span class="caption-text">NeXpy plot panel with the data array plotted interactively.</span><a class="headerlink" href="#id15" title="Link to this image">#</a></p>
+Chip boundaries are shown as faint white lines.</span><a class="headerlink" href="#id11" title="Link to this image">#</a></p>
 </figcaption>
 </figure>
 </section>
@@ -594,11 +569,11 @@ Chip boundaries are shown as faint white lines.</span><a class="headerlink" href
 <h2>11 · Hit map (all frames summed)<a class="headerlink" href="#hit-map-all-frames-summed" title="Link to this heading">#</a></h2>
 <p>Summing over all 10 frames gives the integrated hit map.  The right
 panel shows the 1-D projection (hits per pixel across all time bins).</p>
-<figure class="align-center" id="id16">
+<figure class="align-center" id="id12">
 <img alt="Summed hit map" src="_images/12_nexpy_hitmap.png" />
 <figcaption>
 <p><span class="caption-text">Integrated hit map — 10 frames, 1 200 total hits.
-Chip boundaries marked in white.</span><a class="headerlink" href="#id16" title="Link to this image">#</a></p>
+Chip boundaries marked in white.</span><a class="headerlink" href="#id12" title="Link to this image">#</a></p>
 </figcaption>
 </figure>
 </section>
@@ -613,10 +588,10 @@ Chip boundaries marked in white.</span><a class="headerlink" href="#id16" title=
 <li><p><strong>Hits per chip</strong> — uniformly distributed across all 12 chips.</p></li>
 <li><p><strong>Lost events</strong> — should be zero for the simulator.</p></li>
 </ul>
-<figure class="align-center" id="id17">
+<figure class="align-center" id="id13">
 <img alt="Acquisition statistics" src="_images/13_nexpy_statistics.png" />
 <figcaption>
-<p><span class="caption-text">Acquisition statistics: 10 frames, 120 events/frame, 0 lost events.</span><a class="headerlink" href="#id17" title="Link to this image">#</a></p>
+<p><span class="caption-text">Acquisition statistics: 10 frames, 120 events/frame, 0 lost events.</span><a class="headerlink" href="#id13" title="Link to this image">#</a></p>
 </figcaption>
 </figure>
 </section>
