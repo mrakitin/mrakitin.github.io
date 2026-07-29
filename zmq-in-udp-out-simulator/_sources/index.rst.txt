@@ -5,7 +5,7 @@ ZMQ-in / UDP-out Simulator
    :target: https://github.com/mrakitin/zmq-in-udp-out-simulator/actions/workflows/screenshots.yml
    :alt: Screenshots & Docs
 
-A Python simulator for the `GeRM (Germanium Matrix) detector
+A Python simulator for the `GeRM (Germanium Readout Module) detector
 <https://github.com/NSLS2/Mars_DDM>`_ developed at `NSLS-II
 <https://www.bnl.gov/nsls2/>`_.
 
