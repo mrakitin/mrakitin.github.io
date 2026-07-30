@@ -380,9 +380,10 @@ tr:last-child td { border-bottom: none; }
 
 /* ── Periodic table image ─────────────────────────────── */
 .pt-image-wrap {
-  margin: 12px 0; border-radius: var(--radius);
-  overflow: hidden; border: 1px solid var(--border);
+  /* Break out of card padding (32px) + main-content padding (40px) on each side */
+  margin: 12px -32px 0;
   line-height: 0;
+  overflow: hidden;
 }
 .pt-image {
   width: 100%; height: auto; display: block;
