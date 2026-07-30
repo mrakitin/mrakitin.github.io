@@ -94,6 +94,10 @@ function buildViewer(card) {
   const viewerEl = card.querySelector('.mol-canvas');
   if (!viewerEl) return;
 
+  // Ensure explicit pixel dimensions so WebGL canvas sizes correctly
+  viewerEl.style.width = (viewerEl.offsetWidth > 0 ? viewerEl.offsetWidth : 240) + 'px';
+  viewerEl.style.height = '200px';
+
   let styleIdx = 0;
   const viewer = $3Dmol.createViewer(viewerEl, { backgroundColor: '#f8fafc', antialias: true });
   viewer.addModel(mol.xyz, 'xyz');
@@ -122,15 +126,13 @@ function buildViewer(card) {
 
 // ── Initialize all mol-cards on this page ─────────────
 function initMolViewers() {
-  if (typeof $3Dmol === 'undefined') return;
+  if (typeof $3Dmol === 'undefined') {
+    // 3Dmol not yet available — retry once after a short delay
+    setTimeout(initMolViewers, 300);
+    return;
+  }
   document.querySelectorAll('.mol-card').forEach(buildViewer);
 }
 
-// Load 3Dmol.js on demand then init
-(function () {
-  if (!document.querySelector('.mol-card')) return;
-  const s = document.createElement('script');
-  s.src = 'https://3dmol.csb.pitt.edu/build/3Dmol-min.js';
-  s.onload = initMolViewers;
-  document.head.appendChild(s);
-})();
+// Wait for full page load (layout computed) then init
+window.addEventListener('load', initMolViewers);
