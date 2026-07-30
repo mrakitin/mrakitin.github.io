@@ -20,6 +20,15 @@
     <a href="reference.html">Reference Tables</a>
     <a href="mock-exam.html">Mock Exam</a>
   </div>
+  <div class="search-wrap">
+    <button class="search-btn" id="search-btn" aria-label="Search">
+      <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.2" viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+    </button>
+    <div class="search-popup" id="search-popup" hidden>
+      <input type="search" id="search-input" placeholder="Search topics, formulas, units&#8230;" autocomplete="off" spellcheck="false">
+      <div id="search-results" class="search-results"></div>
+    </div>
+  </div>
 </nav>
 <div class="layout">
   
@@ -87,16 +96,16 @@
 <div class="card">
   <h2>Curriculum Units</h2>
   <div class="units-grid">
-    <a href="units/01.html" class="unit-card"><div class="unit-num">Unit 01</div><h3>Matter &amp; Energy</h3><p>Classification of matter, phase changes, heating curves, and heat calculations (q = mcΔT).</p></a>
-    <a href="units/02.html" class="unit-card"><div class="unit-num">Unit 02</div><h3>Atomic Structure</h3><p>Subatomic particles, electron configuration, isotopes, atomic spectra, and the Bohr model.</p></a>
-    <a href="units/03.html" class="unit-card"><div class="unit-num">Unit 03</div><h3>Periodic Table</h3><p>Periodic trends (electronegativity, ionization energy, atomic radius), families, and element properties.</p></a>
-    <a href="units/04.html" class="unit-card"><div class="unit-num">Unit 04</div><h3>Chemical Bonding</h3><p>Lewis structures, ionic and covalent bonds, VSEPR geometry, molecular polarity, and intermolecular forces.</p></a>
-    <a href="units/05.html" class="unit-card"><div class="unit-num">Unit 05</div><h3>Physical Behavior of Matter</h3><p>States of matter, gas laws, solutions, molarity, colligative properties, and intermolecular forces.</p></a>
-    <a href="units/06.html" class="unit-card"><div class="unit-num">Unit 06</div><h3>Kinetics &amp; Equilibrium</h3><p>Reaction rates, activation energy, potential energy diagrams, and Le Chatelier's Principle.</p></a>
-    <a href="units/07.html" class="unit-card"><div class="unit-num">Unit 07</div><h3>Organic Chemistry</h3><p>Alkanes, alkenes, alkynes, functional groups, naming, organic reactions, and polymers.</p></a>
-    <a href="units/08.html" class="unit-card"><div class="unit-num">Unit 08</div><h3>Oxidation-Reduction</h3><p>Oxidation numbers, half-reactions, balancing redox equations, and electrochemical cells.</p></a>
-    <a href="units/09.html" class="unit-card"><div class="unit-num">Unit 09</div><h3>Acids, Bases &amp; Salts</h3><p>Arrhenius and Brønsted-Lowry theories, pH scale, neutralization reactions, and titration.</p></a>
-    <a href="units/10.html" class="unit-card"><div class="unit-num">Unit 10</div><h3>Nuclear Chemistry</h3><p>Types of radioactive decay, nuclear equations, half-life calculations, and fission vs. fusion.</p></a>
+    <a href="units/01.html" class="unit-card"><div class="unit-num">Unit 01</div><h3>Matter &amp; Energy</h3><p>Classification of matter, phase changes, heating curves, and heat calculations (q = mcΔT).</p><div class="unit-card-meta"><span class="stars">★☆☆</span><span class="tag">⏱ 45–60 min</span></div></a>
+    <a href="units/02.html" class="unit-card"><div class="unit-num">Unit 02</div><h3>Atomic Structure</h3><p>Subatomic particles, electron configuration, isotopes, atomic spectra, and the Bohr model.</p><div class="unit-card-meta"><span class="stars">★★☆</span><span class="tag">⏱ 50–65 min</span></div></a>
+    <a href="units/03.html" class="unit-card"><div class="unit-num">Unit 03</div><h3>Periodic Table</h3><p>Periodic trends (electronegativity, ionization energy, atomic radius), families, and element properties.</p><div class="unit-card-meta"><span class="stars">★☆☆</span><span class="tag">⏱ 30–45 min</span></div></a>
+    <a href="units/04.html" class="unit-card"><div class="unit-num">Unit 04</div><h3>Chemical Bonding</h3><p>Lewis structures, ionic and covalent bonds, VSEPR geometry, molecular polarity, and intermolecular forces.</p><div class="unit-card-meta"><span class="stars">★★★</span><span class="tag">⏱ 60–75 min</span></div></a>
+    <a href="units/05.html" class="unit-card"><div class="unit-num">Unit 05</div><h3>Physical Behavior of Matter</h3><p>States of matter, gas laws, solutions, molarity, colligative properties, and intermolecular forces.</p><div class="unit-card-meta"><span class="stars">★★★</span><span class="tag">⏱ 60–75 min</span></div></a>
+    <a href="units/06.html" class="unit-card"><div class="unit-num">Unit 06</div><h3>Kinetics &amp; Equilibrium</h3><p>Reaction rates, activation energy, potential energy diagrams, and Le Chatelier's Principle.</p><div class="unit-card-meta"><span class="stars">★★☆</span><span class="tag">⏱ 45–60 min</span></div></a>
+    <a href="units/07.html" class="unit-card"><div class="unit-num">Unit 07</div><h3>Organic Chemistry</h3><p>Alkanes, alkenes, alkynes, functional groups, naming, organic reactions, and polymers.</p><div class="unit-card-meta"><span class="stars">★★☆</span><span class="tag">⏱ 45–60 min</span></div></a>
+    <a href="units/08.html" class="unit-card"><div class="unit-num">Unit 08</div><h3>Oxidation-Reduction</h3><p>Oxidation numbers, half-reactions, balancing redox equations, and electrochemical cells.</p><div class="unit-card-meta"><span class="stars">★★★</span><span class="tag">⏱ 50–65 min</span></div></a>
+    <a href="units/09.html" class="unit-card"><div class="unit-num">Unit 09</div><h3>Acids, Bases &amp; Salts</h3><p>Arrhenius and Brønsted-Lowry theories, pH scale, neutralization reactions, and titration.</p><div class="unit-card-meta"><span class="stars">★★☆</span><span class="tag">⏱ 45–60 min</span></div></a>
+    <a href="units/10.html" class="unit-card"><div class="unit-num">Unit 10</div><h3>Nuclear Chemistry</h3><p>Types of radioactive decay, nuclear equations, half-life calculations, and fission vs. fusion.</p><div class="unit-card-meta"><span class="stars">★☆☆</span><span class="tag">⏱ 30–45 min</span></div></a>
   </div>
 </div>
 
@@ -126,5 +135,7 @@
   </main>
 </div>
 <script src="js/quiz.js"></script>
+<script src="js/search-index.js"></script>
+<script src="js/search.js"></script>
 </body>
 </html>

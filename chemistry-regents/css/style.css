@@ -264,3 +264,67 @@ tr:last-child td { border-bottom: none; }
   font-weight: 700; color: var(--primary); font-size: 0.82rem;
 }
 .schedule li:last-child { border-bottom: none; }
+
+/* ── Search ──────────────────────────────────────────── */
+.search-wrap { position: relative; margin-left: 4px; }
+.search-btn {
+  background: none; border: none; cursor: pointer;
+  color: rgba(255,255,255,0.88); padding: 6px 8px; border-radius: 4px;
+  display: flex; align-items: center; transition: background 0.15s;
+}
+.search-btn:hover { background: rgba(255,255,255,0.18); color: #fff; }
+.search-popup {
+  position: absolute; right: 0; top: calc(100% + 8px);
+  width: 360px; background: #fff;
+  border: 1px solid var(--border); border-radius: var(--radius);
+  box-shadow: var(--shadow-lg); z-index: 200; overflow: hidden;
+}
+#search-input {
+  width: 100%; padding: 12px 14px;
+  border: none; border-bottom: 1px solid var(--border);
+  font-size: 0.95rem; outline: none; box-sizing: border-box;
+  font-family: inherit;
+}
+.search-results { max-height: 380px; overflow-y: auto; }
+.search-result-item {
+  padding: 10px 14px; cursor: pointer;
+  border-bottom: 1px solid #f0f0f0;
+  text-decoration: none; display: block; color: var(--text);
+  transition: background 0.12s;
+}
+.search-result-item:last-child { border-bottom: none; }
+.search-result-item:hover, .search-result-item:focus { background: var(--primary-light); outline: none; }
+.search-result-title { font-weight: 600; font-size: 0.9rem; color: var(--primary); }
+.search-result-snippet { font-size: 0.82rem; color: var(--text-muted); margin-top: 2px; line-height: 1.4; }
+.search-no-results { padding: 12px 14px; color: var(--text-muted); font-size: 0.88rem; }
+
+/* ── Unit metadata bar ───────────────────────────────── */
+.unit-meta {
+  display: flex; flex-wrap: wrap; gap: 10px;
+  margin: 4px 0 20px; align-items: center;
+}
+.unit-meta-tag {
+  display: inline-flex; align-items: center; gap: 5px;
+  background: var(--bg); border: 1px solid var(--border);
+  border-radius: 20px; padding: 4px 12px;
+  font-size: 0.82rem; color: var(--text-muted); font-weight: 500;
+}
+.unit-meta-tag .icon { font-size: 0.9rem; }
+.unit-stars { color: #f59e0b; letter-spacing: 1px; }
+.unit-stars .empty { color: #d0d0d0; }
+.prereq-link {
+  color: var(--primary); text-decoration: none; font-weight: 600;
+}
+.prereq-link:hover { text-decoration: underline; }
+
+/* ── Unit card metadata ──────────────────────────────── */
+.unit-card-meta {
+  display: flex; gap: 8px; flex-wrap: wrap;
+  margin-top: 8px;
+}
+.unit-card-meta .tag {
+  font-size: 0.75rem; color: var(--text-muted);
+  background: var(--bg); border-radius: 12px;
+  padding: 2px 8px; border: 1px solid var(--border);
+}
+.unit-card-meta .stars { color: #f59e0b; font-size: 0.75rem; }
