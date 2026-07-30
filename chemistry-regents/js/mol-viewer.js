@@ -96,13 +96,14 @@ function buildViewer(card) {
 
   // Ensure explicit pixel dimensions so WebGL canvas sizes correctly
   viewerEl.style.width = (viewerEl.offsetWidth > 0 ? viewerEl.offsetWidth : 240) + 'px';
-  viewerEl.style.height = '200px';
+  viewerEl.style.height = '260px';
 
   let styleIdx = 0;
   const viewer = $3Dmol.createViewer(viewerEl, { backgroundColor: '#f8fafc', antialias: true });
   viewer.addModel(mol.xyz, 'xyz');
   viewer.setStyle({}, { stick: STYLES[0].stick, sphere: STYLES[0].sphere });
   viewer.zoomTo();
+  viewer.zoom(1.4);
   viewer.render();
 
   // Style toggle button
@@ -120,7 +121,7 @@ function buildViewer(card) {
   // Reset view button
   const resetBtn = card.querySelector('.mol-reset-btn');
   if (resetBtn) {
-    resetBtn.addEventListener('click', () => { viewer.zoomTo(); viewer.render(); });
+    resetBtn.addEventListener('click', () => { viewer.zoomTo(); viewer.zoom(1.4); viewer.render(); });
   }
 }
 
