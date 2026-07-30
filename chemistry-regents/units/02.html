@@ -4,6 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Unit 02: Atomic Structure — NYS Chemistry Regents Prep</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
 <link rel="stylesheet" href="../css/style.css">
 
 </head>
@@ -72,13 +73,13 @@
     <tr><td>Neutron (n⁰)</td><td>0</td><td>≈1</td><td>Nucleus</td></tr>
     <tr><td>Electron (e⁻)</td><td>−1</td><td>≈0 (1/1836)</td><td>Electron cloud</td></tr>
   </table></div>
-  <div class="formula">Mass number = Protons + Neutrons &nbsp;|&nbsp; Atomic number = Protons</div>
-  <div class="formula">Neutrons = Mass number − Atomic number</div>
+  <div class="formula">$$\text{Mass number} = p^+ + n^0 \qquad \text{Atomic number} = p^+$$</div>
+  <div class="formula">$$n^0 = \text{Mass number} - \text{Atomic number}$$</div>
 </div>
 <div class="card card-sm">
   <h3>Isotopes &amp; Atomic Mass</h3>
   <p><strong>Isotopes</strong>: same element (same protons), different neutrons → different mass numbers.</p>
-  <div class="formula">Atomic mass = Σ (fractional abundance × isotope mass)</div>
+  <div class="formula">$$\text{Atomic mass} = \textstyle\sum (\text{fractional abundance} \times \text{isotope mass})$$</div>
   <div class="tip"><strong>Neutral atom:</strong> protons = electrons. <strong>Cation:</strong> lost e⁻ (fewer e⁻ than p⁺). <strong>Anion:</strong> gained e⁻ (more e⁻ than p⁺).</div>
 </div>
 <div class="card card-sm">
@@ -221,5 +222,21 @@
 <script src="../js/quiz.js"></script>
 <script src="../js/search-index.js"></script>
 <script src="../js/search.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/mhchem.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js"></script>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  document.querySelectorAll(".formula").forEach(function(el) {
+    renderMathInElement(el, {
+      delimiters: [
+        {left: "$$", right: "$$", display: true},
+        {left: "$", right: "$", display: false}
+      ],
+      throwOnError: false
+    });
+  });
+});
+</script>
 </body>
 </html>

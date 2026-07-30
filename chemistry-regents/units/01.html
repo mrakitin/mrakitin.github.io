@@ -4,6 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Unit 01: Matter &amp; Energy — NYS Chemistry Regents Prep</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
 <link rel="stylesheet" href="../css/style.css">
 
 </head>
@@ -98,10 +99,10 @@
 </div>
 <div class="card card-sm">
   <h3>Key Formulas (Table T)</h3>
-  <div class="formula">q = mc&Delta;T &nbsp;&nbsp; (heating/cooling a phase)</div>
-  <div class="formula">q = mH<sub>f</sub> &nbsp;&nbsp; (melting or freezing)</div>
-  <div class="formula">q = mH<sub>v</sub> &nbsp;&nbsp; (vaporizing or condensing)</div>
-  <div class="formula">D = m/V &nbsp;&nbsp;&nbsp;&nbsp; % error = |measured &minus; accepted| / accepted &times; 100</div>
+  <div class="formula">$$q = mc\Delta T \quad \text{(heating/cooling a phase)}$$</div>
+  <div class="formula">$$q = mH_f \quad \text{(melting or freezing)}$$</div>
+  <div class="formula">$$q = mH_v \quad \text{(vaporizing or condensing)}$$</div>
+  <div class="formula">$$D = \dfrac{m}{V} \qquad \%\,\text{error} = \dfrac{|\text{measured} - \text{accepted}|}{\text{accepted}} \times 100$$</div>
   <div class="tip"><strong>Water constants:</strong> c = 4.18 J/g·°C &nbsp;|&nbsp; H<sub>f</sub> = 334 J/g &nbsp;|&nbsp; H<sub>v</sub> = 2259 J/g</div>
   <div class="warn"><strong>⚠️ Common traps:</strong> Temperature does NOT change during a phase change. Always check if the problem crosses a phase boundary before applying q = mcΔT.</div>
 </div>
@@ -230,5 +231,21 @@
 <script src="../js/quiz.js"></script>
 <script src="../js/search-index.js"></script>
 <script src="../js/search.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/mhchem.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js"></script>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  document.querySelectorAll(".formula").forEach(function(el) {
+    renderMathInElement(el, {
+      delimiters: [
+        {left: "$$", right: "$$", display: true},
+        {left: "$", right: "$", display: false}
+      ],
+      throwOnError: false
+    });
+  });
+});
+</script>
 </body>
 </html>

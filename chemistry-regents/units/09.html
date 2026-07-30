@@ -4,6 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Unit 09: Acids, Bases &amp; Salts — NYS Chemistry Regents Prep</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
 <link rel="stylesheet" href="../css/style.css">
 
 </head>
@@ -75,8 +76,8 @@
 </div>
 <div class="card card-sm">
   <h3>pH Scale &amp; Formulas (Table T)</h3>
-  <div class="formula">pH = −log[H⁺] &nbsp;&nbsp; pOH = −log[OH⁻] &nbsp;&nbsp; pH + pOH = 14</div>
-  <div class="formula">[H⁺][OH⁻] = Kw = 1.0 × 10⁻¹⁴</div>
+  <div class="formula">$$\text{pH} = -\log[\text{H}^+] \qquad \text{pOH} = -\log[\text{OH}^-] \qquad \text{pH} + \text{pOH} = 14$$</div>
+  <div class="formula">$$[\text{H}^+][\text{OH}^-] = K_w = 1.0 \times 10^{-14}$$</div>
   <div class="table-wrap"><table>
     <tr><th>pH</th><th>Type</th><th>[H⁺]</th></tr>
     <tr><td>&lt; 7</td><td>Acidic</td><td>&gt; 10⁻⁷ M</td></tr>
@@ -87,7 +88,7 @@
 <div class="card card-sm">
   <h3>Neutralization &amp; Titration</h3>
   <p><strong>Neutralization:</strong> Acid + Base → Salt + Water</p>
-  <div class="formula">Titration: MₐVₐ = MᵦVᵦ</div>
+  <div class="formula">$$M_aV_a = M_bV_b \quad \text{(titration)}$$</div>
   <p>The <strong>salt</strong> formed takes the cation from the base and anion from the acid.</p>
   <p><strong>Strong acids</strong> (fully ionize): HCl, HBr, HI, HNO₃, H₂SO₄, HClO₄<br>
   <strong>Weak acids</strong> (partially ionize): CH₃COOH, HF, H₂CO₃</p>
@@ -331,5 +332,21 @@ document.addEventListener("DOMContentLoaded", function() {
 <script src="../js/mol-viewer.js"></script>
 <script src="../js/search-index.js"></script>
 <script src="../js/search.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/mhchem.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js"></script>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  document.querySelectorAll(".formula").forEach(function(el) {
+    renderMathInElement(el, {
+      delimiters: [
+        {left: "$$", right: "$$", display: true},
+        {left: "$", right: "$", display: false}
+      ],
+      throwOnError: false
+    });
+  });
+});
+</script>
 </body>
 </html>

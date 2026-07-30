@@ -4,6 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Unit 10: Nuclear Chemistry — NYS Chemistry Regents Prep</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
 <link rel="stylesheet" href="../css/style.css">
 
 </head>
@@ -87,8 +88,8 @@
 </div>
 <div class="card card-sm">
   <h3>Half-Life (Table T &amp; N)</h3>
-  <div class="formula">Fraction remaining = (1/2)ⁿ &nbsp;&nbsp; where n = number of half-lives elapsed</div>
-  <div class="formula">Amount remaining = original × (1/2)ⁿ</div>
+  <div class="formula">$$\text{Fraction remaining} = \left(\tfrac{1}{2}\right)^n \quad (n = \text{number of half-lives})$$</div>
+  <div class="formula">$$\text{Amount remaining} = \text{original} \times \left(\tfrac{1}{2}\right)^n$$</div>
   <p>n = total time ÷ half-life</p>
   <div class="table-wrap"><table>
     <tr><th>Half-lives (n)</th><th>Fraction remaining</th><th>% remaining</th></tr>
@@ -224,5 +225,21 @@
 <script src="../js/quiz.js"></script>
 <script src="../js/search-index.js"></script>
 <script src="../js/search.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/mhchem.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js"></script>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  document.querySelectorAll(".formula").forEach(function(el) {
+    renderMathInElement(el, {
+      delimiters: [
+        {left: "$$", right: "$$", display: true},
+        {left: "$", right: "$", display: false}
+      ],
+      throwOnError: false
+    });
+  });
+});
+</script>
 </body>
 </html>

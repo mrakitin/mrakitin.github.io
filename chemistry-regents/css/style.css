@@ -146,8 +146,8 @@ tr:last-child td { border-bottom: none; }
 .formula {
   background: #f0f4ff; border: 1px solid #c5d3f0;
   border-radius: var(--radius); padding: 14px 20px;
-  font-family: 'Georgia', serif; font-size: 1.05rem;
   margin: 12px 0; text-align: center;
+  overflow-x: auto;
 }
 
 /* ── Quiz section ────────────────────────────────────── */
