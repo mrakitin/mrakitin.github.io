@@ -96,6 +96,117 @@
 
 </div>
 
+<div class="card mol-section">
+  <h2>🔬 Interactive 3D Molecules — Acids & Bases</h2>
+  <p class="mol-hint">Drag to rotate &nbsp;·&nbsp; Scroll to zoom &nbsp;·&nbsp; Use the style button to switch views</p>
+  <div class="mol-grid">
+    <div class="mol-card" data-mol="h2o">
+        <div class="mol-canvas"></div>
+        <div class="mol-info">
+          <div class="mol-formula" id="mol-formula-h2o"></div>
+          <div class="mol-name" id="mol-name-h2o"></div>
+          <div class="mol-shape" id="mol-shape-h2o"></div>
+          <div class="mol-note" id="mol-note-h2o"></div>
+          <div class="mol-btns">
+            <button class="mol-style-btn">Sticks only →</button>
+            <button class="mol-reset-btn">⟳ Reset view</button>
+          </div>
+        </div>
+      </div>
+      <div class="mol-card" data-mol="hcl">
+        <div class="mol-canvas"></div>
+        <div class="mol-info">
+          <div class="mol-formula" id="mol-formula-hcl"></div>
+          <div class="mol-name" id="mol-name-hcl"></div>
+          <div class="mol-shape" id="mol-shape-hcl"></div>
+          <div class="mol-note" id="mol-note-hcl"></div>
+          <div class="mol-btns">
+            <button class="mol-style-btn">Sticks only →</button>
+            <button class="mol-reset-btn">⟳ Reset view</button>
+          </div>
+        </div>
+      </div>
+      <div class="mol-card" data-mol="nh3">
+        <div class="mol-canvas"></div>
+        <div class="mol-info">
+          <div class="mol-formula" id="mol-formula-nh3"></div>
+          <div class="mol-name" id="mol-name-nh3"></div>
+          <div class="mol-shape" id="mol-shape-nh3"></div>
+          <div class="mol-note" id="mol-note-nh3"></div>
+          <div class="mol-btns">
+            <button class="mol-style-btn">Sticks only →</button>
+            <button class="mol-reset-btn">⟳ Reset view</button>
+          </div>
+        </div>
+      </div>
+      <div class="mol-card" data-mol="h3o">
+        <div class="mol-canvas"></div>
+        <div class="mol-info">
+          <div class="mol-formula" id="mol-formula-h3o"></div>
+          <div class="mol-name" id="mol-name-h3o"></div>
+          <div class="mol-shape" id="mol-shape-h3o"></div>
+          <div class="mol-note" id="mol-note-h3o"></div>
+          <div class="mol-btns">
+            <button class="mol-style-btn">Sticks only →</button>
+            <button class="mol-reset-btn">⟳ Reset view</button>
+          </div>
+        </div>
+      </div>
+  </div>
+</div>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  (function(){
+    var m = MOLECULES["h2o"];
+    if (!m) return;
+    var f=document.getElementById("mol-formula-h2o");
+    var n=document.getElementById("mol-name-h2o");
+    var s=document.getElementById("mol-shape-h2o");
+    var t=document.getElementById("mol-note-h2o");
+    if(f) f.textContent=m.formula;
+    if(n) n.textContent=m.name;
+    if(s) s.textContent=m.shape;
+    if(t) t.textContent=m.note;
+  })();
+  (function(){
+    var m = MOLECULES["hcl"];
+    if (!m) return;
+    var f=document.getElementById("mol-formula-hcl");
+    var n=document.getElementById("mol-name-hcl");
+    var s=document.getElementById("mol-shape-hcl");
+    var t=document.getElementById("mol-note-hcl");
+    if(f) f.textContent=m.formula;
+    if(n) n.textContent=m.name;
+    if(s) s.textContent=m.shape;
+    if(t) t.textContent=m.note;
+  })();
+  (function(){
+    var m = MOLECULES["nh3"];
+    if (!m) return;
+    var f=document.getElementById("mol-formula-nh3");
+    var n=document.getElementById("mol-name-nh3");
+    var s=document.getElementById("mol-shape-nh3");
+    var t=document.getElementById("mol-note-nh3");
+    if(f) f.textContent=m.formula;
+    if(n) n.textContent=m.name;
+    if(s) s.textContent=m.shape;
+    if(t) t.textContent=m.note;
+  })();
+  (function(){
+    var m = MOLECULES["h3o"];
+    if (!m) return;
+    var f=document.getElementById("mol-formula-h3o");
+    var n=document.getElementById("mol-name-h3o");
+    var s=document.getElementById("mol-shape-h3o");
+    var t=document.getElementById("mol-note-h3o");
+    if(f) f.textContent=m.formula;
+    if(n) n.textContent=m.name;
+    if(s) s.textContent=m.shape;
+    if(t) t.textContent=m.note;
+  })();
+});
+</script>
+
 <div class="quiz-header">
   <h2>Practice Quiz</h2>
   <span class="score-display" id="score-display">0 / 0</span>
@@ -216,6 +327,7 @@
   </main>
 </div>
 <script src="../js/quiz.js"></script>
+<script src="../js/mol-viewer.js"></script>
 <script src="../js/search-index.js"></script>
 <script src="../js/search.js"></script>
 </body>

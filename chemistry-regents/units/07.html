@@ -76,6 +76,192 @@
   </table></div>
   <p><strong>Prefixes:</strong> 1=meth- 2=eth- 3=prop- 4=but- 5=pent- 6=hex-</p>
 </div>
+<div class="card mol-section">
+  <h2>🔬 Interactive 3D Molecules — Organic Chemistry</h2>
+  <p class="mol-hint">Drag to rotate &nbsp;·&nbsp; Scroll to zoom &nbsp;·&nbsp; Use the style button to switch views</p>
+  <div class="mol-grid">
+    <div class="mol-card" data-mol="ch4">
+        <div class="mol-canvas"></div>
+        <div class="mol-info">
+          <div class="mol-formula" id="mol-formula-ch4"></div>
+          <div class="mol-name" id="mol-name-ch4"></div>
+          <div class="mol-shape" id="mol-shape-ch4"></div>
+          <div class="mol-note" id="mol-note-ch4"></div>
+          <div class="mol-btns">
+            <button class="mol-style-btn">Sticks only →</button>
+            <button class="mol-reset-btn">⟳ Reset view</button>
+          </div>
+        </div>
+      </div>
+      <div class="mol-card" data-mol="ethane">
+        <div class="mol-canvas"></div>
+        <div class="mol-info">
+          <div class="mol-formula" id="mol-formula-ethane"></div>
+          <div class="mol-name" id="mol-name-ethane"></div>
+          <div class="mol-shape" id="mol-shape-ethane"></div>
+          <div class="mol-note" id="mol-note-ethane"></div>
+          <div class="mol-btns">
+            <button class="mol-style-btn">Sticks only →</button>
+            <button class="mol-reset-btn">⟳ Reset view</button>
+          </div>
+        </div>
+      </div>
+      <div class="mol-card" data-mol="ethene">
+        <div class="mol-canvas"></div>
+        <div class="mol-info">
+          <div class="mol-formula" id="mol-formula-ethene"></div>
+          <div class="mol-name" id="mol-name-ethene"></div>
+          <div class="mol-shape" id="mol-shape-ethene"></div>
+          <div class="mol-note" id="mol-note-ethene"></div>
+          <div class="mol-btns">
+            <button class="mol-style-btn">Sticks only →</button>
+            <button class="mol-reset-btn">⟳ Reset view</button>
+          </div>
+        </div>
+      </div>
+      <div class="mol-card" data-mol="ethyne">
+        <div class="mol-canvas"></div>
+        <div class="mol-info">
+          <div class="mol-formula" id="mol-formula-ethyne"></div>
+          <div class="mol-name" id="mol-name-ethyne"></div>
+          <div class="mol-shape" id="mol-shape-ethyne"></div>
+          <div class="mol-note" id="mol-note-ethyne"></div>
+          <div class="mol-btns">
+            <button class="mol-style-btn">Sticks only →</button>
+            <button class="mol-reset-btn">⟳ Reset view</button>
+          </div>
+        </div>
+      </div>
+      <div class="mol-card" data-mol="ethanol">
+        <div class="mol-canvas"></div>
+        <div class="mol-info">
+          <div class="mol-formula" id="mol-formula-ethanol"></div>
+          <div class="mol-name" id="mol-name-ethanol"></div>
+          <div class="mol-shape" id="mol-shape-ethanol"></div>
+          <div class="mol-note" id="mol-note-ethanol"></div>
+          <div class="mol-btns">
+            <button class="mol-style-btn">Sticks only →</button>
+            <button class="mol-reset-btn">⟳ Reset view</button>
+          </div>
+        </div>
+      </div>
+      <div class="mol-card" data-mol="benzene">
+        <div class="mol-canvas"></div>
+        <div class="mol-info">
+          <div class="mol-formula" id="mol-formula-benzene"></div>
+          <div class="mol-name" id="mol-name-benzene"></div>
+          <div class="mol-shape" id="mol-shape-benzene"></div>
+          <div class="mol-note" id="mol-note-benzene"></div>
+          <div class="mol-btns">
+            <button class="mol-style-btn">Sticks only →</button>
+            <button class="mol-reset-btn">⟳ Reset view</button>
+          </div>
+        </div>
+      </div>
+      <div class="mol-card" data-mol="acetic_acid">
+        <div class="mol-canvas"></div>
+        <div class="mol-info">
+          <div class="mol-formula" id="mol-formula-acetic_acid"></div>
+          <div class="mol-name" id="mol-name-acetic_acid"></div>
+          <div class="mol-shape" id="mol-shape-acetic_acid"></div>
+          <div class="mol-note" id="mol-note-acetic_acid"></div>
+          <div class="mol-btns">
+            <button class="mol-style-btn">Sticks only →</button>
+            <button class="mol-reset-btn">⟳ Reset view</button>
+          </div>
+        </div>
+      </div>
+  </div>
+</div>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  (function(){
+    var m = MOLECULES["ch4"];
+    if (!m) return;
+    var f=document.getElementById("mol-formula-ch4");
+    var n=document.getElementById("mol-name-ch4");
+    var s=document.getElementById("mol-shape-ch4");
+    var t=document.getElementById("mol-note-ch4");
+    if(f) f.textContent=m.formula;
+    if(n) n.textContent=m.name;
+    if(s) s.textContent=m.shape;
+    if(t) t.textContent=m.note;
+  })();
+  (function(){
+    var m = MOLECULES["ethane"];
+    if (!m) return;
+    var f=document.getElementById("mol-formula-ethane");
+    var n=document.getElementById("mol-name-ethane");
+    var s=document.getElementById("mol-shape-ethane");
+    var t=document.getElementById("mol-note-ethane");
+    if(f) f.textContent=m.formula;
+    if(n) n.textContent=m.name;
+    if(s) s.textContent=m.shape;
+    if(t) t.textContent=m.note;
+  })();
+  (function(){
+    var m = MOLECULES["ethene"];
+    if (!m) return;
+    var f=document.getElementById("mol-formula-ethene");
+    var n=document.getElementById("mol-name-ethene");
+    var s=document.getElementById("mol-shape-ethene");
+    var t=document.getElementById("mol-note-ethene");
+    if(f) f.textContent=m.formula;
+    if(n) n.textContent=m.name;
+    if(s) s.textContent=m.shape;
+    if(t) t.textContent=m.note;
+  })();
+  (function(){
+    var m = MOLECULES["ethyne"];
+    if (!m) return;
+    var f=document.getElementById("mol-formula-ethyne");
+    var n=document.getElementById("mol-name-ethyne");
+    var s=document.getElementById("mol-shape-ethyne");
+    var t=document.getElementById("mol-note-ethyne");
+    if(f) f.textContent=m.formula;
+    if(n) n.textContent=m.name;
+    if(s) s.textContent=m.shape;
+    if(t) t.textContent=m.note;
+  })();
+  (function(){
+    var m = MOLECULES["ethanol"];
+    if (!m) return;
+    var f=document.getElementById("mol-formula-ethanol");
+    var n=document.getElementById("mol-name-ethanol");
+    var s=document.getElementById("mol-shape-ethanol");
+    var t=document.getElementById("mol-note-ethanol");
+    if(f) f.textContent=m.formula;
+    if(n) n.textContent=m.name;
+    if(s) s.textContent=m.shape;
+    if(t) t.textContent=m.note;
+  })();
+  (function(){
+    var m = MOLECULES["benzene"];
+    if (!m) return;
+    var f=document.getElementById("mol-formula-benzene");
+    var n=document.getElementById("mol-name-benzene");
+    var s=document.getElementById("mol-shape-benzene");
+    var t=document.getElementById("mol-note-benzene");
+    if(f) f.textContent=m.formula;
+    if(n) n.textContent=m.name;
+    if(s) s.textContent=m.shape;
+    if(t) t.textContent=m.note;
+  })();
+  (function(){
+    var m = MOLECULES["acetic_acid"];
+    if (!m) return;
+    var f=document.getElementById("mol-formula-acetic_acid");
+    var n=document.getElementById("mol-name-acetic_acid");
+    var s=document.getElementById("mol-shape-acetic_acid");
+    var t=document.getElementById("mol-note-acetic_acid");
+    if(f) f.textContent=m.formula;
+    if(n) n.textContent=m.name;
+    if(s) s.textContent=m.shape;
+    if(t) t.textContent=m.note;
+  })();
+});
+</script>
+
 <div class="card card-sm">
   <h3>Organic Reactions</h3>
   <div class="table-wrap"><table>
@@ -213,6 +399,7 @@
   </main>
 </div>
 <script src="../js/quiz.js"></script>
+<script src="../js/mol-viewer.js"></script>
 <script src="../js/search-index.js"></script>
 <script src="../js/search.js"></script>
 </body>
