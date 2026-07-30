@@ -20,7 +20,7 @@ files readable by `NeXpy <https://nexpy.github.io/nexpy/>`_.
    :maxdepth: 2
    :caption: Contents
 
-   ../notebooks/germ_acquisition
+   notebooks/germ_acquisition
    screenshots
 
 ----
