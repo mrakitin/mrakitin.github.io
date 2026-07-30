@@ -20,6 +20,7 @@ files readable by `NeXpy <https://nexpy.github.io/nexpy/>`_.
    :maxdepth: 2
    :caption: Contents
 
+   ../notebooks/germ_acquisition
    screenshots
 
 ----
@@ -66,6 +67,8 @@ Available ``pixi`` tasks
      - Open an HDF5 file in the NeXpy browser
    * - ``pixi run screenshots``
      - Run the full automation workflow and capture screenshots
+   * - ``pixi run notebook``
+     - Execute the acquisition notebook in-place (requires running IOC)
    * - ``pixi run docs``
      - Build this Sphinx documentation
    * - ``pixi run test``
