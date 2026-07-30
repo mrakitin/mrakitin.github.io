@@ -21,7 +21,6 @@ files readable by `NeXpy <https://nexpy.github.io/nexpy/>`_.
    :caption: Contents
 
    notebooks/germ_acquisition
-   screenshots
 
 ----
 

@@ -49,7 +49,6 @@
     <script>DOCUMENTATION_OPTIONS.search_as_you_type = false;</script>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
-    <link rel="next" title="Acquisition Workflow Screenshots" href="../screenshots.html" />
     <link rel="prev" title="ZMQ-in / UDP-out Simulator" href="../index.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
@@ -138,13 +137,6 @@
 <li class="nav-item current active">
   <a class="nav-link nav-internal" href="#">
     GeRM Detector Acquisition Workflow
-  </a>
-</li>
-
-
-<li class="nav-item ">
-  <a class="nav-link nav-internal" href="../screenshots.html">
-    Acquisition Workflow Screenshots
   </a>
 </li>
 
@@ -268,13 +260,6 @@
 <li class="nav-item current active">
   <a class="nav-link nav-internal" href="#">
     GeRM Detector Acquisition Workflow
-  </a>
-</li>
-
-
-<li class="nav-item ">
-  <a class="nav-link nav-internal" href="../screenshots.html">
-    Acquisition Workflow Screenshots
   </a>
 </li>
 
@@ -435,7 +420,8 @@
 <div class="prompt highlight-none notranslate"><div class="highlight"><pre><span></span>[1]:
 </pre></div>
 </div>
-<div class="input_area highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="kn">import</span><span class="w"> </span><span class="nn">os</span><span class="o">,</span><span class="w"> </span><span class="nn">sys</span><span class="o">,</span><span class="w"> </span><span class="nn">time</span><span class="o">,</span><span class="w"> </span><span class="nn">subprocess</span><span class="o">,</span><span class="w"> </span><span class="nn">warnings</span>
+<div class="input_area highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="o">%</span><span class="k">matplotlib</span> inline
+<span class="kn">import</span><span class="w"> </span><span class="nn">os</span><span class="o">,</span><span class="w"> </span><span class="nn">sys</span><span class="o">,</span><span class="w"> </span><span class="nn">time</span><span class="o">,</span><span class="w"> </span><span class="nn">subprocess</span><span class="o">,</span><span class="w"> </span><span class="nn">warnings</span>
 <span class="kn">from</span><span class="w"> </span><span class="nn">pathlib</span><span class="w"> </span><span class="kn">import</span> <span class="n">Path</span>
 
 <span class="kn">import</span><span class="w"> </span><span class="nn">numpy</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="nn">np</span>
@@ -762,7 +748,7 @@ Lost events = 0 (should be 0 for simulator)
 <section id="8.-Data-Visualisation">
 <h2>8. Data Visualisation<a class="headerlink" href="#8.-Data-Visualisation" title="Link to this heading">#</a></h2>
 <p>Plot a single frame and the integrated hit map across all frames. Chip boundaries (every 32 pixels) are drawn as white lines.</p>
-<div class="nbinput nblast docutils container">
+<div class="nbinput docutils container">
 <div class="prompt highlight-none notranslate"><div class="highlight"><pre><span></span>[8]:
 </pre></div>
 </div>
@@ -794,6 +780,13 @@ Lost events = 0 (should be 0 for simulator)
 <span class="n">plt</span><span class="o">.</span><span class="n">tight_layout</span><span class="p">()</span>
 <span class="n">plt</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
 <br/></pre></div>
+</div>
+</div>
+<div class="nboutput nblast docutils container">
+<div class="prompt empty docutils container">
+</div>
+<div class="output_area docutils container">
+<img alt="../_images/notebooks_germ_acquisition_16_0.png" src="../_images/notebooks_germ_acquisition_16_0.png" />
 </div>
 </div>
 <section id="Per-frame-statistics">
@@ -832,6 +825,13 @@ Lost events = 0 (should be 0 for simulator)
 <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s1">&#39;Std  hits/frame : </span><span class="si">{</span><span class="n">hits_per_frame</span><span class="o">.</span><span class="n">std</span><span class="p">()</span><span class="si">:</span><span class="s1">.1f</span><span class="si">}</span><span class="s1">&#39;</span><span class="p">)</span>
 <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s1">&#39;Total lost events: </span><span class="si">{</span><span class="n">lost_events</span><span class="o">.</span><span class="n">sum</span><span class="p">()</span><span class="si">}</span><span class="s1">&#39;</span><span class="p">)</span>
 <br/></pre></div>
+</div>
+</div>
+<div class="nboutput docutils container">
+<div class="prompt empty docutils container">
+</div>
+<div class="output_area docutils container">
+<img alt="../_images/notebooks_germ_acquisition_18_0.png" src="../_images/notebooks_germ_acquisition_18_0.png" />
 </div>
 </div>
 <div class="nboutput nblast docutils container">
@@ -957,6 +957,13 @@ Read via tiled  : shape=(10, 384, 4096)  hits=1,200
 <br/></pre></div>
 </div>
 </div>
+<div class="nboutput docutils container">
+<div class="prompt empty docutils container">
+</div>
+<div class="output_area docutils container">
+<img alt="../_images/notebooks_germ_acquisition_23_0.png" src="../_images/notebooks_germ_acquisition_23_0.png" />
+</div>
+</div>
 <div class="nboutput nblast docutils container">
 <div class="prompt empty docutils container">
 </div>
@@ -1022,15 +1029,6 @@ Equivalent HTTP client code (requires running tiled server):
         <p class="prev-next-subtitle">previous</p>
         <p class="prev-next-title">ZMQ-in / UDP-out Simulator</p>
       </div>
-    </a>
-    <a class="right-next"
-       href="../screenshots.html"
-       title="next page">
-      <div class="prev-next-info">
-        <p class="prev-next-subtitle">next</p>
-        <p class="prev-next-title">Acquisition Workflow Screenshots</p>
-      </div>
-      <i class="fa-solid fa-angle-right"></i>
     </a>
 </div>
                 </footer>
