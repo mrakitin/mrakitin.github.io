@@ -346,6 +346,7 @@ tr:last-child td { border-bottom: none; }
   width: 100%; height: 200px;
   background: #f8fafc; display: block;
   cursor: grab;
+  position: relative;  /* anchors 3Dmol's absolutely-positioned canvas */
 }
 .mol-canvas:active { cursor: grabbing; }
 .mol-info {
