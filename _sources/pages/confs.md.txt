@@ -9,6 +9,18 @@
 
 ## 2026
 
+**<span class="cv-date">Sep 2026</span>**
+*Status Update: Blop – Bluesky-based Optimization Package*
+[🔗](https://indico.xfel.eu/event/2/page/15-bluesky-satellite-session),
+Bluesky Satellite Session, NOBUGS 2026 (September 21–27, 2026),
+European XFEL, Schenefeld (Hamburg), Germany
+
+**<span class="cv-date">Aug 2026</span>**
+*NSLS-II Status Update*
+[🔗](https://indico.slac.stanford.edu/event/10183/),
+ILLUMINE All-Hands 2026 (August 18–19, 2026),
+SLAC National Accelerator Laboratory, Menlo Park, CA
+
 **<span class="cv-date">Jul 2026</span>**
 **<span class="cv-red">Invited talk</span>** — *Bluesky and Photon Beamline Integration Challenges in
 AI/ML-Driven Experimental Facilities*
@@ -48,6 +60,14 @@ Brookhaven National Laboratory, Upton, NY
 [🔗](https://indico.desy.de/event/49932/contributions/193630/),
 ROCK-IT Bluesky Workshop,
 Deutsches Elektronen-Synchrotron (DESY), Hamburg, Germany
+
+**<span class="cv-date">Apr 2025</span>**
+*Bridging Simulation and Reality: EPICS controls for xrt
+Beamline Digital Twins* (lightning talk, co-author; presented by R. Chernikov)
+[🔗](https://indico.stfc.ac.uk/event/1233/contributions/8408/)
+[https://indico.stfc.ac.uk/event/1233/contributions/8408/attachments/2775/4914/chernikov_xrt-epics-blop-2025.pptx](https://indico.stfc.ac.uk/event/1233/contributions/8408/attachments/2775/4914/chernikov_xrt-epics-blop-2025.pptx),
+EPICS Collaboration Meeting (April 7–11, 2025),
+ISIS Neutron and Muon Source, Didcot, UK
 
 **<span class="cv-date">Feb 2025</span>**
 *Bluesky – status and future plans*,
